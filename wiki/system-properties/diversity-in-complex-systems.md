@@ -57,3 +57,5 @@ Diversity refers to the variety and heterogeneity of component types and relatio
 - [Bureaucracy as Extended Cognition](../complex-problems/bureaucracy-as-extended-cognition.md) -- bureaucratic standardization can reduce cognitive diversity by homogenizing how agents think and act
 - [Behavior as Emergent Property](../agents-and-dynamics/behavior-as-emergent-property.md) -- behavioral flexibility is diversity at individual level
 - [Learning as Reorganization](../learning/learning-as-reorganization.md) -- diversity drives reorganization
+- [Adaptation](adaptation.md) -- diversity provides the raw material from which adaptive responses emerge
+- [Resilience](resilience.md) -- diverse systems are more resilient because they have multiple response options

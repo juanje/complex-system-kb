@@ -19,6 +19,8 @@ Core characteristics and properties of complex systems.
 - [Sensitivity to Initial Conditions](system-properties/sensitivity-to-initial-conditions.md) — Small differences leading to large effects
 - [Tipping Points](system-properties/tipping-points.md) — Phase transitions at critical thresholds
 - [Variability in Complex Systems](system-properties/variability-in-complex-systems.md) — Behavioral differences as a health indicator
+- [Adaptation](system-properties/adaptation.md) — Self-organized structural change in response to environment
+- [Resilience](system-properties/resilience.md) — Capacity to absorb perturbations without losing function
 
 ## Agents and Dynamics
 
@@ -80,6 +82,7 @@ How to learn about and from complex systems.
 - [Learning About Complex Systems](learning/learning-about-complex-systems.md) — Analysis vs. intuition approaches
 - [Learning as Reorganization](learning/learning-as-reorganization.md) — Learning as attractor modification, not information storage
 - [Metastability](learning/metastability.md) — Temporary equilibrium with potential energy for change
+- [Embodied Cognition](learning/embodied-cognition.md) — Cognition as emergent property of the agent-environment system
 
 ## Authors
 
@@ -94,6 +97,7 @@ Key thinkers referenced across the knowledge base.
 ## Glossary
 
 - **ABM** — Agent-Based Model. Computer simulation with individually represented agents. [→](agents-and-dynamics/agent-based-models.md)
+- **Adaptation** — Self-organized, irreversible structural change in response to environmental conditions. [→](system-properties/adaptation.md)
 - **Affordance** — Relational opportunity for action emerging from agent-environment fit. [→](health-and-complexity/ecological-psychology.md)
 - **Agent** — Autonomous entity that perceives, processes, and decides. [→](agents-and-dynamics/agents.md)
 - **Attractor** — State toward which a system tends to evolve over time. [→](system-properties/attractors.md)
@@ -105,6 +109,7 @@ Key thinkers referenced across the knowledge base.
 - **Dynamic Equilibrium** — Constant change maintaining relative balance. [→](agents-and-dynamics/dynamic-equilibrium.md)
 - **Emergence** — Properties arising from relationships, not from individual components. [→](system-properties/emergence.md)
 - **Edge of Chaos** — Band between stability and chaos where adaptation occurs. [→](learning/edge-of-chaos.md)
+- **Embodied Cognition** — Cognition as emergent property of the brain-body-environment system, not brain-bound computation. [→](learning/embodied-cognition.md)
 - **Extended Cognition** — Cognitive processes extending beyond the brain into tools and environment. [→](health-and-complexity/ecological-psychology.md)
 - **Externality** — Effect on non-participants in an action or decision. [→](agents-and-dynamics/externality.md)
 - **Feedback** — Output redirected as input for system self-regulation. [→](system-properties/feedback.md)
@@ -115,6 +120,7 @@ Key thinkers referenced across the knowledge base.
 - **Metastability** — Temporary equilibrium with potential energy for change. [→](learning/metastability.md)
 - **Negative Feedback** — Feedback that corrects/stabilizes behavior toward equilibrium. [→](system-properties/feedback.md)
 - **Path Dependence** — Prior decisions irreversibly constraining future possibilities. [→](system-properties/sensitivity-to-initial-conditions.md)
+- **Resilience** — Capacity to absorb perturbations and maintain functional organization. [→](system-properties/resilience.md)
 - **Positive Feedback** — Feedback that reinforces/amplifies current behavior. [→](system-properties/feedback.md)
 - **Slack** — Intentional margin for absorbing unexpected perturbations. [→](complex-problems/slack-buffer.md)
 - **Threshold** — Critical value triggering state or behavior change. [→](agents-and-dynamics/threshold.md)

@@ -29,3 +29,4 @@ Perception-action coupling is the fundamental principle that agents react to wha
 - [Play](../play-and-games/play-in-complex-systems.md) — Play provides a safe environment for calibrating the perception-action coupling through varied, consequence-free interaction.
 - [Technique vs. Skill](../complex-problems/technique-vs-skill.md) — foundation of context-sensitive action
 - [Ecological Psychology](../health-and-complexity/ecological-psychology.md) — affordances are the environmental counterpart
+- [Embodied Cognition](../learning/embodied-cognition.md) — the perception-action loop is the fundamental mechanism through which embodied cognition operates

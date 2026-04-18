@@ -35,3 +35,4 @@ Slack is intentional margin or looseness left in resources -- time, budget, spac
 - [Fragile vs. Volatile Systems](../learning/fragile-vs-volatile-systems.md) -- buffers are what volatile systems lack
 - [Edge of Chaos](../learning/edge-of-chaos.md) -- the 10-20% slack converges with the 85% rule
 - [Metastability](../learning/metastability.md) -- metastability requires slack
+- [Resilience](../system-properties/resilience.md) -- slack is the practical mechanism that provides resilience against unexpected perturbations

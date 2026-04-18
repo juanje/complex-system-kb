@@ -19,3 +19,4 @@ Risk analyst and essayist who created the concepts of "Black Swan" events and "A
 - [Black Swan Events](../system-properties/black-swan-events.md) -- creator of the concept
 - [Attractors](../system-properties/attractors.md) -- antifragility is distinguished from resilience through the lens of multiple attractors and escape energy
 - [Non-linearity](../system-properties/non-linearity.md) -- Black Swans arise from the non-linear dynamics inherent to complex systems
+- [Resilience](../system-properties/resilience.md) -- antifragility extends resilience to systems that grow stronger from perturbation

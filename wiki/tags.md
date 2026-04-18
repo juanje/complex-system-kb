@@ -27,6 +27,7 @@
 - [Ecological Psychology](health-and-complexity/ecological-psychology.md)
 - [Health as a Complex Problem](health-and-complexity/health-as-complex-problem.md)
 - [Edge of Chaos](learning/edge-of-chaos.md)
+- [Embodied Cognition](learning/embodied-cognition.md)
 - [Fragile vs. Volatile Systems](learning/fragile-vs-volatile-systems.md)
 - [How Complex Systems Learn](learning/how-complex-systems-learn.md)
 - [Learning About Complex Systems](learning/learning-about-complex-systems.md)
@@ -34,6 +35,7 @@
 - [Metastability](learning/metastability.md)
 - [Game Design for Complex Systems](play-and-games/game-design-for-complex-systems.md)
 - [Play in Complex Systems](play-and-games/play-in-complex-systems.md)
+- [Adaptation](system-properties/adaptation.md)
 - [Attractors](system-properties/attractors.md)
 - [Black Swan Events](system-properties/black-swan-events.md)
 - [Complex Systems](system-properties/complex-systems.md)
@@ -44,6 +46,7 @@
 - [Interconnection and Interdependence](system-properties/interconnection-and-interdependence.md)
 - [Multilevel Organization](system-properties/multilevel-organization.md)
 - [Non-linearity](system-properties/non-linearity.md)
+- [Resilience](system-properties/resilience.md)
 - [Sensitivity to Initial Conditions](system-properties/sensitivity-to-initial-conditions.md)
 - [Tipping Points](system-properties/tipping-points.md)
 - [Variability in Complex Systems](system-properties/variability-in-complex-systems.md)
@@ -57,6 +60,7 @@
 - [Strong and Weak Agents](agents-and-dynamics/strong-and-weak-agents.md)
 - [Threshold](agents-and-dynamics/threshold.md)
 - [Metastability](learning/metastability.md)
+- [Adaptation](system-properties/adaptation.md)
 - [Attractors](system-properties/attractors.md)
 - [Feedback](system-properties/feedback.md)
 - [Sensitivity to Initial Conditions](system-properties/sensitivity-to-initial-conditions.md)
@@ -69,6 +73,7 @@
 - [Technique vs. Skill](complex-problems/technique-vs-skill.md)
 - [Complexity as a Lens](learning/complexity-as-a-lens.md)
 - [Edge of Chaos](learning/edge-of-chaos.md)
+- [Embodied Cognition](learning/embodied-cognition.md)
 - [How Complex Systems Learn](learning/how-complex-systems-learn.md)
 - [Learning About Complex Systems](learning/learning-about-complex-systems.md)
 - [Learning as Reorganization](learning/learning-as-reorganization.md)
@@ -98,6 +103,16 @@
 - [Skill Development](complex-problems/skill-development.md)
 - [Technique vs. Skill](complex-problems/technique-vs-skill.md)
 
+## [adaptation](system-properties/adaptation.md)
+
+- [Exploration vs. Exploitation](agents-and-dynamics/exploration-vs-exploitation.md)
+- [Edge of Chaos](learning/edge-of-chaos.md)
+- [How Complex Systems Learn](learning/how-complex-systems-learn.md)
+- [Adaptation](system-properties/adaptation.md)
+- [Diversity in Complex Systems](system-properties/diversity-in-complex-systems.md)
+- [Resilience](system-properties/resilience.md)
+- [Variability in Complex Systems](system-properties/variability-in-complex-systems.md)
+
 ## systems-thinking
 
 - [Juanje Ojeda](authors/juanje-ojeda.md)
@@ -114,15 +129,8 @@
 - [Bureaucracy as Extended Cognition](complex-problems/bureaucracy-as-extended-cognition.md)
 - [Linear-Deterministic Thinking](complex-problems/linear-deterministic-thinking.md)
 - [Ecological Psychology](health-and-complexity/ecological-psychology.md)
+- [Embodied Cognition](learning/embodied-cognition.md)
 - [Learning as Reorganization](learning/learning-as-reorganization.md)
-
-## adaptation
-
-- [Exploration vs. Exploitation](agents-and-dynamics/exploration-vs-exploitation.md)
-- [Edge of Chaos](learning/edge-of-chaos.md)
-- [How Complex Systems Learn](learning/how-complex-systems-learn.md)
-- [Diversity in Complex Systems](system-properties/diversity-in-complex-systems.md)
-- [Variability in Complex Systems](system-properties/variability-in-complex-systems.md)
 
 ## health
 
@@ -130,6 +138,13 @@
 - [Todd Hargrove](authors/todd-hargrove.md)
 - [Health as a Complex Problem](health-and-complexity/health-as-complex-problem.md)
 - [Variability in Complex Systems](system-properties/variability-in-complex-systems.md)
+
+## [resilience](system-properties/resilience.md)
+
+- [Nassim Taleb](authors/nassim-taleb.md)
+- [Slack / Buffer](complex-problems/slack-buffer.md)
+- [Fragile vs. Volatile Systems](learning/fragile-vs-volatile-systems.md)
+- [Resilience](system-properties/resilience.md)
 
 ## simulation
 
@@ -148,12 +163,6 @@
 - [Nassim Taleb](authors/nassim-taleb.md)
 - [Fragile vs. Volatile Systems](learning/fragile-vs-volatile-systems.md)
 - [Black Swan Events](system-properties/black-swan-events.md)
-
-## resilience
-
-- [Nassim Taleb](authors/nassim-taleb.md)
-- [Slack / Buffer](complex-problems/slack-buffer.md)
-- [Fragile vs. Volatile Systems](learning/fragile-vs-volatile-systems.md)
 
 ## networks
 

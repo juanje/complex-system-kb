@@ -33,3 +33,4 @@ Complex systems learn through adaptation -- generating functional, self-organize
 - [Learning About Complex Systems](learning-about-complex-systems.md) -- understanding how systems learn is a key outcome of system analysis
 - [Edge of Chaos](edge-of-chaos.md) -- provides conditions for system-level learning
 - [Learning as Reorganization](learning-as-reorganization.md) -- the mechanism underlying how systems learn
+- [Adaptation](../system-properties/adaptation.md) -- learning is the mechanism through which adaptation manifests

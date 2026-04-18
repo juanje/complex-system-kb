@@ -65,3 +65,4 @@ In simple systems, feedback operates as "feedback loops" -- direct, closed circu
 - [Sensitivity to Initial Conditions](sensitivity-to-initial-conditions.md) -- mechanism through which perturbations get amplified or dampened
 - [Variability in Complex Systems](variability-in-complex-systems.md) -- variability depends on well-functioning feedback mechanisms
 - [Bureaucracy as Extended Cognition](../complex-problems/bureaucracy-as-extended-cognition.md) -- co-evolutionary loop is positive feedback at civilizational scale
+- [Resilience](resilience.md) -- negative feedback enables self-correction; positive feedback can amplify perturbations beyond recovery

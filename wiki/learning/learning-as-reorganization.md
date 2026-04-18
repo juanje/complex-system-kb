@@ -62,3 +62,4 @@ Learning is not the accumulation of information but the process by which a compl
 - [../agents-and-dynamics/behavior-as-emergent-property.md](../agents-and-dynamics/behavior-as-emergent-property.md) -- If behavior emerges from organism-environment interaction, then learning is reorganizing that interaction
 - [Bureaucracy as Extended Cognition](../complex-problems/bureaucracy-as-extended-cognition.md) -- tools reorganize cognition
 - [Health as a Complex Problem](../health-and-complexity/health-as-complex-problem.md) -- health change requires reorganization
+- [Embodied Cognition](embodied-cognition.md) -- learning-as-reorganization demonstrates that the learning system is organism + body + environment, not the brain alone

@@ -60,3 +60,4 @@ Bureaucracy is not merely an obstacle but a cognitive technology -- the first te
 - [../learning/learning-as-reorganization.md](../learning/learning-as-reorganization.md) -- Tools (including bureaucracy) reorganize cognition; the medium changes the thought
 - [../agents-and-dynamics/behavior-as-emergent-property.md](../agents-and-dynamics/behavior-as-emergent-property.md) -- Bureaucracy shapes the affordances agents perceive, transforming behavior at the system level
 - [Diversity in Complex Systems](../system-properties/diversity-in-complex-systems.md) -- bureaucratic standardization can reduce cognitive diversity
+- [Embodied Cognition](../learning/embodied-cognition.md) -- bureaucracy extends the embodied cognition principle to civilizational scale

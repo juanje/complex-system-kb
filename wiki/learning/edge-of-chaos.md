@@ -60,3 +60,4 @@ The edge of chaos is the narrow band between total stability and total chaos whe
 - [Behavior as Emergent Property](../agents-and-dynamics/behavior-as-emergent-property.md) -- where behavioral change becomes possible
 - [Culture as Emergent Property](../agents-and-dynamics/culture-as-emergent-property.md) -- cultural change requires edge-of-chaos perturbations
 - [Strong and Weak Agents](../agents-and-dynamics/strong-and-weak-agents.md) -- where inhibition of old patterns meets exploration of new ones
+- [Adaptation](../system-properties/adaptation.md) -- the edge of chaos defines the zone where adaptive reorganization becomes possible

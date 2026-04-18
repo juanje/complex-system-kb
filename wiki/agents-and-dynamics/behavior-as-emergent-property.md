@@ -59,3 +59,4 @@ Behavior does not originate "from within" (brain plans, decides, executes) or "f
 - [../system-properties/diversity-in-complex-systems.md](../system-properties/diversity-in-complex-systems.md) -- Behavioral flexibility is a form of diversity at the individual level
 - [Bureaucracy as Extended Cognition](../complex-problems/bureaucracy-as-extended-cognition.md) -- bureaucracy shapes affordances agents perceive
 - [Health as a Complex Problem](../health-and-complexity/health-as-complex-problem.md) -- health behaviors emerge from co-constitution
+- [Embodied Cognition](../learning/embodied-cognition.md) -- co-constitution of individual and environment is a core expression of embodied cognition

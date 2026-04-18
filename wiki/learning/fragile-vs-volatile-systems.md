@@ -31,3 +31,4 @@ Complex systems can be characterized along a spectrum between two archetypal ext
 - [../complex-problems/slack-buffer.md](../complex-problems/slack-buffer.md) -- Buffers and reserves are what volatile systems lack and fragile systems rely on
 - [learning-about-complex-systems.md](learning-about-complex-systems.md) -- The fragile/volatile distinction is one of the key patterns revealed by system analysis
 - [How Complex Systems Learn](how-complex-systems-learn.md) -- how a system learns determines whether it becomes fragile or volatile
+- [Resilience](../system-properties/resilience.md) -- the fragile-volatile spectrum maps the structural conditions that determine system resilience
