@@ -39,3 +39,4 @@ The balance between exploration and exploitation is regulated by diversity and v
 - [Self-Organization](../agents-and-dynamics/self-organization.md) — Adaptation is self-organized; no central agent designs the system's response
 - [Learning as Reorganization](../learning/learning-as-reorganization.md) — Learning is the mechanism of adaptation: modifying attractors through interaction with the environment
 - [Resilience](resilience.md) — Adaptation builds resilience by maintaining diverse response options; loss of adaptive capacity produces fragility
+- [Embodied Cognition](../learning/embodied-cognition.md) — Embodied cognition enables the real-time adaptive behavior that adaptation requires

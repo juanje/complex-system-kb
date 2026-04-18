@@ -54,3 +54,4 @@ This framing has practical implications for understanding how to approach health
 - [Diversity in Complex Systems](diversity-in-complex-systems.md) -- greater diversity leads to richer emergence
 - [Behavior as Emergent Property](../agents-and-dynamics/behavior-as-emergent-property.md) -- behavior is an emergent property
 - [Bureaucracy as Extended Cognition](../complex-problems/bureaucracy-as-extended-cognition.md) -- bureaucratic capabilities are emergent
+- [Embodied Cognition](../learning/embodied-cognition.md) -- cognition is an emergent property of the brain-body-environment system

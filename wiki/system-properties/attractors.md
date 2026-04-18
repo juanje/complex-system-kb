@@ -79,3 +79,6 @@ In complex systems, attractors are not fixed -- they can change, emerge from rep
 - [Edge of Chaos](../learning/edge-of-chaos.md) -- the comfort zone is a deep attractor; edge of chaos is the zone between attractor basins
 - [Learning as Reorganization](../learning/learning-as-reorganization.md) -- learning modifies attractors; habits persist because they are low-energy states
 - [Metastability](../learning/metastability.md) -- defined relative to attractor depth
+- [Adaptation](adaptation.md) -- adaptation modifies the attractor landscape over time
+- [Resilience](resilience.md) -- multiple shallow attractors provide resilience; few deep attractors produce fragility
+- [Embodied Cognition](../learning/embodied-cognition.md) -- cognitive and behavioral patterns are attractors of the agent-environment system
