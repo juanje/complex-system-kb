@@ -67,3 +67,4 @@ In simple systems, feedback operates as "feedback loops" -- direct, closed circu
 - [Bureaucracy as Extended Cognition](../complex-problems/bureaucracy-as-extended-cognition.md) -- co-evolutionary loop is positive feedback at civilizational scale
 - [Resilience](resilience.md) -- negative feedback enables self-correction; positive feedback can amplify perturbations beyond recovery
 - [Adaptation](adaptation.md) -- feedback loops propagate perturbations and drive adaptive restructuring
+- [Pain as Perception](../health-and-complexity/pain-as-perception.md) -- pain-danger positive feedback loop: perceiving pain as damage increases threat perception, which amplifies the pain signal

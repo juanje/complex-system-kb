@@ -40,3 +40,5 @@ The balance between exploration and exploitation is regulated by diversity and v
 - [Learning as Reorganization](../learning/learning-as-reorganization.md) — Learning is the mechanism of adaptation: modifying attractors through interaction with the environment
 - [Resilience](resilience.md) — Adaptation builds resilience by maintaining diverse response options; loss of adaptive capacity produces fragility
 - [Embodied Cognition](../learning/embodied-cognition.md) — Embodied cognition enables the real-time adaptive behavior that adaptation requires
+- [Epigenetics](../health-and-complexity/epigenetics.md) — Environmental factors activate or silence gene expression, shaping adaptation at the cellular level
+- [Movement as Nutrition](../health-and-complexity/movement-as-nutrition.md) — Cell-level adaptation is local and use-dependent, requiring diverse movement for whole-body health

@@ -1,7 +1,7 @@
 ---
 tags: [learning, complexity, cognition]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Learning as Reorganization
@@ -13,6 +13,12 @@ Learning is not the accumulation of information but the process by which a compl
 - **The storage metaphor fails for complex skills.** If learning were accumulation, then knowing three books about negotiation should make you a good negotiator. But knowing *about* negotiation and being able to negotiate are different things -- the former is information, the latter is a reorganized system of perception, action, and judgment. The model of learning-as-accumulation fails precisely where complex skills are concerned.
 - **Performance and learning are distinct phenomena.** Blocked repetition and constant correction improve short-term performance but degrade long-term learning. Varied practice and desirable difficulties worsen immediate performance but produce more robust, transferable learning. This paradox only makes sense if learning is reorganization: identical repetition consolidates existing attractors, while variation generates new ones.
 - **Error is not failure but a reorganization signal.** Information alone does not change a system. Identical repetition consolidates existing attractors while variation generates new ones. Error signals that the system is being sufficiently perturbed to reorganize -- it is the mechanism, not an obstacle to be eliminated.
+
+### The neural mechanism: Hebbian learning
+
+- **"Neurons that fire together, wire together."** Repeated co-activation of neurons creates and strengthens neural pathways -- the physical substrate of learning. The inverse also holds: neurons that stop co-activating weaken their connections, explaining why unused learning fades.
+- **Frequency matters more than intensity.** The nervous system adapts better to frequent stimuli than to intense, punctual ones: a single intensive session produces visible short-term improvement, but the learning does not persist. Memory consolidation from short-term to long-term is metabolically expensive and requires time, energy, and sleep -- the brain needs repeated-use signals to invest in this costly transfer.
+- **Cramming fails because it bypasses consolidation.** Studying the night before or doing one marathon training session produces short-term performance gains but fails at long-term consolidation. Spaced, frequent, shorter sessions (one pull-up 4-5 times daily vs. one weekly max-rep session) produce greater and more lasting results -- for both cognitive and motor learning.
 
 ### Repetition without repetition
 
@@ -65,3 +71,5 @@ Learning is not the accumulation of information but the process by which a compl
 - [Embodied Cognition](embodied-cognition.md) -- learning-as-reorganization demonstrates that the learning system is organism + body + environment, not the brain alone
 - [Adaptation](../system-properties/adaptation.md) -- learning is the mechanism through which adaptation manifests
 - [Degrees of Freedom Problem](../complex-problems/degrees-of-freedom-problem.md) -- Bernstein's "repetition without repetition" is learning to solve the degrees of freedom problem in context
+- [Learned Pain](../health-and-complexity/learned-pain.md) -- unlearning chronic pain is a concrete case of reorganization through progressive re-exposure
+- [Sensation vs. Perception](../health-and-complexity/sensation-vs-perception.md) -- perception has a learning component; quality of perceptions can be improved through reorganization

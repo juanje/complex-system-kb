@@ -37,3 +37,4 @@ Play is a free, pleasurable, exploratory activity -- bounded in time and space, 
 - [Juanje Ojeda](../authors/juanje-ojeda.md) -- uses play and games as tools for developing skills
 - [Skill Development](../complex-problems/skill-development.md) -- games as safe environments for skill development
 - [Edge of Chaos](../learning/edge-of-chaos.md) -- play creates controlled edge-of-chaos conditions
+- [Rafe Kelley](../authors/rafe-kelley.md) -- founder of Evolve Move Play; teaches progressive play-fighting as a training method

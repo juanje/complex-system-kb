@@ -1,7 +1,7 @@
 ---
 tags: [health, complexity]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Health as a Complex Problem
@@ -43,3 +43,13 @@ Health is not a simple or merely complicated problem -- it is a complex one. The
 - [Learning as Reorganization](../learning/learning-as-reorganization.md) -- health change requires reorganization of the body-environment system's attractors, not just fixing a broken part
 - [Behavior as Emergent Property](../agents-and-dynamics/behavior-as-emergent-property.md) -- health behaviors emerge from individual-environment co-constitution, not from decisions made in isolation
 - [Edge of Chaos](../learning/edge-of-chaos.md) -- hormesis is a biological manifestation
+- [Pain as Perception](pain-as-perception.md) -- pain is a brain construction, not a direct readout of tissue damage
+- [Learned Pain](learned-pain.md) -- chronic pain as a maladaptive attractor pattern
+- [Protective Brain Mechanisms](protective-brain-mechanisms.md) -- the brain's conservative strategies for protecting the body
+- [Proprioception](proprioception.md) -- the sensory system that provides raw data for movement quality
+- [Body Map](body-map.md) -- use-dependent cortical representation that governs movement control
+- [Sensation vs. Perception](sensation-vs-perception.md) -- pain, fatigue, and hunger are perceptions, not direct physiological readouts
+- [Movement as Nutrition](movement-as-nutrition.md) -- movement variety as nutritional diversity for cellular health
+- [Symptoms as Adaptive Responses](symptoms-as-adaptive-responses.md) -- pain, fever, and inflammation as adaptive features, not errors
+- [Epigenetics](epigenetics.md) -- gene expression shaped by environment, not genetic destiny
+- [Environment Design](../complex-problems/environment-design.md) -- changing the physical environment as a complexity-aware health intervention

@@ -38,3 +38,4 @@ Ecological psychology studies the organism-environment system as an indivisible 
 - [Behavior as Emergent Property](../agents-and-dynamics/behavior-as-emergent-property.md) -- Ecological psychology provides the theoretical foundation for understanding behavior as emergent from the individual-environment system
 - [Learning as Reorganization](../learning/learning-as-reorganization.md) -- Gibson's ecological perception is a key pillar of learning-as-reorganization, since learning a skill is learning to perceive-and-act as a single unit
 - [Embodied Cognition](../learning/embodied-cognition.md) -- ecological psychology provides the theoretical foundation for the embodied cognition synthesis
+- [Environment Design](../complex-problems/environment-design.md) -- practical application of affordance theory: changing the physical environment changes the affordance landscape

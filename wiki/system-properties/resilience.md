@@ -3,7 +3,7 @@ tags: [complexity, resilience, adaptation]
 origin: foundational
 synthesis_sources: [complex-problems/slack-buffer.md, learning/fragile-vs-volatile-systems.md, system-properties/diversity-in-complex-systems.md, system-properties/variability-in-complex-systems.md, system-properties/feedback.md]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Resilience
@@ -17,6 +17,7 @@ Resilience is the capacity of a complex system to absorb perturbations and maint
 - **Resilience requires slack.** Intentional margin — in time, resources, energy, space — provides room for the system to self-organize in response to perturbation. Over-optimization eliminates slack, making the system efficient under expected conditions but catastrophically fragile under unexpected ones.
 - **Resilience is not the same as stability.** Stable systems resist change; resilient systems absorb it. A volatile system (many shallow attractors, high diversity) may be highly unstable yet highly resilient, because it can shift rapidly between states without breaking. A fragile system (few deep attractors, low diversity) may be very stable under normal conditions yet catastrophically non-resilient when pushed past its threshold.
 - **Antifragility goes beyond resilience.** Nassim Taleb distinguishes three responses to perturbation: fragile systems break, resilient systems recover, antifragile systems get stronger. Antifragility is what hormesis, the edge-of-chaos principle, and adaptive variability describe — systems that use perturbation as fuel for improvement rather than merely surviving it.
+- **The human body is antifragile, not fragile.** Humans hold a learned (not biological) belief that they are fragile — that a "bad gesture" or "wrong posture" can cause permanent damage. This belief is itself counterproductive: avoiding stressors produces the fragility we fear. Orthopedic solutions, prophylactic analgesics, and ergonomic over-protection weaken adaptive capacity. Gradual exposure with recovery time is the key — the same principle operating in cold tolerance, heat adaptation, and strength training.
 
 ## In the wiki
 
@@ -33,3 +34,4 @@ Resilience is the capacity of a complex system to absorb perturbations and maint
 - [Adaptation](adaptation.md) — Adaptation builds resilience by maintaining diverse response options over time
 - [Edge of Chaos](../learning/edge-of-chaos.md) — The zone where perturbation strengthens rather than breaks the system — the mechanism behind antifragility
 - [Dynamic Equilibrium](../agents-and-dynamics/dynamic-equilibrium.md) — Resilient systems maintain equilibrium through constant adjustment, not through rigidity
+- [Symptoms as Adaptive Responses](../health-and-complexity/symptoms-as-adaptive-responses.md) — Pain, fever, and inflammation are adaptive responses that support system resilience, not errors to suppress

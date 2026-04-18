@@ -48,6 +48,7 @@ Approaching, understanding, and navigating complex problems.
 - [Complex Problems](complex-problems/complex-problems.md) — Dynamic problems that change with every intervention
 - [Degrees of Freedom Problem](complex-problems/degrees-of-freedom-problem.md) — Bernstein's motor control challenge solved through self-organization
 - [Direction Over Destination](complex-problems/direction-over-destination.md) — Navigate by direction, not fixed goals, in dynamic problem spaces
+- [Environment Design](complex-problems/environment-design.md) — Changing physical environment as complexity-aware intervention
 - [Fitness Landscape](complex-problems/fitness-landscape.md) — Mountain metaphor for solution spaces
 - [Interventions in Complex Systems](complex-problems/interventions-in-complex-systems.md) — Iterative, adaptive actions to influence systems
 - [Invariants](complex-problems/invariants.md) — Constant properties as predictable anchors
@@ -56,6 +57,7 @@ Approaching, understanding, and navigating complex problems.
 - [Skill Development](complex-problems/skill-development.md) — Building adaptive capacity for complex problems
 - [Slack / Buffer](complex-problems/slack-buffer.md) — Intentional margin for absorbing perturbations
 - [System Influence Parameters](complex-problems/system-influence-parameters.md) — Objectives, focus, limits, and constraints as levers
+- [Environment Design](complex-problems/environment-design.md) — Modifying affordances rather than relying on willpower
 - [Technique vs. Skill](complex-problems/technique-vs-skill.md) — Fixed solutions vs. adaptive capacity
 
 ## Play and Games
@@ -70,8 +72,17 @@ Games, play, and simulation as tools for working with complex systems.
 
 Applying complexity thinking to health, movement, and the human body.
 
+- [Body Map](health-and-complexity/body-map.md) — Use-dependent cortical body representation (homunculus)
 - [Ecological Psychology](health-and-complexity/ecological-psychology.md) — Organism-environment as indivisible unit
+- [Epigenetics](health-and-complexity/epigenetics.md) — Gene expression modulated by environment, not genetic destiny
 - [Health as a Complex Problem](health-and-complexity/health-as-complex-problem.md) — Why health requires complexity-aware approaches
+- [Learned Pain](health-and-complexity/learned-pain.md) — Chronic pain as automated attractor pattern
+- [Movement as Nutrition](health-and-complexity/movement-as-nutrition.md) — Movement variety as nutritional diversity for cellular health
+- [Pain as Perception](health-and-complexity/pain-as-perception.md) — Pain as brain construction, not tissue damage readout
+- [Proprioception](health-and-complexity/proprioception.md) — Body position sensory system for movement quality
+- [Protective Brain Mechanisms](health-and-complexity/protective-brain-mechanisms.md) — Conservative survival strategies: pain, fatigue, force reduction
+- [Sensation vs. Perception](health-and-complexity/sensation-vs-perception.md) — Raw sensory data vs brain's constructed interpretation
+- [Symptoms as Adaptive Responses](health-and-complexity/symptoms-as-adaptive-responses.md) — Pain, fever, and inflammation as purposeful system features
 
 ## Learning About Complexity
 
@@ -94,8 +105,10 @@ Key thinkers referenced across the knowledge base.
 - [Edward Lorenz](authors/edward-lorenz.md) — Butterfly effect and chaos theory
 - [Eliyahu Goldratt](authors/eliyahu-goldratt.md) — Theory of Constraints and bottleneck analysis
 - [Juanje Ojeda](authors/juanje-ojeda.md) — Blog author; complexity applied to health and movement
+- [Katy Bowman](authors/katy-bowman.md) — Movement-as-nutrition framework and biomechanics
 - [Nassim Taleb](authors/nassim-taleb.md) — Black Swans and Antifragility
 - [Nikolai Bernstein](authors/nikolai-bernstein.md) — Motor control and movement variability
+- [Rafe Kelley](authors/rafe-kelley.md) — Movement education through play-fighting and games
 - [Scott E. Page](authors/scott-e-page.md) — Diversity and Complexity
 - [Todd Hargrove](authors/todd-hargrove.md) — Movement science and complexity
 
