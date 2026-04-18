@@ -1,0 +1,52 @@
+---
+tags: [complexity, dynamics]
+created: 2026-04-18
+updated: 2026-04-18
+---
+
+# Feedback
+
+Feedback is a process in which a system's output is redirected back as input, allowing the system to adjust, adapt, and ultimately self-regulate in response to changing conditions. It is not merely amplification or reduction of a signal -- it requires a mechanism that redirects the system's output back to serve as input in the next cycle. Without this loop-closing mechanism, it is just a transformation, not feedback. There are four basic components: input, output, the mechanism connecting output back to input, and the adjustment/transformation mechanism.
+
+## Key points
+- It is easy to confuse a feedback loop with an adjustment mechanism. An amplifier increases volume but does not feed output back as input; a car accelerator amplifies speed but the speed is not used as input to the pedal. True feedback requires the loop to close.
+- In simple systems, feedback operates as direct closed loops with a single input-output cycle; in complex systems, it operates as interconnected processes where multiple feedback paths, inputs, adjustment mechanisms, and outputs interact before information returns to the system. The result is emergent behavior that no single component defines.
+- "Positive" does not mean good and "negative" does not mean bad. Positive feedback reinforces the direction the system is already going (amplification); negative feedback opposes the current direction to bring the system back toward equilibrium (stabilization). Both are essential for system function.
+- Feedback mechanisms are closely related to attractors: negative feedback maintains the system in its attractor (stabilizes), while positive feedback can push the system away from the attractor or toward a tipping point.
+
+## Positive feedback
+
+Positive feedback reinforces or amplifies the system's current behavior, accelerating the system or amplifying the signal. It can reinforce both virtuous and vicious cycles. The typical effect is acceleration or amplification, which can be beneficial (compound interest, growing confidence) or harmful (escalating panic, deepening addiction).
+
+- Snowball effect: a snowball rolling downhill collects more snow, growing larger and faster, which lets it collect even more snow.
+- Self-confidence cycle (virtuous): more confidence leads to trying more new things, which reinforces confidence further.
+- Self-confidence cycle (vicious): low confidence leads to avoiding new things, which further reduces the sense of capability.
+- Compound interest: earned interest is added to principal, increasing the base for future interest calculations, producing exponential growth.
+
+## Negative feedback
+
+Negative feedback corrects or reduces the system's current behavior, stabilizing the system or reducing the signal. It is the primary mechanism for maintaining homeostasis in biological systems.
+
+- Thermostat regulation: if temperature is too high, air conditioning activates to lower it; if too low, heating activates to raise it.
+- Blood glucose regulation: when glucose rises after eating, beta cells in the pancreas release insulin to help cells absorb glucose, lowering blood sugar; when glucose drops, alpha cells release glucagon to stimulate glucose release from the liver.
+
+## Feedback in complex vs. simple systems
+
+In simple systems, feedback operates as "feedback loops" -- direct, closed circuits where output goes straight back to input. In complex systems, feedback operates as "feedback processes" -- multiple interacting loops with diverse inputs, several adjustment mechanisms that sometimes combine, and multiple outputs feeding back into the system. The global output arises from interactions among the individual feedback mechanisms, producing emergent behavior.
+
+- A thermostat in a single room is a simple system with two direct feedback loops (one for heating, one for cooling).
+- A house with many interconnected rooms, each with its own thermostat: adjustments in one room affect neighboring rooms because air circulates, creating interacting feedback processes that produce a stable global temperature (~25C) but with more local variation.
+- A beehive: each bee has its own internal "thermostat" and adjusts by moving closer/farther from neighbors and changing wing-beat speed; the hive's stable global temperature emerges from the interactions of thousands of individual feedback processes, not from any central controller -- a prime example of emergent behavior through distributed feedback.
+
+## Examples
+- A thermostat detects room temperature and uses that information to activate heating or cooling to maintain a target temperature -- the temperature (output) is fed back as input to the adjustment decision.
+- Social media interaction: giving a "like" or comment provides information back to the creator about their output, which they can use to adjust future content.
+- A shoemaker reinvesting profits (output) into better materials and tools (input) to produce more shoes -- here the feedback medium is money rather than information.
+- Body thermoregulation: negative feedback (sweating, vasodilation when hot; shivering, vasoconstriction when cold) maintains the 36.5C attractor; positive feedback (fever) deliberately pushes temperature away from the attractor to fight pathogens.
+
+## Connections
+- [Attractors](attractors.md) -- negative feedback maintains systems in their attractors while positive feedback can push systems between attractors
+- [Emergence](emergence.md) -- feedback processes in complex systems produce emergent behavior that no single component defines
+- [Non-linearity](non-linearity.md) -- feedback loops can amplify small changes into large effects, creating non-linear dynamics
+- [Diversity in Complex Systems](diversity-in-complex-systems.md) -- positive feedback on diversity generates exponentially more combinations, while feedback can also reduce diversity through homogenization
+- [Tipping Points](tipping-points.md) -- positive feedback can drive a system toward tipping points by amplifying changes beyond a threshold
