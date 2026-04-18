@@ -32,7 +32,7 @@ Slack is intentional margin or looseness left in resources -- time, budget, spac
 - [Diversity](../system-properties/diversity-in-complex-systems.md) -- variability in components is a form of systemic slack
 - [Fitness Landscape](fitness-landscape.md) -- maintaining margin to navigate shifting terrain
 - [System Influence Parameters](system-influence-parameters.md) -- a form of limit management preserving adaptive capacity
-- [Fragile vs. Volatile Systems](../learning/fragile-vs-volatile-systems.md) -- buffers are what volatile systems lack
+- [Fragile vs. Volatile Systems](../learning/fragile-vs-volatile-systems.md) -- volatile systems are highly optimized with no buffers, making small perturbations cascade into large events
 - [Edge of Chaos](../learning/edge-of-chaos.md) -- the 10-20% slack converges with the 85% rule
 - [Degrees of Freedom Problem](degrees-of-freedom-problem.md) -- movement variability functions as biological slack in solving motor control
 - [Metastability](../learning/metastability.md) -- metastability requires slack
