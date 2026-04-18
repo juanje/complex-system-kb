@@ -46,3 +46,4 @@ Both implement the same principle from complexity science: exposing a system to 
 - [Nikolai Bernstein](../authors/nikolai-bernstein.md) -- blacksmith study is empirical evidence for adaptive variability
 - [Adaptation](adaptation.md) -- variability is an indicator of adaptive capacity
 - [Resilience](resilience.md) -- healthy variability signals active regulatory mechanisms; low variability signals fragility
+- [Degrees of Freedom Problem](../complex-problems/degrees-of-freedom-problem.md) -- movement variability is the functional signature of how the body solves the degrees of freedom problem

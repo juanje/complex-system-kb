@@ -32,3 +32,4 @@ Across this wiki, a recurring pattern emerges: cognition is not a computation th
 - [Emergence](../system-properties/emergence.md) — Cognition is an emergent property that cannot be reduced to brain activity alone
 - [Adaptation](../system-properties/adaptation.md) — Embodied cognition is what enables real-time adaptive behavior in complex environments
 - [Calibration](../play-and-games/calibration.md) — The process of tuning the embodied cognitive system through practice in context
+- [Andy Clark](../authors/andy-clark.md) — His extended mind thesis is foundational to understanding cognition as distributed across brain, body, and environment

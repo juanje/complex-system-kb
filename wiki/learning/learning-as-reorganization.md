@@ -64,3 +64,4 @@ Learning is not the accumulation of information but the process by which a compl
 - [Health as a Complex Problem](../health-and-complexity/health-as-complex-problem.md) -- health change requires reorganization
 - [Embodied Cognition](embodied-cognition.md) -- learning-as-reorganization demonstrates that the learning system is organism + body + environment, not the brain alone
 - [Adaptation](../system-properties/adaptation.md) -- learning is the mechanism through which adaptation manifests
+- [Degrees of Freedom Problem](../complex-problems/degrees-of-freedom-problem.md) -- Bernstein's "repetition without repetition" is learning to solve the degrees of freedom problem in context

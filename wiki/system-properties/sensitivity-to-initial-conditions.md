@@ -42,3 +42,4 @@ Prior decisions and events constrain future possibilities in an irreversible way
 - [Black Swan Events](black-swan-events.md) -- cascading amplification mechanism behind many black swans
 - [Complex vs. Complicated](complex-vs-complicated.md) -- explains why same approach yields different results
 - [Variability in Complex Systems](variability-in-complex-systems.md) -- variability means small differences lead to appropriately different responses
+- [Edward Lorenz](../authors/edward-lorenz.md) -- discovered the phenomenon and coined the butterfly effect metaphor

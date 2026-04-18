@@ -52,3 +52,5 @@ Time amplifies all three: as interactions accumulate and new emergent behaviors 
 - [Multilevel Organization](multilevel-organization.md) -- each level introduces its own non-linear interactions
 - [Variability in Complex Systems](variability-in-complex-systems.md) -- variability is both product and driver of non-linearity
 - [Metastability](../learning/metastability.md) -- metastable transitions are non-linear
+- [Edward Lorenz](../authors/edward-lorenz.md) -- discovered how non-linear dynamics produce sensitivity to initial conditions
+- [Eliyahu Goldratt](../authors/eliyahu-goldratt.md) -- bottlenecks are a manifestation of non-linear relationships between components

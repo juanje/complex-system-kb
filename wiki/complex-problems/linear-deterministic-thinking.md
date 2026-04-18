@@ -35,3 +35,5 @@ Linear-deterministic thinking is the cognitive tendency to apply proportional, p
 - [Emergence](../system-properties/emergence.md) -- the mechanism that creates behaviors unpredictable from component-level analysis
 - [Non-linearity](../system-properties/non-linearity.md) -- the formal property that makes proportional reasoning fail
 - [System Influence Parameters](system-influence-parameters.md) -- the cognitive trap of believing we can directly change systems
+- [Andy Clark](../authors/andy-clark.md) -- his predictive processing framework explains why linear-deterministic thinking is the cognitive default
+- [Direction Over Destination](direction-over-destination.md) -- the practical counterweight to fixed-goal thinking

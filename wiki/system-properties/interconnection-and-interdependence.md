@@ -36,3 +36,4 @@ The global function of a complex system could not be carried out by any individu
 - [Externality](../agents-and-dynamics/externality.md) -- externalities are a primary mechanism forming interdependencies
 - [Network Science](../agents-and-dynamics/network-science.md) -- networks are the physical manifestation of interconnection
 - [Complex Systems](complex-systems.md) -- the web of relationships generating complexity
+- [Eliyahu Goldratt](../authors/eliyahu-goldratt.md) -- Theory of Constraints depends on recognizing interdependencies between components

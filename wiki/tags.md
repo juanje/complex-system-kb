@@ -15,9 +15,12 @@
 - [Self-Organization](agents-and-dynamics/self-organization.md)
 - [Strong and Weak Agents](agents-and-dynamics/strong-and-weak-agents.md)
 - [Threshold](agents-and-dynamics/threshold.md)
+- [Edward Lorenz](authors/edward-lorenz.md)
 - [Scott E. Page](authors/scott-e-page.md)
 - [Bureaucracy as Extended Cognition](complex-problems/bureaucracy-as-extended-cognition.md)
 - [Complex Problems](complex-problems/complex-problems.md)
+- [Degrees of Freedom Problem](complex-problems/degrees-of-freedom-problem.md)
+- [Direction Over Destination](complex-problems/direction-over-destination.md)
 - [Fitness Landscape](complex-problems/fitness-landscape.md)
 - [Interventions in Complex Systems](complex-problems/interventions-in-complex-systems.md)
 - [Invariants](complex-problems/invariants.md)
@@ -88,6 +91,7 @@
 - [Juanje Ojeda](authors/juanje-ojeda.md)
 - [Nikolai Bernstein](authors/nikolai-bernstein.md)
 - [Todd Hargrove](authors/todd-hargrove.md)
+- [Degrees of Freedom Problem](complex-problems/degrees-of-freedom-problem.md)
 - [Ecological Psychology](health-and-complexity/ecological-psychology.md)
 - [Calibration](play-and-games/calibration.md)
 - [Play in Complex Systems](play-and-games/play-in-complex-systems.md)
@@ -96,6 +100,7 @@
 
 - [Exploration vs. Exploitation](agents-and-dynamics/exploration-vs-exploitation.md)
 - [Complex Problems](complex-problems/complex-problems.md)
+- [Direction Over Destination](complex-problems/direction-over-destination.md)
 - [Fitness Landscape](complex-problems/fitness-landscape.md)
 - [Invariants](complex-problems/invariants.md)
 - [Linear-Deterministic Thinking](complex-problems/linear-deterministic-thinking.md)
@@ -103,18 +108,9 @@
 - [Skill Development](complex-problems/skill-development.md)
 - [Technique vs. Skill](complex-problems/technique-vs-skill.md)
 
-## [adaptation](system-properties/adaptation.md)
-
-- [Exploration vs. Exploitation](agents-and-dynamics/exploration-vs-exploitation.md)
-- [Edge of Chaos](learning/edge-of-chaos.md)
-- [How Complex Systems Learn](learning/how-complex-systems-learn.md)
-- [Adaptation](system-properties/adaptation.md)
-- [Diversity in Complex Systems](system-properties/diversity-in-complex-systems.md)
-- [Resilience](system-properties/resilience.md)
-- [Variability in Complex Systems](system-properties/variability-in-complex-systems.md)
-
 ## systems-thinking
 
+- [Eliyahu M. Goldratt](authors/eliyahu-goldratt.md)
 - [Juanje Ojeda](authors/juanje-ojeda.md)
 - [Complexity as a Lens](learning/complexity-as-a-lens.md)
 - [Complex Systems](system-properties/complex-systems.md)
@@ -126,11 +122,22 @@
 ## cognition
 
 - [Behavior as Emergent Property](agents-and-dynamics/behavior-as-emergent-property.md)
+- [Andy Clark](authors/andy-clark.md)
 - [Bureaucracy as Extended Cognition](complex-problems/bureaucracy-as-extended-cognition.md)
 - [Linear-Deterministic Thinking](complex-problems/linear-deterministic-thinking.md)
 - [Ecological Psychology](health-and-complexity/ecological-psychology.md)
 - [Embodied Cognition](learning/embodied-cognition.md)
 - [Learning as Reorganization](learning/learning-as-reorganization.md)
+
+## [adaptation](system-properties/adaptation.md)
+
+- [Exploration vs. Exploitation](agents-and-dynamics/exploration-vs-exploitation.md)
+- [Edge of Chaos](learning/edge-of-chaos.md)
+- [How Complex Systems Learn](learning/how-complex-systems-learn.md)
+- [Adaptation](system-properties/adaptation.md)
+- [Diversity in Complex Systems](system-properties/diversity-in-complex-systems.md)
+- [Resilience](system-properties/resilience.md)
+- [Variability in Complex Systems](system-properties/variability-in-complex-systems.md)
 
 ## health
 
@@ -169,6 +176,11 @@
 - [Network Science](agents-and-dynamics/network-science.md)
 - [Interconnection and Interdependence](system-properties/interconnection-and-interdependence.md)
 
+## motor-control
+
+- [Nikolai Bernstein](authors/nikolai-bernstein.md)
+- [Degrees of Freedom Problem](complex-problems/degrees-of-freedom-problem.md)
+
 ## intervention
 
 - [Interventions in Complex Systems](complex-problems/interventions-in-complex-systems.md)
@@ -178,9 +190,17 @@
 
 - [Agent-Based Models](agents-and-dynamics/agent-based-models.md)
 
-## motor-control
+## philosophy
 
-- [Nikolai Bernstein](authors/nikolai-bernstein.md)
+- [Andy Clark](authors/andy-clark.md)
+
+## chaos-theory
+
+- [Edward Lorenz](authors/edward-lorenz.md)
+
+## optimization
+
+- [Eliyahu M. Goldratt](authors/eliyahu-goldratt.md)
 
 ## diversity
 

@@ -16,6 +16,7 @@ Soviet neurophysiologist who formulated the degrees of freedom problem in motor 
 - His work laid the groundwork for ecological and dynamical systems approaches to movement science; book: "Dexterity and Its Development"
 
 ## Connections
+- [Degrees of Freedom Problem](../complex-problems/degrees-of-freedom-problem.md) -- his core formulation: how the body coordinates too many variables for centralized control
 - [Slack / Buffer](../complex-problems/slack-buffer.md) -- movement variability as functional slack that enables adaptation rather than fragility
 - [Variability in Complex Systems](../system-properties/variability-in-complex-systems.md) -- his blacksmith study is empirical evidence that healthy variability signals adaptive capacity
 - [Skill Development](../complex-problems/skill-development.md) -- his findings directly challenge technique-based training in favor of context-dependent skill development

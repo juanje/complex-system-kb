@@ -30,3 +30,4 @@ Perception-action coupling is the fundamental principle that agents react to wha
 - [Technique vs. Skill](../complex-problems/technique-vs-skill.md) — foundation of context-sensitive action
 - [Ecological Psychology](../health-and-complexity/ecological-psychology.md) — affordances are the environmental counterpart
 - [Embodied Cognition](../learning/embodied-cognition.md) — the perception-action loop is the fundamental mechanism through which embodied cognition operates
+- [Andy Clark](../authors/andy-clark.md) — predictive processing theory operates through the perception-action loop

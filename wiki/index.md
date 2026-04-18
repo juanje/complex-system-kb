@@ -46,6 +46,8 @@ Approaching, understanding, and navigating complex problems.
 
 - [Bureaucracy as Extended Cognition](complex-problems/bureaucracy-as-extended-cognition.md) — Bureaucracy as cognitive technology at civilizational scale
 - [Complex Problems](complex-problems/complex-problems.md) — Dynamic problems that change with every intervention
+- [Degrees of Freedom Problem](complex-problems/degrees-of-freedom-problem.md) — Bernstein's motor control challenge solved through self-organization
+- [Direction Over Destination](complex-problems/direction-over-destination.md) — Navigate by direction, not fixed goals, in dynamic problem spaces
 - [Fitness Landscape](complex-problems/fitness-landscape.md) — Mountain metaphor for solution spaces
 - [Interventions in Complex Systems](complex-problems/interventions-in-complex-systems.md) — Iterative, adaptive actions to influence systems
 - [Invariants](complex-problems/invariants.md) — Constant properties as predictable anchors
@@ -88,6 +90,9 @@ How to learn about and from complex systems.
 
 Key thinkers referenced across the knowledge base.
 
+- [Andy Clark](authors/andy-clark.md) — Predictive processing and extended mind thesis
+- [Edward Lorenz](authors/edward-lorenz.md) — Butterfly effect and chaos theory
+- [Eliyahu Goldratt](authors/eliyahu-goldratt.md) — Theory of Constraints and bottleneck analysis
 - [Juanje Ojeda](authors/juanje-ojeda.md) — Blog author; complexity applied to health and movement
 - [Nassim Taleb](authors/nassim-taleb.md) — Black Swans and Antifragility
 - [Nikolai Bernstein](authors/nikolai-bernstein.md) — Motor control and movement variability

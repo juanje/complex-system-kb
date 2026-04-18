@@ -39,3 +39,4 @@ Optimization -- the process of maximizing desirable factors and minimizing undes
 - [Bureaucracy as Extended Cognition](bureaucracy-as-extended-cognition.md) -- fossilization is over-optimization
 - [Edge of Chaos](../learning/edge-of-chaos.md) -- over-optimization pushes away from the edge
 - [Metastability](../learning/metastability.md) -- over-optimization eliminates productive slack
+- [Eliyahu Goldratt](../authors/eliyahu-goldratt.md) -- Theory of Constraints demonstrates why local optimization destroys global performance

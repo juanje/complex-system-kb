@@ -43,3 +43,4 @@ Self-organization is the process by which global patterns, structures, and behav
 - [Bureaucracy as Extended Cognition](../complex-problems/bureaucracy-as-extended-cognition.md) — writing emerged bottom-up through self-organization
 - [Learning as Reorganization](../learning/learning-as-reorganization.md) — learning is self-organized
 - [Adaptation](../system-properties/adaptation.md) — adaptation is self-organized; no central agent designs the system's response
+- [Degrees of Freedom Problem](../complex-problems/degrees-of-freedom-problem.md) — the body solves Bernstein's motor control challenge through self-organization
