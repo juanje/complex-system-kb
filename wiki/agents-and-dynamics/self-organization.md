@@ -39,3 +39,6 @@ Self-organization is the process by which global patterns, structures, and behav
 - [System Influence Parameters](../complex-problems/system-influence-parameters.md) — the process these parameters shape
 - [How Complex Systems Learn](../learning/how-complex-systems-learn.md) — learning is self-organized, not centrally directed
 - [Game Design for Complex Systems](../play-and-games/game-design-for-complex-systems.md) — games reveal self-organization under different conditions
+- [Behavior as Emergent Property](behavior-as-emergent-property.md) — behavior self-organizes without central direction
+- [Bureaucracy as Extended Cognition](../complex-problems/bureaucracy-as-extended-cognition.md) — writing emerged bottom-up through self-organization
+- [Learning as Reorganization](../learning/learning-as-reorganization.md) — learning is self-organized

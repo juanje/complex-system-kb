@@ -4,6 +4,7 @@
 
 - [Agent-Based Models](agents-and-dynamics/agent-based-models.md)
 - [Agent](agents-and-dynamics/agents.md)
+- [Behavior as Emergent Property](agents-and-dynamics/behavior-as-emergent-property.md)
 - [Culture as Emergent Property](agents-and-dynamics/culture-as-emergent-property.md)
 - [Dynamic Equilibrium](agents-and-dynamics/dynamic-equilibrium.md)
 - [Exploration vs. Exploitation](agents-and-dynamics/exploration-vs-exploitation.md)
@@ -15,6 +16,7 @@
 - [Strong and Weak Agents](agents-and-dynamics/strong-and-weak-agents.md)
 - [Threshold](agents-and-dynamics/threshold.md)
 - [Scott E. Page](authors/scott-e-page.md)
+- [Bureaucracy as Extended Cognition](complex-problems/bureaucracy-as-extended-cognition.md)
 - [Complex Problems](complex-problems/complex-problems.md)
 - [Fitness Landscape](complex-problems/fitness-landscape.md)
 - [Interventions in Complex Systems](complex-problems/interventions-in-complex-systems.md)
@@ -24,9 +26,12 @@
 - [System Influence Parameters](complex-problems/system-influence-parameters.md)
 - [Ecological Psychology](health-and-complexity/ecological-psychology.md)
 - [Health as a Complex Problem](health-and-complexity/health-as-complex-problem.md)
+- [Edge of Chaos](learning/edge-of-chaos.md)
 - [Fragile vs. Volatile Systems](learning/fragile-vs-volatile-systems.md)
 - [How Complex Systems Learn](learning/how-complex-systems-learn.md)
 - [Learning About Complex Systems](learning/learning-about-complex-systems.md)
+- [Learning as Reorganization](learning/learning-as-reorganization.md)
+- [Metastability](learning/metastability.md)
 - [Game Design for Complex Systems](play-and-games/game-design-for-complex-systems.md)
 - [Play in Complex Systems](play-and-games/play-in-complex-systems.md)
 - [Attractors](system-properties/attractors.md)
@@ -51,6 +56,7 @@
 - [Self-Organization](agents-and-dynamics/self-organization.md)
 - [Strong and Weak Agents](agents-and-dynamics/strong-and-weak-agents.md)
 - [Threshold](agents-and-dynamics/threshold.md)
+- [Metastability](learning/metastability.md)
 - [Attractors](system-properties/attractors.md)
 - [Feedback](system-properties/feedback.md)
 - [Sensitivity to Initial Conditions](system-properties/sensitivity-to-initial-conditions.md)
@@ -62,10 +68,23 @@
 - [Skill Development](complex-problems/skill-development.md)
 - [Technique vs. Skill](complex-problems/technique-vs-skill.md)
 - [Complexity as a Lens](learning/complexity-as-a-lens.md)
+- [Edge of Chaos](learning/edge-of-chaos.md)
 - [How Complex Systems Learn](learning/how-complex-systems-learn.md)
 - [Learning About Complex Systems](learning/learning-about-complex-systems.md)
+- [Learning as Reorganization](learning/learning-as-reorganization.md)
 - [Calibration](play-and-games/calibration.md)
 - [Game Design for Complex Systems](play-and-games/game-design-for-complex-systems.md)
+- [Play in Complex Systems](play-and-games/play-in-complex-systems.md)
+
+## movement
+
+- [Behavior as Emergent Property](agents-and-dynamics/behavior-as-emergent-property.md)
+- [Perception-Action Coupling](agents-and-dynamics/perception-action-coupling.md)
+- [Juanje Ojeda](authors/juanje-ojeda.md)
+- [Nikolai Bernstein](authors/nikolai-bernstein.md)
+- [Todd Hargrove](authors/todd-hargrove.md)
+- [Ecological Psychology](health-and-complexity/ecological-psychology.md)
+- [Calibration](play-and-games/calibration.md)
 - [Play in Complex Systems](play-and-games/play-in-complex-systems.md)
 
 ## problem-solving
@@ -79,16 +98,6 @@
 - [Skill Development](complex-problems/skill-development.md)
 - [Technique vs. Skill](complex-problems/technique-vs-skill.md)
 
-## movement
-
-- [Perception-Action Coupling](agents-and-dynamics/perception-action-coupling.md)
-- [Juanje Ojeda](authors/juanje-ojeda.md)
-- [Nikolai Bernstein](authors/nikolai-bernstein.md)
-- [Todd Hargrove](authors/todd-hargrove.md)
-- [Ecological Psychology](health-and-complexity/ecological-psychology.md)
-- [Calibration](play-and-games/calibration.md)
-- [Play in Complex Systems](play-and-games/play-in-complex-systems.md)
-
 ## systems-thinking
 
 - [Juanje Ojeda](authors/juanje-ojeda.md)
@@ -99,9 +108,18 @@
 - [Multilevel Organization](system-properties/multilevel-organization.md)
 - [Non-linearity](system-properties/non-linearity.md)
 
+## cognition
+
+- [Behavior as Emergent Property](agents-and-dynamics/behavior-as-emergent-property.md)
+- [Bureaucracy as Extended Cognition](complex-problems/bureaucracy-as-extended-cognition.md)
+- [Linear-Deterministic Thinking](complex-problems/linear-deterministic-thinking.md)
+- [Ecological Psychology](health-and-complexity/ecological-psychology.md)
+- [Learning as Reorganization](learning/learning-as-reorganization.md)
+
 ## adaptation
 
 - [Exploration vs. Exploitation](agents-and-dynamics/exploration-vs-exploitation.md)
+- [Edge of Chaos](learning/edge-of-chaos.md)
 - [How Complex Systems Learn](learning/how-complex-systems-learn.md)
 - [Diversity in Complex Systems](system-properties/diversity-in-complex-systems.md)
 - [Variability in Complex Systems](system-properties/variability-in-complex-systems.md)
@@ -119,6 +137,12 @@
 - [Schelling Segregation Model](agents-and-dynamics/schelling-segregation-model.md)
 - [Game Design for Complex Systems](play-and-games/game-design-for-complex-systems.md)
 
+## social-systems
+
+- [Culture as Emergent Property](agents-and-dynamics/culture-as-emergent-property.md)
+- [Schelling Segregation Model](agents-and-dynamics/schelling-segregation-model.md)
+- [Bureaucracy as Extended Cognition](complex-problems/bureaucracy-as-extended-cognition.md)
+
 ## risk
 
 - [Nassim Taleb](authors/nassim-taleb.md)
@@ -131,11 +155,6 @@
 - [Slack / Buffer](complex-problems/slack-buffer.md)
 - [Fragile vs. Volatile Systems](learning/fragile-vs-volatile-systems.md)
 
-## social-systems
-
-- [Culture as Emergent Property](agents-and-dynamics/culture-as-emergent-property.md)
-- [Schelling Segregation Model](agents-and-dynamics/schelling-segregation-model.md)
-
 ## networks
 
 - [Network Science](agents-and-dynamics/network-science.md)
@@ -145,11 +164,6 @@
 
 - [Interventions in Complex Systems](complex-problems/interventions-in-complex-systems.md)
 - [System Influence Parameters](complex-problems/system-influence-parameters.md)
-
-## cognition
-
-- [Linear-Deterministic Thinking](complex-problems/linear-deterministic-thinking.md)
-- [Ecological Psychology](health-and-complexity/ecological-psychology.md)
 
 ## modeling
 

@@ -26,6 +26,7 @@ How agents interact and produce system-level behavior.
 
 - [Agent-Based Models](agents-and-dynamics/agent-based-models.md) — Individually-represented agent simulations
 - [Agents](agents-and-dynamics/agents.md) — Autonomous perceiving-deciding entities
+- [Behavior as Emergent Property](agents-and-dynamics/behavior-as-emergent-property.md) — Behavior from individual-environment co-constitution
 - [Culture as Emergent Property](agents-and-dynamics/culture-as-emergent-property.md) — Culture from synchronization and internal coherence
 - [Dynamic Equilibrium](agents-and-dynamics/dynamic-equilibrium.md) — Constant change maintaining relative balance
 - [Exploration vs. Exploitation](agents-and-dynamics/exploration-vs-exploitation.md) — Trade-off between seeking new and using known solutions
@@ -41,6 +42,7 @@ How agents interact and produce system-level behavior.
 
 Approaching, understanding, and navigating complex problems.
 
+- [Bureaucracy as Extended Cognition](complex-problems/bureaucracy-as-extended-cognition.md) — Bureaucracy as cognitive technology at civilizational scale
 - [Complex Problems](complex-problems/complex-problems.md) — Dynamic problems that change with every intervention
 - [Fitness Landscape](complex-problems/fitness-landscape.md) — Mountain metaphor for solution spaces
 - [Interventions in Complex Systems](complex-problems/interventions-in-complex-systems.md) — Iterative, adaptive actions to influence systems
@@ -72,9 +74,12 @@ Applying complexity thinking to health, movement, and the human body.
 How to learn about and from complex systems.
 
 - [Complexity as a Lens](learning/complexity-as-a-lens.md) — Complexity as a practical perspective for seeing the world
+- [Edge of Chaos](learning/edge-of-chaos.md) — The band between stability and chaos where adaptation occurs
 - [Fragile vs. Volatile Systems](learning/fragile-vs-volatile-systems.md) — Two archetypal extremes of complex systems
 - [How Complex Systems Learn](learning/how-complex-systems-learn.md) — Systems learn through irreversible adaptation
 - [Learning About Complex Systems](learning/learning-about-complex-systems.md) — Analysis vs. intuition approaches
+- [Learning as Reorganization](learning/learning-as-reorganization.md) — Learning as attractor modification, not information storage
+- [Metastability](learning/metastability.md) — Temporary equilibrium with potential energy for change
 
 ## Authors
 
@@ -95,14 +100,19 @@ Key thinkers referenced across the knowledge base.
 - **Black Swan** — Highly impactful, unforeseen event arising from non-linear dynamics. [→](system-properties/black-swan-events.md)
 - **Butterfly Effect** — Lorenz's metaphor for sensitivity to initial conditions. [→](system-properties/sensitivity-to-initial-conditions.md)
 - **Calibration** — Perception-action tuning through repeated practice in context. [→](play-and-games/calibration.md)
+- **Desirable Difficulties** — Conditions that worsen immediate performance but deepen learning. [→](learning/edge-of-chaos.md)
 - **Degeneracy** — Different structures performing the same function for robustness. [→](complex-problems/system-influence-parameters.md)
 - **Dynamic Equilibrium** — Constant change maintaining relative balance. [→](agents-and-dynamics/dynamic-equilibrium.md)
 - **Emergence** — Properties arising from relationships, not from individual components. [→](system-properties/emergence.md)
+- **Edge of Chaos** — Band between stability and chaos where adaptation occurs. [→](learning/edge-of-chaos.md)
+- **Extended Cognition** — Cognitive processes extending beyond the brain into tools and environment. [→](health-and-complexity/ecological-psychology.md)
 - **Externality** — Effect on non-participants in an action or decision. [→](agents-and-dynamics/externality.md)
 - **Feedback** — Output redirected as input for system self-regulation. [→](system-properties/feedback.md)
 - **Fitness Landscape** — Terrain metaphor mapping solution quality to peaks and valleys. [→](complex-problems/fitness-landscape.md)
+- **Hormesis** — Controlled stress that strengthens rather than weakens a system. [→](learning/edge-of-chaos.md)
 - **Invariant** — Property that remains constant regardless of system dynamics. [→](complex-problems/invariants.md)
 - **Meta-rule** — Higher-order rule created by strong agents on top of basic rules. [→](agents-and-dynamics/strong-and-weak-agents.md)
+- **Metastability** — Temporary equilibrium with potential energy for change. [→](learning/metastability.md)
 - **Negative Feedback** — Feedback that corrects/stabilizes behavior toward equilibrium. [→](system-properties/feedback.md)
 - **Path Dependence** — Prior decisions irreversibly constraining future possibilities. [→](system-properties/sensitivity-to-initial-conditions.md)
 - **Positive Feedback** — Feedback that reinforces/amplifies current behavior. [→](system-properties/feedback.md)

@@ -74,3 +74,8 @@ In complex systems, attractors are not fixed -- they can change, emerge from rep
 - [Black Swan Events](black-swan-events.md) -- black swans can push systems between attractors
 - [Complex Systems](complex-systems.md) -- tendencies providing partial predictability
 - [Sensitivity to Initial Conditions](sensitivity-to-initial-conditions.md) -- attractors provide some predictability despite sensitivity
+- [Behavior as Emergent Property](../agents-and-dynamics/behavior-as-emergent-property.md) -- behavior patterns are attractors of the person-environment system
+- [Bureaucracy as Extended Cognition](../complex-problems/bureaucracy-as-extended-cognition.md) -- bureaucratic rules are attractors that deepen with use
+- [Edge of Chaos](../learning/edge-of-chaos.md) -- the comfort zone is a deep attractor; edge of chaos is the zone between attractor basins
+- [Learning as Reorganization](../learning/learning-as-reorganization.md) -- learning modifies attractors; habits persist because they are low-energy states
+- [Metastability](../learning/metastability.md) -- defined relative to attractor depth

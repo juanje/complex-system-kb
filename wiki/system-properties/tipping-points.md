@@ -29,3 +29,4 @@ Tipping points are moments at which a drastic change occurs in the behavior of a
 - [Attractors](attractors.md) -- tipping points represent phase transitions from one attractor to another; the number and depth of attractors determines how abrupt transitions will be
 - [Sensitivity to Initial Conditions](sensitivity-to-initial-conditions.md) -- small differences at initial conditions can determine whether a system reaches a tipping point or not
 - [Feedback](feedback.md) -- positive feedback can push a system toward a tipping point by amplifying changes until they cross a threshold
+- [Metastability](../learning/metastability.md) -- metastable states are where tipping points become possible

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "learning/fragile-vs-volatile-systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "fragile-vs-volatile-systems"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "learning/fragile-vs-volatile-systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de index"
+              "title": "Enlaces entrantes de fragile-vs-volatile-systems"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "learning/fragile-vs-volatile-systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de index"
+              "title": "Enlaces salientes de fragile-vs-volatile-systems"
             }
           },
           {
@@ -156,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "learning/fragile-vs-volatile-systems.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de index"
+              "title": "Esquema de fragile-vs-volatile-systems"
             }
           }
         ]
@@ -185,6 +185,13 @@
   },
   "active": "eed5f363494e6f2a",
   "lastOpenFiles": [
+    "learning/learning-about-complex-systems.md",
+    "complex-problems/bureaucracy-as-extended-cognition.md",
+    "agents-and-dynamics/behavior-as-emergent-property.md",
+    "learning/metastability.md",
+    "learning/learning-as-reorganization.md",
+    "learning/edge-of-chaos.md",
+    "index.md",
     "glossary.md",
     "complex-problems/slack-buffer.md",
     "complex-problems/fitness-landscape.md",

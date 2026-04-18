@@ -23,3 +23,4 @@ Dynamic equilibrium is a state in which a complex system is in constant change b
 - [Attractors](../system-properties/attractors.md) — Dynamic equilibrium relates to limit cycle attractors, where the system oscillates between a set of states in a repeating pattern rather than converging on a single fixed point.
 - [externality.md](externality.md) — Chains of externalities (grass to herbivores to predators) drive the oscillating dynamics characteristic of dynamic equilibrium.
 - [agent-based-models.md](agent-based-models.md) — ABMs frequently reveal dynamic equilibrium in simulated ecosystems and social systems, showing how simple local rules produce stable macro-level oscillations.
+- [Metastability](../learning/metastability.md) — different aspects of temporary stability

@@ -33,3 +33,5 @@ Slack is intentional margin or looseness left in resources -- time, budget, spac
 - [Fitness Landscape](fitness-landscape.md) -- maintaining margin to navigate shifting terrain
 - [System Influence Parameters](system-influence-parameters.md) -- a form of limit management preserving adaptive capacity
 - [Fragile vs. Volatile Systems](../learning/fragile-vs-volatile-systems.md) -- buffers are what volatile systems lack
+- [Edge of Chaos](../learning/edge-of-chaos.md) -- the 10-20% slack converges with the 85% rule
+- [Metastability](../learning/metastability.md) -- metastability requires slack

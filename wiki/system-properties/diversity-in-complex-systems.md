@@ -13,6 +13,8 @@ Diversity refers to the variety and heterogeneity of component types and relatio
 - Higher diversity in a system favors exploration (searching for new solutions and innovation); lower diversity favors exploitation (applying and optimizing known solutions). These two strategies represent a fundamental trade-off: you cannot maximize both simultaneously. If the solution is known to be the best, exploitation is most efficient; if there is high uncertainty, exploration is more valuable because the current solution might be poor.
 - Diversity among agents produces more varied responses and less predictability, which is one of the three principal sources of non-linearity in complex systems. This is why systems with more diverse agents are harder to predict but better at adapting to novel situations.
 - [Scott E. Page](../authors/scott-e-page.md), author of "Diversity and Complexity" and the audiocourse "The Hidden Factor," provides the theoretical foundation for understanding how diversity operates in complex systems. His insight that "an actor in a complex system controls almost nothing, but influences almost everything" captures the relationship between individual agents and the diverse systems they inhabit.
+- **Cognitive diversity matters more than individual talent for complex problems.** A team diverse in approaches, heuristics, and interpretations covers more solution territory than a homogeneous expert group (Scott E. Page, "The Difference") -- this is one of the most robust results in complex systems research.
+- **Three mechanisms erode team diversity.** (1) Selection processes seeking "the best candidate" apply strong selective pressure that filters for similarity to the existing team, producing homogenization. (2) Identical individual incentives cause all agents to converge on the single most-rewarded behavior. (3) Decision centralization reduces direct interactions between members, as the central node modulates everything identically.
 
 ## Mechanisms that generate diversity
 
@@ -35,6 +37,7 @@ Diversity refers to the variety and heterogeneity of component types and relatio
 - Jeans industry: a strong fashion trend for bell-bottoms creates strong selective pressure; manufacturers that cannot adapt go extinct, and the rest homogenize to produce the same style -- both extinction and homogenization reduce diversity. Contrast with a system-level incentive ("the industry must find the next trend") which drives each manufacturer to try something different.
 - Letter combinations: with A and B there are 6 combinations of length 1-2; adding C yields 39 combinations of length 1-3 -- exponential growth in possibilities from a single addition.
 - Bus factor in software teams: when all decisions pass through one person, centralization makes the project fragile -- if that person disappears, the project fails.
+- Hiring processes that seek "the best candidate" as a homogenization mechanism -- strong selective pressure filters for similarity to the existing team, systematically reducing cognitive diversity with each hire.
 
 ## Connections
 - [Variability in Complex Systems](variability-in-complex-systems.md) -- variability measures differences in properties and behaviors within the types that diversity defines
@@ -51,3 +54,6 @@ Diversity refers to the variety and heterogeneity of component types and relatio
 - [Black Swan Events](black-swan-events.md) -- greater diversity makes systems less fragile to black swans
 - [Complex Systems](complex-systems.md) -- one of four key characteristics determining complexity
 - [Multilevel Organization](multilevel-organization.md) -- diversity operates at every level of the hierarchy
+- [Bureaucracy as Extended Cognition](../complex-problems/bureaucracy-as-extended-cognition.md) -- bureaucratic standardization can reduce cognitive diversity by homogenizing how agents think and act
+- [Behavior as Emergent Property](../agents-and-dynamics/behavior-as-emergent-property.md) -- behavioral flexibility is diversity at individual level
+- [Learning as Reorganization](../learning/learning-as-reorganization.md) -- diversity drives reorganization

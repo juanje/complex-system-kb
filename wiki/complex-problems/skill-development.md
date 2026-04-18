@@ -35,3 +35,4 @@ Developing skills to handle complex problems requires repeated exposure to the p
 - [Play](../play-and-games/play-in-complex-systems.md) -- games and simulations as safe environments for skill development
 - [Exploration vs. Exploitation](../agents-and-dynamics/exploration-vs-exploitation.md) -- the balance skills must maintain
 - [Nikolai Bernstein](../authors/nikolai-bernstein.md) -- his findings challenge technique-based training
+- [Edge of Chaos](../learning/edge-of-chaos.md) -- desirable difficulties are practical applications

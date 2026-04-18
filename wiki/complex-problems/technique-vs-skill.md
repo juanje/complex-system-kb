@@ -34,3 +34,4 @@ A technique is a specific solution to a problem -- a set of methods, steps, or p
 - [Perception-Action Coupling](../agents-and-dynamics/perception-action-coupling.md) -- the foundation of context-sensitive action
 - [Exploration vs. Exploitation](../agents-and-dynamics/exploration-vs-exploitation.md) -- skills require continuous alternation between exploring and exploiting
 - [Calibration](../play-and-games/calibration.md) -- calibration develops skills rather than techniques
+- [Learning as Reorganization](../learning/learning-as-reorganization.md) -- technique vs skill maps onto storage vs reorganization

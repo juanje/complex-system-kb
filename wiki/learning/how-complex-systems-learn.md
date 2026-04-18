@@ -31,3 +31,5 @@ Complex systems learn through adaptation -- generating functional, self-organize
 - [fragile-vs-volatile-systems.md](fragile-vs-volatile-systems.md) -- How a system learns determines whether it becomes fragile or volatile
 - [complexity-as-a-lens.md](complexity-as-a-lens.md) -- Understanding system learning is a key application of the complexity perspective
 - [Learning About Complex Systems](learning-about-complex-systems.md) -- understanding how systems learn is a key outcome of system analysis
+- [Edge of Chaos](edge-of-chaos.md) -- provides conditions for system-level learning
+- [Learning as Reorganization](learning-as-reorganization.md) -- the mechanism underlying how systems learn

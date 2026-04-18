@@ -20,3 +20,4 @@ Soviet neurophysiologist who formulated the degrees of freedom problem in motor 
 - [Variability in Complex Systems](../system-properties/variability-in-complex-systems.md) -- his blacksmith study is empirical evidence that healthy variability signals adaptive capacity
 - [Skill Development](../complex-problems/skill-development.md) -- his findings directly challenge technique-based training in favor of context-dependent skill development
 - [Optimization in Complex Systems](../complex-problems/optimization-in-complex-systems.md) -- blacksmith study demonstrates mastery is variability
+- [Learning as Reorganization](../learning/learning-as-reorganization.md) -- repetition without repetition is foundational

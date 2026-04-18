@@ -52,3 +52,5 @@ This framing has practical implications for understanding how to approach health
 - [Play in Complex Systems](../play-and-games/play-in-complex-systems.md) -- play is an emergent behavior
 - [Complex vs. Complicated](complex-vs-complicated.md) -- emergent properties make complex problems qualitatively different
 - [Diversity in Complex Systems](diversity-in-complex-systems.md) -- greater diversity leads to richer emergence
+- [Behavior as Emergent Property](../agents-and-dynamics/behavior-as-emergent-property.md) -- behavior is an emergent property
+- [Bureaucracy as Extended Cognition](../complex-problems/bureaucracy-as-extended-cognition.md) -- bureaucratic capabilities are emergent

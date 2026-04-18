@@ -51,3 +51,4 @@ Time amplifies all three: as interactions accumulate and new emergent behaviors 
 - [Feedback](feedback.md) -- feedback can amplify small changes into large effects
 - [Multilevel Organization](multilevel-organization.md) -- each level introduces its own non-linear interactions
 - [Variability in Complex Systems](variability-in-complex-systems.md) -- variability is both product and driver of non-linearity
+- [Metastability](../learning/metastability.md) -- metastable transitions are non-linear

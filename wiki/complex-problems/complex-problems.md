@@ -56,3 +56,4 @@ Some systems can develop flexible, dynamic skills that solve the various mutatio
 - [Slack / Buffer](slack-buffer.md) -- the domain where buffer is essential
 - [Health as a Complex Problem](../health-and-complexity/health-as-complex-problem.md) -- health exemplifies complex problems
 - [Complexity as a Lens](../learning/complexity-as-a-lens.md) -- the lens helps distinguish complex problems
+- [Bureaucracy as Extended Cognition](bureaucracy-as-extended-cognition.md) -- addresses complex problems but fossilizes
