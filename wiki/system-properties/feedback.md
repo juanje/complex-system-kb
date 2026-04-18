@@ -50,3 +50,17 @@ In simple systems, feedback operates as "feedback loops" -- direct, closed circu
 - [Non-linearity](non-linearity.md) -- feedback loops can amplify small changes into large effects, creating non-linear dynamics
 - [Diversity in Complex Systems](diversity-in-complex-systems.md) -- positive feedback on diversity generates exponentially more combinations, while feedback can also reduce diversity through homogenization
 - [Tipping Points](tipping-points.md) -- positive feedback can drive a system toward tipping points by amplifying changes beyond a threshold
+- [Dynamic Equilibrium](../agents-and-dynamics/dynamic-equilibrium.md) -- feedback loops sustain dynamic equilibrium
+- [Externality](../agents-and-dynamics/externality.md) -- externalities and feedback together generate interdependencies
+- [Self-Organization](../agents-and-dynamics/self-organization.md) -- feedback loops drive and stabilize self-organized patterns
+- [Threshold](../agents-and-dynamics/threshold.md) -- threshold-crossing triggers feedback amplification
+- [Interventions in Complex Systems](../complex-problems/interventions-in-complex-systems.md) -- system signals guiding iterative intervention
+- [System Influence Parameters](../complex-problems/system-influence-parameters.md) -- interacts with any intervention
+- [Fragile vs. Volatile Systems](../learning/fragile-vs-volatile-systems.md) -- compensating feedback stabilizes; reinforcing amplifies
+- [How Complex Systems Learn](../learning/how-complex-systems-learn.md) -- mechanism through which perturbations drive adaptation
+- [Learning About Complex Systems](../learning/learning-about-complex-systems.md) -- central to the System Analysis Worksheet
+- [Complex Systems](complex-systems.md) -- mechanism for adjustment, adaptation, self-regulation
+- [Complex vs. Complicated](complex-vs-complicated.md) -- keeps complex problems dynamic
+- [Interconnection and Interdependence](interconnection-and-interdependence.md) -- feedback is a specific interconnection pattern
+- [Sensitivity to Initial Conditions](sensitivity-to-initial-conditions.md) -- mechanism through which perturbations get amplified or dampened
+- [Variability in Complex Systems](variability-in-complex-systems.md) -- variability depends on well-functioning feedback mechanisms

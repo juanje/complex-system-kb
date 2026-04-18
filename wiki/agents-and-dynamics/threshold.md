@@ -23,3 +23,4 @@ A threshold is a critical value that, once exceeded, triggers a change in the st
 - [Attractors](../system-properties/attractors.md) — Crossing a threshold can push a system from one attractor to another, representing a phase transition.
 - [Feedback](../system-properties/feedback.md) — Threshold-crossing events often trigger feedback loops that amplify the initial change through the system.
 - [self-organization.md](self-organization.md) — Cascading threshold effects are a mechanism through which systems self-organize into new configurations.
+- [Fragile vs. Volatile Systems](../learning/fragile-vs-volatile-systems.md) — threshold diversity enables cascading avalanches in volatile systems

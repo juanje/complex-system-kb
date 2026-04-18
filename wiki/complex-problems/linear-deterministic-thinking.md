@@ -34,3 +34,4 @@ Linear-deterministic thinking is the cognitive tendency to apply proportional, p
 - [Attractors](../system-properties/attractors.md) -- the stable states and phase transitions that create abrupt, non-linear behavioral changes
 - [Emergence](../system-properties/emergence.md) -- the mechanism that creates behaviors unpredictable from component-level analysis
 - [Non-linearity](../system-properties/non-linearity.md) -- the formal property that makes proportional reasoning fail
+- [System Influence Parameters](system-influence-parameters.md) -- the cognitive trap of believing we can directly change systems

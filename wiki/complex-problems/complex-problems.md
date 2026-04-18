@@ -49,3 +49,10 @@ Some systems can develop flexible, dynamic skills that solve the various mutatio
 - [System Influence Parameters](system-influence-parameters.md) -- the four levers for influencing self-organization
 - [Exploration vs. Exploitation](../agents-and-dynamics/exploration-vs-exploitation.md) -- the dual strategy required for navigating complex problems
 - [Self-Organization](../agents-and-dynamics/self-organization.md) -- the mechanism through which complex systems produce order
+- [Scott E. Page](../authors/scott-e-page.md) -- his control-vs-influence framing shapes the approach
+- [Todd Hargrove](../authors/todd-hargrove.md) -- provides a practical criterion for distinguishing complex problems
+- [Invariants](invariants.md) -- provide predictability within unpredictable problems
+- [Skill Development](skill-development.md) -- the domain demanding skill over technique
+- [Slack / Buffer](slack-buffer.md) -- the domain where buffer is essential
+- [Health as a Complex Problem](../health-and-complexity/health-as-complex-problem.md) -- health exemplifies complex problems
+- [Complexity as a Lens](../learning/complexity-as-a-lens.md) -- the lens helps distinguish complex problems

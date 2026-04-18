@@ -32,3 +32,5 @@ The nesting has practical implications: emergence creates new structures and beh
 - [Interconnection and Interdependence](interconnection-and-interdependence.md) -- the connections within and between levels create the interdependencies that drive complex behavior
 - [Non-linearity](non-linearity.md) -- each level introduces its own non-linear interactions, compounding unpredictability as levels interact; emergence across levels is one of the three principal sources of non-linearity
 - [Diversity in Complex Systems](diversity-in-complex-systems.md) -- diversity operates at every level of the hierarchy, with different types and relationships at each level contributing to overall system complexity
+- [Agents](../agents-and-dynamics/agents.md) -- agents are themselves complex systems creating nested hierarchies
+- [Strong and Weak Agents](../agents-and-dynamics/strong-and-weak-agents.md) -- strong agents are complex systems themselves

@@ -28,3 +28,4 @@ Invariants are properties or relationships within a complex system that remain c
 - [Complex Problems](complex-problems.md) -- invariants provide predictability within unpredictable problems
 - [Fitness Landscape](fitness-landscape.md) -- invariants are the features of the landscape that do not move
 - [Attractors](../system-properties/attractors.md) -- stable states that may shift, unlike true invariants
+- [Learning About Complex Systems](../learning/learning-about-complex-systems.md) -- invariants are the stable anchors that analysis and intuition learn to identify

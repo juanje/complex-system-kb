@@ -24,3 +24,5 @@ An agent is an autonomous entity with the capacity to perceive its environment, 
 - [self-organization.md](self-organization.md) — Agents interacting locally are what produces self-organized global patterns.
 - [agent-based-models.md](agent-based-models.md) — ABMs represent each agent individually with its own characteristics and rules to simulate system behavior.
 - [Multilevel systems](../system-properties/multilevel-organization.md) — Agents are themselves complex systems containing lower-level agents, creating nested hierarchies.
+- [Network Science](network-science.md) — agents are the nodes in complex system networks
+- [Ecological Psychology](../health-and-complexity/ecological-psychology.md) — enriches the concept by embedding agents in their environments

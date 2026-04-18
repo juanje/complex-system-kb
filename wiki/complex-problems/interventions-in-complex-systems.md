@@ -31,3 +31,4 @@ Interventions are designed actions that modify system parameters -- objectives, 
 - [Slack / Buffer](slack-buffer.md) -- maintaining margin to absorb intervention side-effects
 - [Self-Organization](../agents-and-dynamics/self-organization.md) -- the process interventions aim to influence, not replace
 - [Feedback Mechanisms](../system-properties/feedback.md) -- the system signals that guide iterative intervention
+- [Calibration](../play-and-games/calibration.md) -- calibration is an iterative process subject to the performance-learning paradox

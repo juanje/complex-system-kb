@@ -29,3 +29,5 @@ Calibration is the process by which an agent, through repeated practice in repre
 - [../system-properties/attractors.md](../system-properties/attractors.md) -- Calibration shapes the attractors of an agent's movement and decision patterns
 - [../complex-problems/technique-vs-skill.md](../complex-problems/technique-vs-skill.md) -- Calibration develops skills (adaptive, context-sensitive responses) rather than mere techniques
 - [../complex-problems/interventions-in-complex-systems.md](../complex-problems/interventions-in-complex-systems.md) -- Calibration is an iterative process subject to the performance-learning paradox
+- [Ecological Psychology](../health-and-complexity/ecological-psychology.md) -- calibration tunes perception of affordances
+- [Game Design for Complex Systems](game-design-for-complex-systems.md) -- games create conditions for calibration

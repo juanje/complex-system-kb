@@ -33,3 +33,6 @@ Play is a free, pleasurable, exploratory activity -- bounded in time and space, 
 - [../agents-and-dynamics/strong-and-weak-agents.md](../agents-and-dynamics/strong-and-weak-agents.md) -- Play emerges in systems with strong (intelligent, learning) agents
 - [../system-properties/emergence.md](../system-properties/emergence.md) -- Play itself is an emergent behavior arising from the nature of complex adaptive agents
 - [../agents-and-dynamics/agent-based-models.md](../agents-and-dynamics/agent-based-models.md) -- Play and ABMs are complementary tools: ABMs observe from outside, play understands from inside
+- [Perception-Action Coupling](../agents-and-dynamics/perception-action-coupling.md) -- play provides safe environment for calibrating perception-action
+- [Juanje Ojeda](../authors/juanje-ojeda.md) -- uses play and games as tools for developing skills
+- [Skill Development](../complex-problems/skill-development.md) -- games as safe environments for skill development

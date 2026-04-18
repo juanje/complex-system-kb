@@ -27,3 +27,5 @@ Perception-action coupling is the fundamental principle that agents react to wha
 - [Skill development](../complex-problems/skill-development.md) — Calibrating perception-action coupling is the foundation of developing skills for complex problems.
 - [exploration-vs-exploitation.md](exploration-vs-exploitation.md) — Exploration is how agents discover new perception-action couplings; exploitation is how they refine and apply established ones.
 - [Play](../play-and-games/play-in-complex-systems.md) — Play provides a safe environment for calibrating the perception-action coupling through varied, consequence-free interaction.
+- [Technique vs. Skill](../complex-problems/technique-vs-skill.md) — foundation of context-sensitive action
+- [Ecological Psychology](../health-and-complexity/ecological-psychology.md) — affordances are the environmental counterpart

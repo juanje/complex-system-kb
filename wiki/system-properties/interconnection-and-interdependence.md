@@ -33,3 +33,6 @@ The global function of a complex system could not be carried out by any individu
 - [Sensitivity to Initial Conditions](sensitivity-to-initial-conditions.md) -- cascading effects through interconnected networks amplify small perturbations into large consequences
 - [Diversity in Complex Systems](diversity-in-complex-systems.md) -- diversity of connection types and component types increases the richness of interactions
 - [Multilevel Organization](multilevel-organization.md) -- connections exist within and between levels, creating cross-level interdependencies
+- [Externality](../agents-and-dynamics/externality.md) -- externalities are a primary mechanism forming interdependencies
+- [Network Science](../agents-and-dynamics/network-science.md) -- networks are the physical manifestation of interconnection
+- [Complex Systems](complex-systems.md) -- the web of relationships generating complexity

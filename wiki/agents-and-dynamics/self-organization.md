@@ -26,3 +26,16 @@ Self-organization is the process by which global patterns, structures, and behav
 - [Feedback](../system-properties/feedback.md) — Feedback loops (both positive and negative) are the engine that drives and stabilizes self-organized patterns.
 - [culture-as-emergent-property.md](culture-as-emergent-property.md) — Culture is a specific case of self-organization where synchronization and internal coherence among agents produce recognizable social patterns.
 - [agent-based-models.md](agent-based-models.md) — ABMs simulate self-organization by representing individual agents and their local rules, allowing observation of emergent system-level behavior.
+- [Dynamic Equilibrium](dynamic-equilibrium.md) — dynamic equilibrium is a product of self-organization
+- [Exploration vs. Exploitation](exploration-vs-exploitation.md) — the mechanism through which systems balance exploration and exploitation collectively
+- [Externality](externality.md) — externalities contribute to self-organization by propagating local effects
+- [Network Science](network-science.md) — networks are a product of self-organization
+- [Schelling Segregation Model](schelling-segregation-model.md) — segregation emerges from self-organization through local decisions
+- [Strong and Weak Agents](strong-and-weak-agents.md) — strong agents self-organize in more dynamic ways
+- [Threshold](threshold.md) — cascading threshold effects drive self-organization into new configurations
+- [Complex Problems](../complex-problems/complex-problems.md) — the mechanism producing order in complex systems
+- [Interventions in Complex Systems](../complex-problems/interventions-in-complex-systems.md) — what interventions aim to influence, not replace
+- [Slack / Buffer](../complex-problems/slack-buffer.md) — slack provides room for self-organization
+- [System Influence Parameters](../complex-problems/system-influence-parameters.md) — the process these parameters shape
+- [How Complex Systems Learn](../learning/how-complex-systems-learn.md) — learning is self-organized, not centrally directed
+- [Game Design for Complex Systems](../play-and-games/game-design-for-complex-systems.md) — games reveal self-organization under different conditions

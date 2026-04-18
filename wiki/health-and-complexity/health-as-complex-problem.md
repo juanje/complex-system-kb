@@ -30,3 +30,5 @@ Health is not a simple or merely complicated problem -- it is a complex one. The
 - [../system-properties/sensitivity-to-initial-conditions.md](../system-properties/sensitivity-to-initial-conditions.md) -- Explains why "it depends" is valid: small differences in starting conditions lead to different outcomes
 - [../complex-problems/optimization-in-complex-systems.md](../complex-problems/optimization-in-complex-systems.md) -- Over-optimizing health protocols (rigid diets, rigid training) produces fragility rather than resilience
 - [../system-properties/black-swan-events.md](../system-properties/black-swan-events.md) -- The distinction between complex problems and Black Swans matters for health framing
+- [Juanje Ojeda](../authors/juanje-ojeda.md) -- central thesis of his applied work
+- [Complexity as a Lens](../learning/complexity-as-a-lens.md) -- health is a key domain where complexity thinking applies

@@ -31,3 +31,5 @@ Because meta-rules are internal to the agent and unknown to others, they are a m
 - [self-organization.md](self-organization.md) — Systems of strong agents self-organize in more dynamic and less predictable ways than systems of weak agents.
 - [Play](../play-and-games/play-in-complex-systems.md) — Play emerges more frequently and in more varied forms among strong agents, serving as the primary mechanism for developing meta-rules and calibrating behavior.
 - [Multilevel systems](../system-properties/multilevel-organization.md) — Strong agents are complex systems themselves, creating the nested hierarchies characteristic of multilevel organization.
+- [Culture as Emergent Property](culture-as-emergent-property.md) — culture emerges primarily in systems of strong agents
+- [How Complex Systems Learn](../learning/how-complex-systems-learn.md) — strong agents learn through meta-rules

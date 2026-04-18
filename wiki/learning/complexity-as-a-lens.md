@@ -30,3 +30,4 @@ Understanding complexity is not about acquiring an academic subject -- it is abo
 - [../system-properties/non-linearity.md](../system-properties/non-linearity.md) -- Non-linearity explains why linear causal reasoning fails in complex domains
 - [../health-and-complexity/health-as-complex-problem.md](../health-and-complexity/health-as-complex-problem.md) -- Health is one of the most personally relevant domains where complexity thinking applies
 - [../complex-problems/complex-problems.md](../complex-problems/complex-problems.md) -- The lens helps distinguish complex problems from simple or complicated ones
+- [Ecological Psychology](../health-and-complexity/ecological-psychology.md) -- one of the practical lenses for complexity thinking

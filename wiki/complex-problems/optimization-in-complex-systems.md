@@ -34,3 +34,5 @@ Optimization -- the process of maximizing desirable factors and minimizing undes
 - [Nikolai Bernstein](../authors/nikolai-bernstein.md) -- whose blacksmith study demonstrated that mastery is variability, not rigid repetition
 - [Exploration vs. Exploitation](../agents-and-dynamics/exploration-vs-exploitation.md) -- the dual strategy needed to escape local optima
 - [Diversity](../system-properties/diversity-in-complex-systems.md) -- the antidote to homogeneity-driven local optimization
+- [Interventions in Complex Systems](interventions-in-complex-systems.md) -- why interventions should not aim for optimization
+- [Health as a Complex Problem](../health-and-complexity/health-as-complex-problem.md) -- over-optimizing produces fragility

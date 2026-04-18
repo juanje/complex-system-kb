@@ -39,3 +39,4 @@ Complex systems cannot be controlled but can be influenced. They self-organize a
 - [Self-Organization](../agents-and-dynamics/self-organization.md) -- the process that these parameters shape
 - [Attractors](../system-properties/attractors.md) -- the stable states that limits and constraints help define
 - [Feedback Mechanisms](../system-properties/feedback.md) -- one of the forces that interacts with any intervention
+- [Game Design for Complex Systems](../play-and-games/game-design-for-complex-systems.md) -- design variables map to influence parameters

@@ -30,3 +30,4 @@ Complex systems learn through adaptation -- generating functional, self-organize
 - [../system-properties/feedback.md](../system-properties/feedback.md) -- Feedback loops are the mechanism through which perturbations propagate and drive adaptation
 - [fragile-vs-volatile-systems.md](fragile-vs-volatile-systems.md) -- How a system learns determines whether it becomes fragile or volatile
 - [complexity-as-a-lens.md](complexity-as-a-lens.md) -- Understanding system learning is a key application of the complexity perspective
+- [Learning About Complex Systems](learning-about-complex-systems.md) -- understanding how systems learn is a key outcome of system analysis

@@ -70,3 +70,5 @@ For complicated problems, your decisions change which solution you reach but the
 - [Slack / Buffer](slack-buffer.md) -- maintaining margin to navigate shifting terrain
 - [Exploration vs. Exploitation](../agents-and-dynamics/exploration-vs-exploitation.md) -- the strategic trade-off that the landscape type determines
 - [Attractors](../system-properties/attractors.md) -- stable regions in the dancing landscape that experts can partially know
+- [Linear-Deterministic Thinking](linear-deterministic-thinking.md) -- the dancing landscape makes non-linearity visual
+- [Skill Development](skill-development.md) -- scaling problems preserves the dancing nature

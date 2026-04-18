@@ -29,3 +29,4 @@ Complex systems are dynamic, adaptive systems composed of diverse, interrelated,
 - [Diversity in Complex Systems](diversity-in-complex-systems.md) -- one of four key characteristics determining how complex a system is
 - [Feedback](feedback.md) -- the mechanism through which systems adjust, adapt, and self-regulate
 - [Attractors](attractors.md) -- the tendencies that provide the only somewhat predictable information about a complex system's future behavior
+- [Juanje Ojeda](../authors/juanje-ojeda.md) -- blog author and primary voice

@@ -25,3 +25,4 @@ Black swan events are disproportionate, unexpected events that result from the n
 - [Sensitivity to Initial Conditions](sensitivity-to-initial-conditions.md) -- the cascading amplification of small perturbations is the mechanism through which many black swan events unfold
 - [Attractors](attractors.md) -- black swan events can push systems from one attractor to another, sometimes creating entirely new attractors; systems with more attractors are more resilient to their impact
 - [Diversity in Complex Systems](diversity-in-complex-systems.md) -- greater diversity makes systems less fragile to black swan events by providing more adaptive pathways
+- [Health as a Complex Problem](../health-and-complexity/health-as-complex-problem.md) -- distinguishing complex problems from Black Swans matters for health

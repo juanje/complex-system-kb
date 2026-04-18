@@ -30,3 +30,4 @@ Complex systems can be characterized along a spectrum between two archetypal ext
 - [../agents-and-dynamics/threshold.md](../agents-and-dynamics/threshold.md) -- Threshold diversity among agents is what enables cascading avalanches in volatile systems
 - [../complex-problems/slack-buffer.md](../complex-problems/slack-buffer.md) -- Buffers and reserves are what volatile systems lack and fragile systems rely on
 - [learning-about-complex-systems.md](learning-about-complex-systems.md) -- The fragile/volatile distinction is one of the key patterns revealed by system analysis
+- [How Complex Systems Learn](how-complex-systems-learn.md) -- how a system learns determines whether it becomes fragile or volatile

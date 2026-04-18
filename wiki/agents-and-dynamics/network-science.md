@@ -25,3 +25,4 @@ Networks of interconnected nodes (agents) and links (relationships) emerge spont
 - [Emergence](../system-properties/emergence.md) — Network structures are emergent properties that arise from local agent interactions and in turn produce higher-level emergent behaviors.
 - [Interconnection and interdependence](../system-properties/interconnection-and-interdependence.md) — Networks are the physical manifestation of interconnection and interdependence between system components.
 - [culture-as-emergent-property.md](culture-as-emergent-property.md) — Culture emerges partly from network structure: who interacts with whom, how frequently, and through what medium.
+- [Agent-Based Models](agent-based-models.md) — ABMs produce emergent network structures

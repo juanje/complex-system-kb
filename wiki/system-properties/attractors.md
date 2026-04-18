@@ -58,3 +58,19 @@ In complex systems, attractors are not fixed -- they can change, emerge from rep
 - [Emergence](emergence.md) -- emergent patterns can crystallize into new attractors over time
 - [Diversity in Complex Systems](diversity-in-complex-systems.md) -- systems with more diverse attractors are more resilient but less efficient
 - [Variability in Complex Systems](variability-in-complex-systems.md) -- deep single attractors reduce variability; multiple shallow attractors increase it
+- [Dynamic Equilibrium](../agents-and-dynamics/dynamic-equilibrium.md) -- dynamic equilibrium relates to limit cycle attractors
+- [Exploration vs. Exploitation](../agents-and-dynamics/exploration-vs-exploitation.md) -- exploitation deepens existing attractors; exploration creates new shallow ones
+- [Threshold](../agents-and-dynamics/threshold.md) -- crossing a threshold can push a system from one attractor to another
+- [Fitness Landscape](../complex-problems/fitness-landscape.md) -- stable regions in the dancing landscape
+- [Invariants](../complex-problems/invariants.md) -- stable states that may shift, unlike true invariants
+- [Linear-Deterministic Thinking](../complex-problems/linear-deterministic-thinking.md) -- stable states and phase transitions create abrupt non-linear changes
+- [System Influence Parameters](../complex-problems/system-influence-parameters.md) -- stable states that limits and constraints help define
+- [Fragile vs. Volatile Systems](../learning/fragile-vs-volatile-systems.md) -- number and depth of attractors distinguishes fragile from volatile
+- [How Complex Systems Learn](../learning/how-complex-systems-learn.md) -- attractors are a primary learning mechanism
+- [Learning About Complex Systems](../learning/learning-about-complex-systems.md) -- among the most important observable features
+- [Calibration](../play-and-games/calibration.md) -- calibration shapes movement and decision attractors
+- [Game Design for Complex Systems](../play-and-games/game-design-for-complex-systems.md) -- game iterations reveal and destabilize attractor patterns
+- [Play in Complex Systems](../play-and-games/play-in-complex-systems.md) -- play destabilizes deep attractors
+- [Black Swan Events](black-swan-events.md) -- black swans can push systems between attractors
+- [Complex Systems](complex-systems.md) -- tendencies providing partial predictability
+- [Sensitivity to Initial Conditions](sensitivity-to-initial-conditions.md) -- attractors provide some predictability despite sensitivity

@@ -38,3 +38,7 @@ Prior decisions and events constrain future possibilities in an irreversible way
 - [Tipping Points](tipping-points.md) -- small differences in initial conditions can determine whether a system reaches a tipping point or not
 - [Attractors](attractors.md) -- attractors represent tendencies and patterns that provide some predictability despite sensitivity to initial conditions
 - [Feedback](feedback.md) -- feedback loops are the mechanism through which small perturbations get amplified or dampened over time
+- [Health as a Complex Problem](../health-and-complexity/health-as-complex-problem.md) -- explains why "it depends" is valid
+- [Black Swan Events](black-swan-events.md) -- cascading amplification mechanism behind many black swans
+- [Complex vs. Complicated](complex-vs-complicated.md) -- explains why same approach yields different results
+- [Variability in Complex Systems](variability-in-complex-systems.md) -- variability means small differences lead to appropriately different responses

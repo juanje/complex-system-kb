@@ -30,3 +30,6 @@ Slack is intentional margin or looseness left in resources -- time, budget, spac
 - [Interventions in Complex Systems](interventions-in-complex-systems.md) -- interventions need buffer to absorb unexpected side effects
 - [Self-Organization](../agents-and-dynamics/self-organization.md) -- slack provides the room for self-organization to operate
 - [Diversity](../system-properties/diversity-in-complex-systems.md) -- variability in components is a form of systemic slack
+- [Fitness Landscape](fitness-landscape.md) -- maintaining margin to navigate shifting terrain
+- [System Influence Parameters](system-influence-parameters.md) -- a form of limit management preserving adaptive capacity
+- [Fragile vs. Volatile Systems](../learning/fragile-vs-volatile-systems.md) -- buffers are what volatile systems lack

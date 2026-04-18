@@ -42,3 +42,12 @@ Time amplifies all three: as interactions accumulate and new emergent behaviors 
 - [Interconnection and Interdependence](interconnection-and-interdependence.md) -- interdependencies are one of the three principal sources of non-linearity
 - [Attractors](attractors.md) -- attractors and phase transitions between them create abrupt non-linear behavioral changes
 - [Sensitivity to Initial Conditions](sensitivity-to-initial-conditions.md) -- non-linearity amplifies small differences in initial conditions into dramatically different outcomes
+- [Nassim Taleb](../authors/nassim-taleb.md) -- Black Swans arise from non-linear dynamics
+- [Linear-Deterministic Thinking](../complex-problems/linear-deterministic-thinking.md) -- the formal property making proportional reasoning fail
+- [Complexity as a Lens](../learning/complexity-as-a-lens.md) -- explains why linear causal reasoning fails
+- [Complex Systems](complex-systems.md) -- disproportionate cause-effect relationships
+- [Complex vs. Complicated](complex-vs-complicated.md) -- key property making complex problems different
+- [Diversity in Complex Systems](diversity-in-complex-systems.md) -- diversity among agents is a source of non-linearity
+- [Feedback](feedback.md) -- feedback can amplify small changes into large effects
+- [Multilevel Organization](multilevel-organization.md) -- each level introduces its own non-linear interactions
+- [Variability in Complex Systems](variability-in-complex-systems.md) -- variability is both product and driver of non-linearity

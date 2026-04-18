@@ -43,3 +43,4 @@ Both implement the same principle from complexity science: exposing a system to 
 - [Feedback](feedback.md) -- variability depends on well-functioning feedback mechanisms that can adjust the system's behavior in response to changing demands
 - [Non-linearity](non-linearity.md) -- variability is both a product and a driver of non-linear dynamics in complex systems
 - [Sensitivity to Initial Conditions](sensitivity-to-initial-conditions.md) -- variability in a system means that small differences in conditions lead to appropriately different responses, which is the hallmark of a healthy adaptive system
+- [Nikolai Bernstein](../authors/nikolai-bernstein.md) -- blacksmith study is empirical evidence for adaptive variability

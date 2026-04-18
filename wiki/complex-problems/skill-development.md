@@ -34,3 +34,4 @@ Developing skills to handle complex problems requires repeated exposure to the p
 - [Perception-Action Coupling](../agents-and-dynamics/perception-action-coupling.md) -- the calibration process at the heart of skill development
 - [Play](../play-and-games/play-in-complex-systems.md) -- games and simulations as safe environments for skill development
 - [Exploration vs. Exploitation](../agents-and-dynamics/exploration-vs-exploitation.md) -- the balance skills must maintain
+- [Nikolai Bernstein](../authors/nikolai-bernstein.md) -- his findings challenge technique-based training
