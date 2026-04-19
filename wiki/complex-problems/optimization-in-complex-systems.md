@@ -40,3 +40,4 @@ Optimization -- the process of maximizing desirable factors and minimizing undes
 - [Edge of Chaos](../learning/edge-of-chaos.md) -- over-optimization pushes away from the edge
 - [Metastability](../learning/metastability.md) -- over-optimization eliminates productive slack
 - [Eliyahu Goldratt](../authors/eliyahu-goldratt.md) -- Theory of Constraints demonstrates why local optimization destroys global performance
+- [Teams as Complex Systems](teams-as-complex-systems.md) -- optimizing individual performance destroys team-level productivity

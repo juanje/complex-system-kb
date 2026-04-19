@@ -35,3 +35,4 @@ Culture is not designed, imposed, or directly controllable — it emerges from t
 - [network-science.md](network-science.md) — Network structure determines who interacts with whom, which directly shapes which agents synchronize and what cultural patterns emerge.
 - [Edge of Chaos](../learning/edge-of-chaos.md) — Cultural change requires perturbations at the edge of chaos to destabilize deep cultural attractors.
 - [Bureaucracy as Extended Cognition](../complex-problems/bureaucracy-as-extended-cognition.md) — Bureaucratic rules are a form of cultural attractor that can fossilize, becoming rigid when the problem they solved has changed.
+- [Teams as Complex Systems](../complex-problems/teams-as-complex-systems.md) — Team culture emerges from the same self-organizing dynamics of synchronization and coherence

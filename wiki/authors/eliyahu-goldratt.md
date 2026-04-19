@@ -21,3 +21,4 @@ Physicist and management consultant who developed the Theory of Constraints, whi
 - [Optimization in Complex Systems](../complex-problems/optimization-in-complex-systems.md) -- his work provides theoretical grounding for why local optimization destroys global performance
 - [Non-linearity](../system-properties/non-linearity.md) -- bottlenecks are a manifestation of non-linear relationships between components
 - [Interconnection and Interdependence](../system-properties/interconnection-and-interdependence.md) -- the Theory of Constraints depends on recognizing interdependencies between system components
+- [Teams as Complex Systems](../complex-problems/teams-as-complex-systems.md) -- local optimization of individual performance destroys global team performance

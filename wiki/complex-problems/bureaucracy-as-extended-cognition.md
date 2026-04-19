@@ -61,3 +61,4 @@ Bureaucracy is not merely an obstacle but a cognitive technology -- the first te
 - [../agents-and-dynamics/behavior-as-emergent-property.md](../agents-and-dynamics/behavior-as-emergent-property.md) -- Bureaucracy shapes the affordances agents perceive, transforming behavior at the system level
 - [Diversity in Complex Systems](../system-properties/diversity-in-complex-systems.md) -- bureaucratic standardization can reduce cognitive diversity
 - [Embodied Cognition](../learning/embodied-cognition.md) -- bureaucracy extends the embodied cognition principle to civilizational scale
+- [Teams as Complex Systems](teams-as-complex-systems.md) -- organizational processes as cognitive technology that can fossilize

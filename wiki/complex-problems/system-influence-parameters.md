@@ -43,3 +43,4 @@ Complex systems cannot be controlled but can be influenced. They self-organize a
 - [Behavior as Emergent Property](../agents-and-dynamics/behavior-as-emergent-property.md) -- changing behavior requires modifying system parameters
 - [Bureaucracy as Extended Cognition](bureaucracy-as-extended-cognition.md) -- bureaucratic rules function as constraints
 - [Environment Design](environment-design.md) -- constraints and affordances are influence parameters
+- [Teams as Complex Systems](teams-as-complex-systems.md) -- teams are influenced through objectives, focus, limits, and constraints

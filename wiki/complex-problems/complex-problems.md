@@ -59,3 +59,4 @@ Some systems can develop flexible, dynamic skills that solve the various mutatio
 - [Bureaucracy as Extended Cognition](bureaucracy-as-extended-cognition.md) -- addresses complex problems but fossilizes
 - [Direction Over Destination](direction-over-destination.md) -- the navigation principle: orient by direction, not fixed goals
 - [Degrees of Freedom Problem](degrees-of-freedom-problem.md) -- a paradigmatic complex problem solved through self-organization
+- [Teams as Complex Systems](teams-as-complex-systems.md) -- teams exemplify complex problems where productivity emerges from interactions

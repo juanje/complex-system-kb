@@ -73,3 +73,4 @@ In simple systems, feedback operates as "feedback loops" -- direct, closed circu
 - [Proprioception](../health-and-complexity/proprioception.md) -- proprioceptive signals are the feedback channel for movement control
 - [Symptoms as Adaptive Responses](../health-and-complexity/symptoms-as-adaptive-responses.md) -- symptoms function as negative feedback for self-regulation
 - [Nervous System as Complex System](../health-and-complexity/nervous-system-as-complex-system.md) -- neural feedback loops (pain-danger, proprioception-movement) are specific instances of the general principle
+- [Teams as Complex Systems](../complex-problems/teams-as-complex-systems.md) -- retrospectives, reviews, and metrics serve as feedback channels for team self-regulation

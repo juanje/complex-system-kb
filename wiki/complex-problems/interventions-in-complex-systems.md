@@ -34,3 +34,4 @@ Interventions are designed actions that modify system parameters -- objectives, 
 - [Calibration](../play-and-games/calibration.md) -- calibration is an iterative process subject to the performance-learning paradox
 - [Direction Over Destination](direction-over-destination.md) -- iterative intervention is inherently direction-based
 - [Environment Design](environment-design.md) -- changing physical environment as a constraint-based intervention strategy
+- [Teams as Complex Systems](teams-as-complex-systems.md) -- intervene small, observe widely, adjust continuously in team dynamics

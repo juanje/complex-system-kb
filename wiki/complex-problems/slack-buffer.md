@@ -37,3 +37,4 @@ Slack is intentional margin or looseness left in resources -- time, budget, spac
 - [Degrees of Freedom Problem](degrees-of-freedom-problem.md) -- movement variability functions as biological slack in solving motor control
 - [Metastability](../learning/metastability.md) -- metastability requires slack
 - [Resilience](../system-properties/resilience.md) -- slack is the practical mechanism that provides resilience against unexpected perturbations
+- [Teams as Complex Systems](teams-as-complex-systems.md) -- 10-20% buffer prevents cascading failures in team dynamics

@@ -60,3 +60,4 @@ Diversity refers to the variety and heterogeneity of component types and relatio
 - [Adaptation](adaptation.md) -- diversity provides the raw material from which adaptive responses emerge
 - [Resilience](resilience.md) -- diverse systems are more resilient because they have multiple response options
 - [Movement as Nutrition](../health-and-complexity/movement-as-nutrition.md) -- movement nutrient diversity maps onto system diversity
+- [Teams as Complex Systems](../complex-problems/teams-as-complex-systems.md) -- cognitive diversity as a team's adaptive capacity; three mechanisms that erode it

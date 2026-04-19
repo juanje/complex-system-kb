@@ -58,6 +58,7 @@ Approaching, understanding, and navigating complex problems.
 - [Slack / Buffer](complex-problems/slack-buffer.md) — Intentional margin for absorbing perturbations
 - [System Influence Parameters](complex-problems/system-influence-parameters.md) — Objectives, focus, limits, and constraints as levers
 - [Environment Design](complex-problems/environment-design.md) — Modifying affordances rather than relying on willpower
+- [Teams as Complex Systems](complex-problems/teams-as-complex-systems.md) — Applying complexity thinking to team productivity and organizational dynamics
 - [Technique vs. Skill](complex-problems/technique-vs-skill.md) — Fixed solutions vs. adaptive capacity
 
 ## Play and Games

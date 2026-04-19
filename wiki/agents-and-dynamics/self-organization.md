@@ -45,3 +45,4 @@ Self-organization is the process by which global patterns, structures, and behav
 - [Adaptation](../system-properties/adaptation.md) — adaptation is self-organized; no central agent designs the system's response
 - [Degrees of Freedom Problem](../complex-problems/degrees-of-freedom-problem.md) — the body solves Bernstein's motor control challenge through self-organization
 - [Nervous System as Complex System](../health-and-complexity/nervous-system-as-complex-system.md) — the nervous system self-organizes protection, movement, and perception without central command
+- [Teams as Complex Systems](../complex-problems/teams-as-complex-systems.md) — team coordination emerges through self-organization, not top-down control

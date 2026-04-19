@@ -19,3 +19,4 @@ Complexity scientist and author of "Diversity and Complexity" and the audiocours
 - [Diversity in Complex Systems](../system-properties/diversity-in-complex-systems.md) -- primary theoretical source on the diversity-complexity relationship
 - [Complex Problems](../complex-problems/complex-problems.md) -- his control-vs-influence framing shapes the blog's approach to complex problem-solving
 - [Exploration vs. Exploitation](../agents-and-dynamics/exploration-vs-exploitation.md) -- his work underpins the diversity-exploration link
+- [Teams as Complex Systems](../complex-problems/teams-as-complex-systems.md) -- cognitive diversity and the control-vs-influence framing applied to teams

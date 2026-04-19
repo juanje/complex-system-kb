@@ -29,3 +29,4 @@ When facing complex problems, the most effective strategy is to orient around a 
 - [Linear-Deterministic Thinking](linear-deterministic-thinking.md) -- fixed-goal thinking is a manifestation of linear-deterministic assumptions
 - [Exploration vs. Exploitation](../agents-and-dynamics/exploration-vs-exploitation.md) -- direction allows continuous cycling between both strategies
 - [Fitness Landscape](fitness-landscape.md) -- on a dancing landscape, no fixed peak exists to aim for
+- [Teams as Complex Systems](teams-as-complex-systems.md) -- teams navigate dynamic problem spaces by direction, not fixed plans
