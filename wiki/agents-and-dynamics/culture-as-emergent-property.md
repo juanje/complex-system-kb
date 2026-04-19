@@ -1,7 +1,7 @@
 ---
-tags: [complexity, social-systems]
+tags: [adaptation, complexity, social-systems]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Culture as Emergent Property

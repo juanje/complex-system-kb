@@ -1,7 +1,7 @@
 ---
-tags: [complexity, resilience]
+tags: [adaptation, complexity, dynamics, intervention, resilience]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Slack / Buffer

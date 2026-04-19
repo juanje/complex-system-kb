@@ -1,7 +1,7 @@
 ---
-tags: [problem-solving, learning]
+tags: [learning, movement, problem-solving]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Technique vs. Skill

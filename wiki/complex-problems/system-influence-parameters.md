@@ -1,7 +1,7 @@
 ---
-tags: [complexity, intervention]
+tags: [cognition, complexity, dynamics, intervention, problem-solving]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # System Influence Parameters

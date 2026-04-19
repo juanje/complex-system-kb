@@ -1,5 +1,5 @@
 ---
-tags: [health, movement]
+tags: [cognition, health, learning, movement, neuroscience]
 created: 2026-04-19
 updated: 2026-04-19
 ---

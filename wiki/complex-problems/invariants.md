@@ -1,7 +1,7 @@
 ---
-tags: [complexity, problem-solving]
+tags: [complexity, learning, problem-solving]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Invariants

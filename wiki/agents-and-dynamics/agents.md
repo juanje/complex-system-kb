@@ -1,8 +1,8 @@
 ---
-tags: [complexity, dynamics]
+tags: [complexity, dynamics, movement]
 type: glossary
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Agent

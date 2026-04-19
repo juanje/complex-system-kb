@@ -1,7 +1,7 @@
 ---
-tags: [problem-solving, complexity]
+tags: [adaptation, complexity, optimization, problem-solving]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Optimization in Complex Systems

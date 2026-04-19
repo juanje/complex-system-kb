@@ -1,7 +1,7 @@
 ---
-tags: [systems-thinking, learning]
+tags: [learning, systems-thinking, cognition]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Complexity as a Lens

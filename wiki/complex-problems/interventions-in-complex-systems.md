@@ -1,7 +1,7 @@
 ---
-tags: [complexity, intervention]
+tags: [complexity, dynamics, intervention]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Interventions in Complex Systems

@@ -1,7 +1,7 @@
 ---
-tags: [complexity, dynamics]
+tags: [adaptation, complexity, dynamics, health, systems-thinking]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Sensitivity to Initial Conditions

@@ -1,5 +1,5 @@
 ---
-tags: [movement, learning]
+tags: [learning, movement]
 type: author
 field: [movement education and play]
 created: 2026-04-19

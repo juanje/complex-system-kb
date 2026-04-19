@@ -1,7 +1,7 @@
 ---
-tags: [problem-solving, cognition]
+tags: [cognition, intervention, problem-solving, systems-thinking]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Linear-Deterministic Thinking

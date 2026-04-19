@@ -3,7 +3,7 @@ tags: [health, movement]
 type: author
 field: [movement science and pain science]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Todd Hargrove

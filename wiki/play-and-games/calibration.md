@@ -1,7 +1,7 @@
 ---
-tags: [learning, movement]
+tags: [cognition, health, learning, movement]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Calibration

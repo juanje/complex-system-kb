@@ -1,7 +1,7 @@
 ---
-tags: [complexity, risk]
+tags: [complexity, dynamics, risk]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Black Swan Events

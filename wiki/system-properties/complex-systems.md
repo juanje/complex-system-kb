@@ -1,7 +1,7 @@
 ---
-tags: [complexity, systems-thinking]
+tags: [complexity, dynamics, systems-thinking]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Complex Systems

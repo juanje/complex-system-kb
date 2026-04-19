@@ -1,7 +1,7 @@
 ---
-tags: [complexity, systems-thinking]
+tags: [adaptation, complexity, dynamics, systems-thinking]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Non-linearity

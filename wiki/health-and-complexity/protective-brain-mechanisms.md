@@ -1,5 +1,5 @@
 ---
-tags: [health, neuroscience]
+tags: [adaptation, cognition, dynamics, health, neuroscience]
 created: 2026-04-19
 updated: 2026-04-19
 ---

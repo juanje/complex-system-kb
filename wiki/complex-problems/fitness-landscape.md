@@ -1,7 +1,7 @@
 ---
-tags: [problem-solving, complexity]
+tags: [complexity, learning, problem-solving]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Fitness Landscape

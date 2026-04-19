@@ -1,5 +1,5 @@
 ---
-tags: [health, complexity]
+tags: [adaptation, cognition, complexity, health, learning]
 created: 2026-04-18
 updated: 2026-04-19
 ---

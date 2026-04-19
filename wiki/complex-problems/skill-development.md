@@ -1,7 +1,7 @@
 ---
-tags: [learning, problem-solving]
+tags: [adaptation, learning, motor-control, problem-solving]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Skill Development

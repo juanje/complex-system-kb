@@ -1,7 +1,7 @@
 ---
-tags: [complexity, dynamics]
+tags: [adaptation, complexity, dynamics]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Metastability

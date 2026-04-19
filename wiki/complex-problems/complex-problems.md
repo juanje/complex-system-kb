@@ -1,7 +1,7 @@
 ---
-tags: [problem-solving, complexity]
+tags: [cognition, complexity, health, intervention, problem-solving]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Complex Problems

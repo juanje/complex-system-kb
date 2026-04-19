@@ -1,9 +1,9 @@
 ---
-tags: [diversity, complexity]
+tags: [adaptation, complexity, diversity, problem-solving]
 type: author
 field: [complexity science]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Scott E. Page

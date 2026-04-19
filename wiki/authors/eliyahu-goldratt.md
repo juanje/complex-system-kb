@@ -1,5 +1,5 @@
 ---
-tags: [systems-thinking, optimization]
+tags: [optimization, systems-thinking]
 type: author
 field: [operations management, systems thinking]
 created: 2026-04-19

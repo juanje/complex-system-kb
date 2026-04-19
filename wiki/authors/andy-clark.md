@@ -1,5 +1,5 @@
 ---
-tags: [cognition, philosophy]
+tags: [cognition, learning, philosophy]
 type: author
 field: [philosophy of mind, cognitive science]
 created: 2026-04-19

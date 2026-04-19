@@ -1,7 +1,7 @@
 ---
-tags: [complexity, adaptation]
+tags: [adaptation, cognition, complexity, diversity]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Diversity in Complex Systems

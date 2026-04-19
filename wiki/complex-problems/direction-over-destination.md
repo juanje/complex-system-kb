@@ -1,5 +1,5 @@
 ---
-tags: [problem-solving, complexity]
+tags: [complexity, intervention, problem-solving]
 created: 2026-04-19
 updated: 2026-04-19
 ---

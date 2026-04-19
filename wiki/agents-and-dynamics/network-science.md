@@ -1,7 +1,7 @@
 ---
-tags: [complexity, networks]
+tags: [complexity, dynamics, networks]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Network Science

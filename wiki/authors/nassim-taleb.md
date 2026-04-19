@@ -1,9 +1,9 @@
 ---
-tags: [risk, resilience]
+tags: [resilience, risk]
 type: author
 field: [risk analysis]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Nassim Taleb
