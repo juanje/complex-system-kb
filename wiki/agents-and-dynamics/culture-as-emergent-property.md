@@ -1,5 +1,5 @@
 ---
-tags: [adaptation, complexity, social-systems]
+tags: [culture, adaptation, complexity, social-systems]
 created: 2026-04-18
 updated: 2026-04-19
 ---

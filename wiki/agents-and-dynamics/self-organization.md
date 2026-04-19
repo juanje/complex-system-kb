@@ -1,5 +1,5 @@
 ---
-tags: [adaptation, cognition, complexity, dynamics]
+tags: [self-organization, adaptation, cognition, complexity, dynamics]
 created: 2026-04-18
 updated: 2026-04-19
 ---

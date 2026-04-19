@@ -1,5 +1,5 @@
 ---
-tags: [resilience, risk]
+tags: [resilience, risk, complexity]
 type: author
 field: [risk analysis]
 created: 2026-04-18

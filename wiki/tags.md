@@ -16,6 +16,8 @@
 - [Strong and Weak Agents](agents-and-dynamics/strong-and-weak-agents.md)
 - [Threshold](agents-and-dynamics/threshold.md)
 - [Edward Lorenz](authors/edward-lorenz.md)
+- [Nassim Taleb](authors/nassim-taleb.md)
+- [Rafe Kelley](authors/rafe-kelley.md)
 - [Scott E. Page](authors/scott-e-page.md)
 - [Bureaucracy as Extended Cognition](complex-problems/bureaucracy-as-extended-cognition.md)
 - [Complex Problems](complex-problems/complex-problems.md)
@@ -32,6 +34,7 @@
 - [Ecological Psychology](health-and-complexity/ecological-psychology.md)
 - [Health as a Complex Problem](health-and-complexity/health-as-complex-problem.md)
 - [Nervous System as Complex System](health-and-complexity/nervous-system-as-complex-system.md)
+- [Complexity as a Lens](learning/complexity-as-a-lens.md)
 - [Edge of Chaos](learning/edge-of-chaos.md)
 - [Embodied Cognition](learning/embodied-cognition.md)
 - [Fragile vs. Volatile Systems](learning/fragile-vs-volatile-systems.md)
@@ -66,6 +69,7 @@
 - [Self-Organization](agents-and-dynamics/self-organization.md)
 - [Strong and Weak Agents](agents-and-dynamics/strong-and-weak-agents.md)
 - [Threshold](agents-and-dynamics/threshold.md)
+- [Katy Bowman](authors/katy-bowman.md)
 - [Scott E. Page](authors/scott-e-page.md)
 - [Optimization in Complex Systems](complex-problems/optimization-in-complex-systems.md)
 - [Skill Development](complex-problems/skill-development.md)
@@ -100,6 +104,7 @@
 - [Self-Organization](agents-and-dynamics/self-organization.md)
 - [Strong and Weak Agents](agents-and-dynamics/strong-and-weak-agents.md)
 - [Threshold](agents-and-dynamics/threshold.md)
+- [Edward Lorenz](authors/edward-lorenz.md)
 - [Interventions in Complex Systems](complex-problems/interventions-in-complex-systems.md)
 - [Slack / Buffer](complex-problems/slack-buffer.md)
 - [System Influence Parameters](complex-problems/system-influence-parameters.md)
@@ -122,6 +127,37 @@
 - [Non-linearity](system-properties/non-linearity.md)
 - [Sensitivity to Initial Conditions](system-properties/sensitivity-to-initial-conditions.md)
 - [Tipping Points](system-properties/tipping-points.md)
+
+## learning
+
+- [Perception-Action Coupling](agents-and-dynamics/perception-action-coupling.md)
+- [Strong and Weak Agents](agents-and-dynamics/strong-and-weak-agents.md)
+- [Andy Clark](authors/andy-clark.md)
+- [Nikolai Bernstein](authors/nikolai-bernstein.md)
+- [Rafe Kelley](authors/rafe-kelley.md)
+- [Todd Hargrove](authors/todd-hargrove.md)
+- [Constraints-Led Approach](complex-problems/constraints-led-approach.md)
+- [Fitness Landscape](complex-problems/fitness-landscape.md)
+- [Invariants](complex-problems/invariants.md)
+- [Skill Development](complex-problems/skill-development.md)
+- [Technique vs. Skill](complex-problems/technique-vs-skill.md)
+- [Body Map](health-and-complexity/body-map.md)
+- [Epigenetics](health-and-complexity/epigenetics.md)
+- [Health as a Complex Problem](health-and-complexity/health-as-complex-problem.md)
+- [Learned Pain](health-and-complexity/learned-pain.md)
+- [Proprioception](health-and-complexity/proprioception.md)
+- [Sensation vs. Perception](health-and-complexity/sensation-vs-perception.md)
+- [Complexity as a Lens](learning/complexity-as-a-lens.md)
+- [Edge of Chaos](learning/edge-of-chaos.md)
+- [Embodied Cognition](learning/embodied-cognition.md)
+- [How Complex Systems Learn](learning/how-complex-systems-learn.md)
+- [Learning About Complex Systems](learning/learning-about-complex-systems.md)
+- [Learning as Reorganization](learning/learning-as-reorganization.md)
+- [Search Space](learning/search-space.md)
+- [Calibration](play-and-games/calibration.md)
+- [Game Design for Complex Systems](play-and-games/game-design-for-complex-systems.md)
+- [Play in Complex Systems](play-and-games/play-in-complex-systems.md)
+- [Emergence](system-properties/emergence.md)
 
 ## cognition
 
@@ -151,36 +187,6 @@
 - [Calibration](play-and-games/calibration.md)
 - [Attractors](system-properties/attractors.md)
 - [Diversity in Complex Systems](system-properties/diversity-in-complex-systems.md)
-- [Emergence](system-properties/emergence.md)
-
-## learning
-
-- [Perception-Action Coupling](agents-and-dynamics/perception-action-coupling.md)
-- [Strong and Weak Agents](agents-and-dynamics/strong-and-weak-agents.md)
-- [Andy Clark](authors/andy-clark.md)
-- [Nikolai Bernstein](authors/nikolai-bernstein.md)
-- [Rafe Kelley](authors/rafe-kelley.md)
-- [Constraints-Led Approach](complex-problems/constraints-led-approach.md)
-- [Fitness Landscape](complex-problems/fitness-landscape.md)
-- [Invariants](complex-problems/invariants.md)
-- [Skill Development](complex-problems/skill-development.md)
-- [Technique vs. Skill](complex-problems/technique-vs-skill.md)
-- [Body Map](health-and-complexity/body-map.md)
-- [Epigenetics](health-and-complexity/epigenetics.md)
-- [Health as a Complex Problem](health-and-complexity/health-as-complex-problem.md)
-- [Learned Pain](health-and-complexity/learned-pain.md)
-- [Proprioception](health-and-complexity/proprioception.md)
-- [Sensation vs. Perception](health-and-complexity/sensation-vs-perception.md)
-- [Complexity as a Lens](learning/complexity-as-a-lens.md)
-- [Edge of Chaos](learning/edge-of-chaos.md)
-- [Embodied Cognition](learning/embodied-cognition.md)
-- [How Complex Systems Learn](learning/how-complex-systems-learn.md)
-- [Learning About Complex Systems](learning/learning-about-complex-systems.md)
-- [Learning as Reorganization](learning/learning-as-reorganization.md)
-- [Search Space](learning/search-space.md)
-- [Calibration](play-and-games/calibration.md)
-- [Game Design for Complex Systems](play-and-games/game-design-for-complex-systems.md)
-- [Play in Complex Systems](play-and-games/play-in-complex-systems.md)
 - [Emergence](system-properties/emergence.md)
 
 ## health
@@ -235,6 +241,7 @@
 ## problem-solving
 
 - [Exploration vs. Exploitation](agents-and-dynamics/exploration-vs-exploitation.md)
+- [Eliyahu M. Goldratt](authors/eliyahu-goldratt.md)
 - [Nikolai Bernstein](authors/nikolai-bernstein.md)
 - [Scott E. Page](authors/scott-e-page.md)
 - [Complex Problems](complex-problems/complex-problems.md)
@@ -319,15 +326,30 @@
 - [Degrees of Freedom Problem](complex-problems/degrees-of-freedom-problem.md)
 - [Skill Development](complex-problems/skill-development.md)
 
+## behavior
+
+- [Behavior as Emergent Property](agents-and-dynamics/behavior-as-emergent-property.md)
+- [Suzana Herculano-Houzel](authors/suzana-herculano-houzel.md)
+
 ## networks
 
 - [Network Science](agents-and-dynamics/network-science.md)
 - [Interconnection and Interdependence](system-properties/interconnection-and-interdependence.md)
 
+## [self-organization](agents-and-dynamics/self-organization.md)
+
+- [Self-Organization](agents-and-dynamics/self-organization.md)
+- [Constraints-Led Approach](complex-problems/constraints-led-approach.md)
+
 ## optimization
 
 - [Eliyahu M. Goldratt](authors/eliyahu-goldratt.md)
 - [Optimization in Complex Systems](complex-problems/optimization-in-complex-systems.md)
+
+## [ecological-psychology](health-and-complexity/ecological-psychology.md)
+
+- [James J. Gibson](authors/james-j-gibson.md)
+- [Ecological Psychology](health-and-complexity/ecological-psychology.md)
 
 ## diversity
 
@@ -339,9 +361,18 @@
 - [Constraints-Led Approach](complex-problems/constraints-led-approach.md)
 - [Search Space](learning/search-space.md)
 
+## [environment-design](complex-problems/environment-design.md)
+
+- [Constraints-Led Approach](complex-problems/constraints-led-approach.md)
+- [Environment Design](complex-problems/environment-design.md)
+
 ## modeling
 
 - [Agent-Based Models](agents-and-dynamics/agent-based-models.md)
+
+## culture
+
+- [Culture as Emergent Property](agents-and-dynamics/culture-as-emergent-property.md)
 
 ## philosophy
 
@@ -350,19 +381,3 @@
 ## chaos-theory
 
 - [Edward Lorenz](authors/edward-lorenz.md)
-
-## [ecological-psychology](health-and-complexity/ecological-psychology.md)
-
-- [James J. Gibson](authors/james-j-gibson.md)
-
-## behavior
-
-- [Suzana Herculano-Houzel](authors/suzana-herculano-houzel.md)
-
-## [environment-design](complex-problems/environment-design.md)
-
-- [Constraints-Led Approach](complex-problems/constraints-led-approach.md)
-
-## [self-organization](agents-and-dynamics/self-organization.md)
-
-- [Constraints-Led Approach](complex-problems/constraints-led-approach.md)

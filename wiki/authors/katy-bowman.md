@@ -1,5 +1,5 @@
 ---
-tags: [health, movement]
+tags: [health, movement, adaptation]
 type: author
 field: [movement science and biomechanics]
 created: 2026-04-19

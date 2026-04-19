@@ -1,5 +1,5 @@
 ---
-tags: [chaos-theory, complexity]
+tags: [chaos-theory, complexity, dynamics]
 type: author
 field: [meteorology, chaos theory]
 created: 2026-04-19

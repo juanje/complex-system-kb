@@ -1,5 +1,5 @@
 ---
-tags: [learning, systems-thinking, cognition]
+tags: [complexity, learning, systems-thinking, cognition]
 created: 2026-04-18
 updated: 2026-04-19
 ---

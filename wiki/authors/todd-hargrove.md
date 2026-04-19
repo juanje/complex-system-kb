@@ -1,5 +1,5 @@
 ---
-tags: [health, movement]
+tags: [health, movement, learning]
 type: author
 field: [movement science and pain science]
 created: 2026-04-18

@@ -1,5 +1,5 @@
 ---
-tags: [cognition, movement, complexity]
+tags: [ecological-psychology, cognition, movement, complexity]
 created: 2026-04-18
 updated: 2026-04-18
 ---

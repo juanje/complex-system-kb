@@ -1,5 +1,5 @@
 ---
-tags: [cognition, complexity, health, intervention]
+tags: [environment-design, cognition, complexity, health, intervention]
 created: 2026-04-19
 updated: 2026-04-19
 ---
