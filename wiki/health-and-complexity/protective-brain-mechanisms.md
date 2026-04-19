@@ -34,3 +34,5 @@ The brain's primary function is survival, and it employs a suite of conservative
 - [body-map.md](body-map.md) -- A blurry body map increases the brain's uncertainty about a region, triggering more conservative protective responses
 - [Sensation vs. Perception](sensation-vs-perception.md) -- protective mechanisms triggered by perception, not raw sensation
 - [Symptoms as Adaptive Responses](symptoms-as-adaptive-responses.md) -- brain's protective responses generate symptoms
+- [Nervous System as Complex System](nervous-system-as-complex-system.md) -- synthesis: the nervous system IS a complex system using attractors, feedback, self-organization, and adaptation
+- [learned-pain.md](learned-pain.md) -- protective mechanisms can become permanent through the learned pain pathway

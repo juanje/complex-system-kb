@@ -33,3 +33,4 @@ Proprioception is the sensory system that informs the brain about body position,
 - [sensation-vs-perception.md](sensation-vs-perception.md) -- Proprioception is a sensation; body position awareness is the corresponding perception
 - [../play-and-games/calibration.md](../play-and-games/calibration.md) -- Calibration refines the proprioceptive system through repeated, varied practice
 - [health-as-complex-problem.md](health-as-complex-problem.md) -- proprioception provides data for movement quality
+- [Nervous System as Complex System](nervous-system-as-complex-system.md) -- synthesis: the nervous system IS a complex system using attractors, feedback, self-organization, and adaptation

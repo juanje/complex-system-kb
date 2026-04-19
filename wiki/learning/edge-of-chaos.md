@@ -63,3 +63,4 @@ The edge of chaos is the narrow band between total stability and total chaos whe
 - [Adaptation](../system-properties/adaptation.md) -- the edge of chaos defines the zone where adaptive reorganization becomes possible
 - [Resilience](../system-properties/resilience.md) -- the zone where perturbation strengthens rather than breaks the system — the mechanism behind antifragility
 - [Learned Pain](../health-and-complexity/learned-pain.md) -- unlearning pain requires progressive re-exposure at the edge of chaos
+- [Nervous System as Complex System](../health-and-complexity/nervous-system-as-complex-system.md) -- unlearning maladaptive neural patterns requires edge-of-chaos perturbation

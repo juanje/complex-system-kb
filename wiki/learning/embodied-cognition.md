@@ -38,3 +38,4 @@ Across this wiki, a recurring pattern emerges: cognition is not a computation th
 - [Sensation vs. Perception](../health-and-complexity/sensation-vs-perception.md) — body's sensory systems are constitutive of cognition
 - [Proprioception](../health-and-complexity/proprioception.md) — cognition depends on body-level information
 - [Body Map](../health-and-complexity/body-map.md) — body map shaped by embodied experience
+- [Nervous System as Complex System](../health-and-complexity/nervous-system-as-complex-system.md) — the nervous system provides the neural substrate for embodied cognition

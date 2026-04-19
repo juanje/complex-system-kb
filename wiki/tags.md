@@ -30,6 +30,7 @@
 - [System Influence Parameters](complex-problems/system-influence-parameters.md)
 - [Ecological Psychology](health-and-complexity/ecological-psychology.md)
 - [Health as a Complex Problem](health-and-complexity/health-as-complex-problem.md)
+- [Nervous System as Complex System](health-and-complexity/nervous-system-as-complex-system.md)
 - [Edge of Chaos](learning/edge-of-chaos.md)
 - [Embodied Cognition](learning/embodied-cognition.md)
 - [Fragile vs. Volatile Systems](learning/fragile-vs-volatile-systems.md)
@@ -188,6 +189,7 @@
 - [Health as a Complex Problem](health-and-complexity/health-as-complex-problem.md)
 - [Learned Pain](health-and-complexity/learned-pain.md)
 - [Movement as Nutrition](health-and-complexity/movement-as-nutrition.md)
+- [Nervous System as Complex System](health-and-complexity/nervous-system-as-complex-system.md)
 - [Pain as Perception](health-and-complexity/pain-as-perception.md)
 - [Proprioception](health-and-complexity/proprioception.md)
 - [Protective Brain Mechanisms](health-and-complexity/protective-brain-mechanisms.md)
@@ -264,6 +266,7 @@
 
 - [Body Map](health-and-complexity/body-map.md)
 - [Learned Pain](health-and-complexity/learned-pain.md)
+- [Nervous System as Complex System](health-and-complexity/nervous-system-as-complex-system.md)
 - [Pain as Perception](health-and-complexity/pain-as-perception.md)
 - [Proprioception](health-and-complexity/proprioception.md)
 - [Protective Brain Mechanisms](health-and-complexity/protective-brain-mechanisms.md)

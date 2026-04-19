@@ -30,3 +30,4 @@ Framework by [Katy Bowman](../authors/katy-bowman.md) treating movement variety 
 - [../system-properties/diversity-in-complex-systems.md](../system-properties/diversity-in-complex-systems.md) -- movement diversity maps directly onto the principle that heterogeneity of components strengthens complex systems
 - [../authors/katy-bowman.md](../authors/katy-bowman.md) -- originator of this framework
 - [ecological-psychology.md](ecological-psychology.md) -- the affordance landscape determines which movements are available and therefore which cells get fed
+- [body-map.md](body-map.md) -- movement nutrients are what maintain and refine the body map

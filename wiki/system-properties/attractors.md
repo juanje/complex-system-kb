@@ -85,3 +85,4 @@ In complex systems, attractors are not fixed -- they can change, emerge from rep
 - [Learned Pain](../health-and-complexity/learned-pain.md) -- chronic pain as an automated attractor: the brain fires pain without re-evaluating danger
 - [Environment Design](../complex-problems/environment-design.md) -- habits from environment design create behavioral attractors
 - [Pain as Perception](../health-and-complexity/pain-as-perception.md) -- chronic pain can become a deep attractor
+- [Nervous System as Complex System](../health-and-complexity/nervous-system-as-complex-system.md) -- neural patterns (habits, pain, postures) are attractors with the same dynamics as any complex system attractor

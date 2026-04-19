@@ -54,3 +54,4 @@ Health is not a simple or merely complicated problem -- it is a complex one. The
 - [Epigenetics](epigenetics.md) -- gene expression shaped by environment, not genetic destiny
 - [Environment Design](../complex-problems/environment-design.md) -- changing the physical environment as a complexity-aware health intervention
 - [Katy Bowman](../authors/katy-bowman.md) -- contributes to understanding health as multi-variable complex problem
+- [Nervous System as Complex System](nervous-system-as-complex-system.md) -- the nervous system's complexity is why health resists linear approaches

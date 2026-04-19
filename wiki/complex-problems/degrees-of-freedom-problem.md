@@ -32,3 +32,4 @@ The degrees of freedom problem, formulated by Nikolai Bernstein, asks how the ne
 - [Complex Problems](complex-problems.md) -- the degrees of freedom problem is a paradigmatic complex problem
 - [Technique vs. Skill](technique-vs-skill.md) -- techniques prescribe fixed solutions; skills solve the degrees of freedom problem dynamically
 - [Body Map](../health-and-complexity/body-map.md) -- detailed body map allows more degrees of freedom to be controlled
+- [Nervous System as Complex System](../health-and-complexity/nervous-system-as-complex-system.md) -- the nervous system solves the degrees of freedom problem through self-organization

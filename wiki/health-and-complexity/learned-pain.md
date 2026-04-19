@@ -32,3 +32,6 @@ Chronic pain can become a learned attractor pattern where the brain automates th
 - [../agents-and-dynamics/perception-action-coupling.md](../agents-and-dynamics/perception-action-coupling.md) -- Pain distorts the perception-action loop, making safe movements feel dangerous
 - [health-as-complex-problem.md](health-as-complex-problem.md) -- Learned pain exemplifies why chronic conditions resist linear, structure-focused interventions
 - [../learning/edge-of-chaos.md](../learning/edge-of-chaos.md) -- Graded exposure works at the edge of chaos: enough challenge to provoke reorganization, not enough to trigger protective lockdown
+- [Nervous System as Complex System](nervous-system-as-complex-system.md) -- synthesis: the nervous system IS a complex system using attractors, feedback, self-organization, and adaptation
+- [body-map.md](body-map.md) -- learned pain can distort the body map by restricting movements that would maintain it
+- [protective-brain-mechanisms.md](protective-brain-mechanisms.md) -- learned pain is an automated form of the brain's protective response

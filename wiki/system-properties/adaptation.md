@@ -46,3 +46,4 @@ The balance between exploration and exploitation is regulated by diversity and v
 - [Protective Brain Mechanisms](../health-and-complexity/protective-brain-mechanisms.md) — protective responses are adaptations to perceived threat
 - [Body Map](../health-and-complexity/body-map.md) — body map plasticity is structural adaptation to demand
 - [Symptoms as Adaptive Responses](../health-and-complexity/symptoms-as-adaptive-responses.md) — symptoms are instances of self-organized adaptive capacity
+- [Nervous System as Complex System](../health-and-complexity/nervous-system-as-complex-system.md) — neural adaptation (body map plasticity, threshold shifts) is adaptation at the neural substrate level

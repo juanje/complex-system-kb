@@ -78,6 +78,7 @@ Applying complexity thinking to health, movement, and the human body.
 - [Health as a Complex Problem](health-and-complexity/health-as-complex-problem.md) — Why health requires complexity-aware approaches
 - [Learned Pain](health-and-complexity/learned-pain.md) — Chronic pain as automated attractor pattern
 - [Movement as Nutrition](health-and-complexity/movement-as-nutrition.md) — Movement variety as nutritional diversity for cellular health
+- [Nervous System as Complex System](health-and-complexity/nervous-system-as-complex-system.md) — Synthesis: the nervous system uses attractors, feedback, self-organization, and adaptation
 - [Pain as Perception](health-and-complexity/pain-as-perception.md) — Pain as brain construction, not tissue damage readout
 - [Proprioception](health-and-complexity/proprioception.md) — Body position sensory system for movement quality
 - [Protective Brain Mechanisms](health-and-complexity/protective-brain-mechanisms.md) — Conservative survival strategies: pain, fatigue, force reduction
