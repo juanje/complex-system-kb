@@ -32,3 +32,4 @@ Proprioception is the sensory system that informs the brain about body position,
 - [../system-properties/feedback.md](../system-properties/feedback.md) -- Proprioceptive signals are the feedback channel for the postural and movement control loops
 - [sensation-vs-perception.md](sensation-vs-perception.md) -- Proprioception is a sensation; body position awareness is the corresponding perception
 - [../play-and-games/calibration.md](../play-and-games/calibration.md) -- Calibration refines the proprioceptive system through repeated, varied practice
+- [health-as-complex-problem.md](health-as-complex-problem.md) -- proprioception provides data for movement quality

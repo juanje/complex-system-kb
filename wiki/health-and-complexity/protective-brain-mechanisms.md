@@ -32,3 +32,5 @@ The brain's primary function is survival, and it employs a suite of conservative
 - [pain-as-perception.md](pain-as-perception.md) -- Pain is the most prominent protective output; understanding it as perception explains why it can persist after tissue healing
 - [proprioception.md](proprioception.md) -- Proprioceptive quality directly influences the brain's threat assessment; poor proprioception increases uncertainty and therefore protection
 - [body-map.md](body-map.md) -- A blurry body map increases the brain's uncertainty about a region, triggering more conservative protective responses
+- [Sensation vs. Perception](sensation-vs-perception.md) -- protective mechanisms triggered by perception, not raw sensation
+- [Symptoms as Adaptive Responses](symptoms-as-adaptive-responses.md) -- brain's protective responses generate symptoms

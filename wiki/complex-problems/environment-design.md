@@ -31,3 +31,4 @@ Changing the physical environment to make desired behaviors easy and undesired b
 - [../health-and-complexity/health-as-complex-problem.md](../health-and-complexity/health-as-complex-problem.md) -- environment design is a complexity-aware approach to health behavior change
 - [../agents-and-dynamics/perception-action-coupling.md](../agents-and-dynamics/perception-action-coupling.md) -- environment design works because perception and action are coupled: change what is perceived, change what is done
 - [../agents-and-dynamics/behavior-as-emergent-property.md](../agents-and-dynamics/behavior-as-emergent-property.md) -- behavior emerges from the individual-environment system, so modifying the environment modifies the behavior
+- [Katy Bowman](../authors/katy-bowman.md) -- her home modifications exemplify affordance-based intervention

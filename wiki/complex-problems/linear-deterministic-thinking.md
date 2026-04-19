@@ -37,3 +37,4 @@ Linear-deterministic thinking is the cognitive tendency to apply proportional, p
 - [System Influence Parameters](system-influence-parameters.md) -- the cognitive trap of believing we can directly change systems
 - [Andy Clark](../authors/andy-clark.md) -- his predictive processing framework explains why linear-deterministic thinking is the cognitive default
 - [Direction Over Destination](direction-over-destination.md) -- the practical counterweight to fixed-goal thinking
+- [Symptoms as Adaptive Responses](../health-and-complexity/symptoms-as-adaptive-responses.md) -- suppressing symptoms is linear thinking applied to a complex system

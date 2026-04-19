@@ -31,3 +31,4 @@ The degrees of freedom problem, formulated by Nikolai Bernstein, asks how the ne
 - [Skill Development](skill-development.md) -- developing movement skills means learning to self-organize degrees of freedom for novel situations
 - [Complex Problems](complex-problems.md) -- the degrees of freedom problem is a paradigmatic complex problem
 - [Technique vs. Skill](technique-vs-skill.md) -- techniques prescribe fixed solutions; skills solve the degrees of freedom problem dynamically
+- [Body Map](../health-and-complexity/body-map.md) -- detailed body map allows more degrees of freedom to be controlled

@@ -31,3 +31,11 @@ Perception-action coupling is the fundamental principle that agents react to wha
 - [Ecological Psychology](../health-and-complexity/ecological-psychology.md) — affordances are the environmental counterpart
 - [Embodied Cognition](../learning/embodied-cognition.md) — the perception-action loop is the fundamental mechanism through which embodied cognition operates
 - [Andy Clark](../authors/andy-clark.md) — predictive processing theory operates through the perception-action loop
+- [Learned Pain](../health-and-complexity/learned-pain.md) — pain distorts the perception-action loop
+- [Environment Design](../complex-problems/environment-design.md) — changing perception changes action
+- [Protective Brain Mechanisms](../health-and-complexity/protective-brain-mechanisms.md) — protection modulates available actions
+- [Sensation vs. Perception](../health-and-complexity/sensation-vs-perception.md) — perception quality determines action quality
+- [Proprioception](../health-and-complexity/proprioception.md) — body-internal component of the loop
+- [Body Map](../health-and-complexity/body-map.md) — map resolution determines loop precision
+- [Pain as Perception](../health-and-complexity/pain-as-perception.md) — pain alters perceived available movements
+- [Rafe Kelley](../authors/rafe-kelley.md) — his play-fighting games develop perception-action coupling in dynamic interpersonal environments

@@ -83,3 +83,5 @@ In complex systems, attractors are not fixed -- they can change, emerge from rep
 - [Resilience](resilience.md) -- multiple shallow attractors provide resilience; few deep attractors produce fragility
 - [Embodied Cognition](../learning/embodied-cognition.md) -- cognitive and behavioral patterns are attractors of the agent-environment system
 - [Learned Pain](../health-and-complexity/learned-pain.md) -- chronic pain as an automated attractor: the brain fires pain without re-evaluating danger
+- [Environment Design](../complex-problems/environment-design.md) -- habits from environment design create behavioral attractors
+- [Pain as Perception](../health-and-complexity/pain-as-perception.md) -- chronic pain can become a deep attractor

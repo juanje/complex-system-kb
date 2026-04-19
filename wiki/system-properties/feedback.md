@@ -68,3 +68,7 @@ In simple systems, feedback operates as "feedback loops" -- direct, closed circu
 - [Resilience](resilience.md) -- negative feedback enables self-correction; positive feedback can amplify perturbations beyond recovery
 - [Adaptation](adaptation.md) -- feedback loops propagate perturbations and drive adaptive restructuring
 - [Pain as Perception](../health-and-complexity/pain-as-perception.md) -- pain-danger positive feedback loop: perceiving pain as damage increases threat perception, which amplifies the pain signal
+- [Learned Pain](../health-and-complexity/learned-pain.md) -- prediction-pain-avoidance cycle is a positive feedback loop
+- [Protective Brain Mechanisms](../health-and-complexity/protective-brain-mechanisms.md) -- restriction-reduces-movement-reduces-information feedback loop
+- [Proprioception](../health-and-complexity/proprioception.md) -- proprioceptive signals are the feedback channel for movement control
+- [Symptoms as Adaptive Responses](../health-and-complexity/symptoms-as-adaptive-responses.md) -- symptoms function as negative feedback for self-regulation

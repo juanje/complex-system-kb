@@ -42,3 +42,7 @@ The balance between exploration and exploitation is regulated by diversity and v
 - [Embodied Cognition](../learning/embodied-cognition.md) — Embodied cognition enables the real-time adaptive behavior that adaptation requires
 - [Epigenetics](../health-and-complexity/epigenetics.md) — Environmental factors activate or silence gene expression, shaping adaptation at the cellular level
 - [Movement as Nutrition](../health-and-complexity/movement-as-nutrition.md) — Cell-level adaptation is local and use-dependent, requiring diverse movement for whole-body health
+- [Learned Pain](../health-and-complexity/learned-pain.md) — learned pain is a once-protective adaptation that became maladaptive
+- [Protective Brain Mechanisms](../health-and-complexity/protective-brain-mechanisms.md) — protective responses are adaptations to perceived threat
+- [Body Map](../health-and-complexity/body-map.md) — body map plasticity is structural adaptation to demand
+- [Symptoms as Adaptive Responses](../health-and-complexity/symptoms-as-adaptive-responses.md) — symptoms are instances of self-organized adaptive capacity

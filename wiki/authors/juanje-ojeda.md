@@ -19,3 +19,4 @@ Health and movement practitioner who applies complexity thinking to health, mobi
 - [Complex Systems](../system-properties/complex-systems.md) -- blog author and primary voice of this knowledge base
 - [Health as a Complex Problem](../health-and-complexity/health-as-complex-problem.md) -- central thesis of his applied work
 - [Play in Complex Systems](../play-and-games/play-in-complex-systems.md) -- uses play and games as tools for developing skills in complex domains
+- [Rafe Kelley](rafe-kelley.md) -- referenced as influence in applied play-fighting training

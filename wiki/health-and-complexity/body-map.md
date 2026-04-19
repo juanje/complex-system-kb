@@ -31,3 +31,4 @@ The brain maintains a use-dependent cortical representation of the body -- the h
 - [../complex-problems/degrees-of-freedom-problem.md](../complex-problems/degrees-of-freedom-problem.md) -- A detailed body map allows more degrees of freedom to be controlled independently rather than frozen into rigid synergies
 - [../system-properties/adaptation.md](../system-properties/adaptation.md) -- Body map plasticity is a form of structural adaptation: the neural architecture reshapes itself in response to demand
 - [../system-properties/variability-in-complex-systems.md](../system-properties/variability-in-complex-systems.md) -- A high-resolution body map supports greater movement variability, a marker of healthy complex systems
+- [health-as-complex-problem.md](health-as-complex-problem.md) -- body map governs movement control quality

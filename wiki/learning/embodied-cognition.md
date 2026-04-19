@@ -33,3 +33,8 @@ Across this wiki, a recurring pattern emerges: cognition is not a computation th
 - [Adaptation](../system-properties/adaptation.md) — Embodied cognition is what enables real-time adaptive behavior in complex environments
 - [Calibration](../play-and-games/calibration.md) — The process of tuning the embodied cognitive system through practice in context
 - [Andy Clark](../authors/andy-clark.md) — His extended mind thesis is foundational to understanding cognition as distributed across brain, body, and environment
+- [Epigenetics](../health-and-complexity/epigenetics.md) — traits transmitted through embodied interaction, not genes
+- [Protective Brain Mechanisms](../health-and-complexity/protective-brain-mechanisms.md) — threat assessment is embodied in physical outputs
+- [Sensation vs. Perception](../health-and-complexity/sensation-vs-perception.md) — body's sensory systems are constitutive of cognition
+- [Proprioception](../health-and-complexity/proprioception.md) — cognition depends on body-level information
+- [Body Map](../health-and-complexity/body-map.md) — body map shaped by embodied experience

@@ -47,3 +47,6 @@ Both implement the same principle from complexity science: exposing a system to 
 - [Adaptation](adaptation.md) -- variability is an indicator of adaptive capacity
 - [Resilience](resilience.md) -- healthy variability signals active regulatory mechanisms; low variability signals fragility
 - [Degrees of Freedom Problem](../complex-problems/degrees-of-freedom-problem.md) -- movement variability is the functional signature of how the body solves the degrees of freedom problem
+- [Body Map](../health-and-complexity/body-map.md) -- high-resolution body map supports greater movement variability
+- [Katy Bowman](../authors/katy-bowman.md) -- movement variety as a specific instance of variability
+- [Movement as Nutrition](../health-and-complexity/movement-as-nutrition.md) -- movement variety is variability as health indicator

@@ -32,3 +32,4 @@ Pain is not a direct signal of physical damage but an alarm the brain produces w
 - [../agents-and-dynamics/perception-action-coupling.md](../agents-and-dynamics/perception-action-coupling.md) -- Pain alters the perception-action loop, changing what movements feel available and safe
 - [ecological-psychology.md](ecological-psychology.md) -- Pain reshapes the affordance landscape, modulating what the environment "offers" through the internal and sociocultural layers
 - [../system-properties/attractors.md](../system-properties/attractors.md) -- Chronic pain can become a deep attractor basin that the system struggles to escape
+- [Symptoms as Adaptive Responses](symptoms-as-adaptive-responses.md) -- pain is the most common adaptive response/symptom

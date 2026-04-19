@@ -73,3 +73,4 @@ Learning is not the accumulation of information but the process by which a compl
 - [Degrees of Freedom Problem](../complex-problems/degrees-of-freedom-problem.md) -- Bernstein's "repetition without repetition" is learning to solve the degrees of freedom problem in context
 - [Learned Pain](../health-and-complexity/learned-pain.md) -- unlearning chronic pain is a concrete case of reorganization through progressive re-exposure
 - [Sensation vs. Perception](../health-and-complexity/sensation-vs-perception.md) -- perception has a learning component; quality of perceptions can be improved through reorganization
+- [Epigenetics](../health-and-complexity/epigenetics.md) -- environmentally transmitted traits are learned through interaction, not inheritance

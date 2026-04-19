@@ -39,3 +39,8 @@ Ecological psychology studies the organism-environment system as an indivisible 
 - [Learning as Reorganization](../learning/learning-as-reorganization.md) -- Gibson's ecological perception is a key pillar of learning-as-reorganization, since learning a skill is learning to perceive-and-act as a single unit
 - [Embodied Cognition](../learning/embodied-cognition.md) -- ecological psychology provides the theoretical foundation for the embodied cognition synthesis
 - [Environment Design](../complex-problems/environment-design.md) -- practical application of affordance theory: changing the physical environment changes the affordance landscape
+- [Sensation vs. Perception](sensation-vs-perception.md) -- ecological psychology reframes perception as direct engagement with affordances
+- [Proprioception](proprioception.md) -- proprioception contributes to the internal environment layer
+- [Pain as Perception](pain-as-perception.md) -- pain reshapes the affordance landscape
+- [Movement as Nutrition](movement-as-nutrition.md) -- affordance landscape determines which movements are available
+- [Katy Bowman](../authors/katy-bowman.md) -- her environment design approach is applied affordance theory

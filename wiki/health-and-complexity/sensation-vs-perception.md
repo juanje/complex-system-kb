@@ -32,3 +32,4 @@ Sensation is raw information arriving through sensory receptors; perception is t
 - [../learning/learning-as-reorganization.md](../learning/learning-as-reorganization.md) -- Perceptual learning is a reorganization of the attractor landscape governing how sensation becomes perception
 - [health-as-complex-problem.md](health-as-complex-problem.md) -- The sensation-perception gap explains why identical tissue states produce different health outcomes in different people
 - [protective-brain-mechanisms.md](protective-brain-mechanisms.md) -- Protective mechanisms are triggered by perception, not sensation -- the brain acts on its interpretation, not raw data
+- [Proprioception](proprioception.md) -- proprioception provides raw sensation that perception interprets

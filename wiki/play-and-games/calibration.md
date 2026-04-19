@@ -32,3 +32,6 @@ Calibration is the process by which an agent, through repeated practice in repre
 - [Ecological Psychology](../health-and-complexity/ecological-psychology.md) -- calibration tunes perception of affordances
 - [Game Design for Complex Systems](game-design-for-complex-systems.md) -- games create conditions for calibration
 - [Embodied Cognition](../learning/embodied-cognition.md) -- calibration tunes the embodied cognitive system through practice in context
+- [Sensation vs. Perception](../health-and-complexity/sensation-vs-perception.md) -- calibration improves perceptual quality
+- [Proprioception](../health-and-complexity/proprioception.md) -- calibration refines proprioceptive precision
+- [Rafe Kelley](../authors/rafe-kelley.md) -- progressive play-fighting as a calibration methodology
