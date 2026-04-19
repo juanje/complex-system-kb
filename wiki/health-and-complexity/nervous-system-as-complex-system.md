@@ -38,3 +38,5 @@ Across the health pages in this wiki, a recurring pattern emerges: the nervous s
 - [Embodied Cognition](../learning/embodied-cognition.md) -- the nervous system as complex system provides the substrate for embodied cognition
 - [Degrees of Freedom Problem](../complex-problems/degrees-of-freedom-problem.md) -- the nervous system solves the degrees of freedom problem through self-organization, not central programming
 - [Environment Design](../complex-problems/environment-design.md) -- environment shapes neural inputs and therefore neural adaptation
+- [Metastability](../learning/metastability.md) — the brain operates in a near-critical (metastable) state
+- [Suzana Herculano-Houzel](../authors/suzana-herculano-houzel.md) — the nervous system adds behavioral repertoire, enabling intelligence as flexibility

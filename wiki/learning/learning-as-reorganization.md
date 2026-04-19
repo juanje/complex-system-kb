@@ -13,6 +13,7 @@ Learning is not the accumulation of information but the process by which a compl
 - **The storage metaphor fails for complex skills.** If learning were accumulation, then knowing three books about negotiation should make you a good negotiator. But knowing *about* negotiation and being able to negotiate are different things -- the former is information, the latter is a reorganized system of perception, action, and judgment. The model of learning-as-accumulation fails precisely where complex skills are concerned.
 - **Performance and learning are distinct phenomena.** Blocked repetition and constant correction improve short-term performance but degrade long-term learning. Varied practice and desirable difficulties worsen immediate performance but produce more robust, transferable learning. This paradox only makes sense if learning is reorganization: identical repetition consolidates existing attractors, while variation generates new ones.
 - **Error is not failure but a reorganization signal.** Information alone does not change a system. Identical repetition consolidates existing attractors while variation generates new ones. Error signals that the system is being sufficiently perturbed to reorganize -- it is the mechanism, not an obstacle to be eliminated.
+- **Explicit instructions can accelerate the search but cannot substitute reorganization.** The reorganization must happen in the system itself -- no amount of instruction can bypass the need for the organism to actually reorganize through interaction with the environment. What is learned under pressure without instructions is more robust than what is learned under controlled conditions, because the system had to self-organize rather than follow a provided solution.
 
 ### The neural mechanism: Hebbian learning
 
@@ -74,3 +75,5 @@ Learning is not the accumulation of information but the process by which a compl
 - [Learned Pain](../health-and-complexity/learned-pain.md) -- unlearning chronic pain is a concrete case of reorganization through progressive re-exposure
 - [Sensation vs. Perception](../health-and-complexity/sensation-vs-perception.md) -- perception has a learning component; quality of perceptions can be improved through reorganization
 - [Epigenetics](../health-and-complexity/epigenetics.md) -- environmentally transmitted traits are learned through interaction, not inheritance
+- [Search Space](search-space.md) -- curriculum as progressive release of dimensions mirrors reorganization in layers
+- [Constraints-Led Approach](../complex-problems/constraints-led-approach.md) -- practical methodology for creating conditions where reorganization occurs

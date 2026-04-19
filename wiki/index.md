@@ -60,6 +60,7 @@ Approaching, understanding, and navigating complex problems.
 - [Environment Design](complex-problems/environment-design.md) — Modifying affordances rather than relying on willpower
 - [Teams as Complex Systems](complex-problems/teams-as-complex-systems.md) — Applying complexity thinking to team productivity and organizational dynamics
 - [Technique vs. Skill](complex-problems/technique-vs-skill.md) — Fixed solutions vs. adaptive capacity
+- [Constraints-Led Approach](complex-problems/constraints-led-approach.md) — Designing practice environments through constraints for self-organized learning
 
 ## Play and Games
 
@@ -98,6 +99,7 @@ How to learn about and from complex systems.
 - [Learning as Reorganization](learning/learning-as-reorganization.md) — Learning as attractor modification, not information storage
 - [Metastability](learning/metastability.md) — Temporary equilibrium with potential energy for change
 - [Embodied Cognition](learning/embodied-cognition.md) — Cognition as emergent property of the agent-environment system
+- [Search Space](learning/search-space.md) — How the size of the possibility space determines whether learning converges or degenerates into wandering
 
 ## Authors
 
@@ -113,6 +115,8 @@ Key thinkers referenced across the knowledge base.
 - [Rafe Kelley](authors/rafe-kelley.md) — Movement education through play-fighting and games
 - [Scott E. Page](authors/scott-e-page.md) — Diversity and Complexity
 - [Todd Hargrove](authors/todd-hargrove.md) — Movement science and complexity
+- [James J. Gibson](authors/james-j-gibson.md) — Ecological psychology and affordances
+- [Suzana Herculano-Houzel](authors/suzana-herculano-houzel.md) — Neuron counting and intelligence as behavioral flexibility
 
 ## Glossary
 
@@ -124,6 +128,7 @@ Key thinkers referenced across the knowledge base.
 - **Black Swan** — Highly impactful, unforeseen event arising from non-linear dynamics. [→](system-properties/black-swan-events.md)
 - **Butterfly Effect** — Lorenz's metaphor for sensitivity to initial conditions. [→](system-properties/sensitivity-to-initial-conditions.md)
 - **Calibration** — Perception-action tuning through repeated practice in context. [→](play-and-games/calibration.md)
+- **CLA** — Constraints-Led Approach. Sports pedagogy methodology designing constraints to let learners self-organize solutions. [→](complex-problems/constraints-led-approach.md)
 - **Desirable Difficulties** — Conditions that worsen immediate performance but deepen learning. [→](learning/edge-of-chaos.md)
 - **Degeneracy** — Different structures performing the same function for robustness. [→](complex-problems/system-influence-parameters.md)
 - **Dynamic Equilibrium** — Constant change maintaining relative balance. [→](agents-and-dynamics/dynamic-equilibrium.md)
@@ -142,6 +147,7 @@ Key thinkers referenced across the knowledge base.
 - **Path Dependence** — Prior decisions irreversibly constraining future possibilities. [→](system-properties/sensitivity-to-initial-conditions.md)
 - **Resilience** — Capacity to absorb perturbations and maintain functional organization. [→](system-properties/resilience.md)
 - **Positive Feedback** — Feedback that reinforces/amplifies current behavior. [→](system-properties/feedback.md)
+- **Search Space** — Set of possibilities a learner must explore; too large = wandering, well-bounded = genuine exploration. [→](learning/search-space.md)
 - **Slack** — Intentional margin for absorbing unexpected perturbations. [→](complex-problems/slack-buffer.md)
 - **Threshold** — Critical value triggering state or behavior change. [→](agents-and-dynamics/threshold.md)
 - **Tipping Point** — Point at which a drastic change occurs in system behavior. [→](system-properties/tipping-points.md)

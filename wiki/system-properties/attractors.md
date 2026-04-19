@@ -14,6 +14,12 @@ An attractor is a set of states toward which a complex system tends to evolve ov
 - Negative feedback mechanisms maintain the system in its attractor (stabilize), while positive feedback mechanisms push the system away from the attractor. Understanding this relationship between feedback and attractors is key to influencing complex systems.
 - Attractors reduce uncertainty in complex systems. While nearly everything else about complex systems is unpredictable, attractors offer patterns and tendencies that can guide decision-making and intervention design.
 
+### The comfort zone as deep attractor
+
+- **The "comfort zone" maps precisely to a deep attractor.** A stable state the system returns to when perturbed. Any small perturbation is absorbed without producing real change because the system's energy minimum is there.
+- **Three strategies for changing attractors.** (1) Modify the environment -- changing constraints changes what solutions emerge, because the attractor exists relative to the current set of constraints. (2) Accumulate small consistent perturbations -- gradual destabilization of the attractor until the system can reorganize. (3) Create experiences at the edge of chaos -- neither too easy (no perturbation) nor too hard (system collapse).
+- **Bureaucratic fossilization illustrates how solutions become rigid attractors.** Rules adaptive when created deepen through repetition, and the entire system reorganizes around them. Scale adds inertia (larger systems = more agents following the same rules = more positive feedback), and age deepens the attractor (longer rules = more infrastructure built assuming them). The solution becomes the problem.
+
 ## Types of attractors
 
 Attractors are classified into three main types, each describing a different pattern of stable behavior:
@@ -50,6 +56,8 @@ In complex systems, attractors are not fixed -- they can change, emerge from rep
 - Gravity on Earth's surface is a very strong attractor -- objects stay put and movement is predictable; gravity in a spaceship is a weak attractor -- objects float and movement is much less predictable.
 - Room temperature as a fixed point attractor for a cup of coffee. Resting heartbeat as a limit cycle attractor. Regional climate as a strange attractor.
 - Water's states (solid, liquid, gas) as multiple attractors: heating water pushes it from the liquid attractor toward the gas attractor, and at the transition point a small additional push causes a phase change.
+- **Changing posture by changing the chair.** If the new chair does not allow the old posture, the system is forced to find another solution -- environment modification as attractor change strategy.
+- **Bureaucratic rules as fossilized attractors.** Like navigating a city with a decades-old map. Streets have changed, new buildings exist, but the map is the same -- it no longer helps navigate, it actively misleads.
 
 ## Connections
 - [Feedback](feedback.md) -- negative feedback maintains attractors while positive feedback can push systems between attractors
@@ -86,3 +94,4 @@ In complex systems, attractors are not fixed -- they can change, emerge from rep
 - [Environment Design](../complex-problems/environment-design.md) -- habits from environment design create behavioral attractors
 - [Pain as Perception](../health-and-complexity/pain-as-perception.md) -- chronic pain can become a deep attractor
 - [Nervous System as Complex System](../health-and-complexity/nervous-system-as-complex-system.md) -- neural patterns (habits, pain, postures) are attractors with the same dynamics as any complex system attractor
+- [Search Space](../learning/search-space.md) -- attractors constrain the search space

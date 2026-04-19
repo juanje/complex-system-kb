@@ -15,12 +15,16 @@ Changing the physical environment to make desired behaviors easy and undesired b
 - **This is affordance manipulation.** In ecological psychology terms, environment design works by reshaping the affordance landscape. Removing chairs from a room does not require anyone to decide to stand -- it removes the affordance for sitting. The behavior change is a consequence of the environment, not of individual will.
 - **Modifying constraints rather than controlling agents.** In complex systems, direct control of agent behavior is unreliable. Modifying constraints and boundary conditions -- the parameters within which agents operate -- is how system-level behavior is influenced without micromanagement. Environment design applies this principle at the personal scale.
 - **Failure attribution shifts from individual to system.** When a behavior-change program fails, environment design asks "what about the environment made this hard?" rather than "what is wrong with this person?" This reframes failure as a design problem, not a character flaw.
+- **Environment design extends beyond physical affordances to pedagogical and cognitive environments.** A teacher choosing what to omit from the syllabus, a coach designing an exercise with specific rules, a thesis supervisor narrowing the doctoral student's question, a tech lead scoping the new hire's first tasks — all are designing the search space in which learning is possible.
+- **Designing the search space is itself a skill.** Good facilitators of learning understand the learner's system — which dimensions are already controlled, which are still loose, which should be temporarily closed to enable progress in others. The question is not always "more effort" but sometimes "which dimensions can I temporarily close?"
 
 ## Examples
 
 - **Katy Bowman removing conventional seating.** Bowman removed all standard chairs and sofas from her home, replacing them with floor-level seating. This does not require willpower to sit on the floor -- the environment simply no longer affords conventional sitting. Movement variety becomes the default.
 - **Placing running shoes by the door.** Making the desired behavior (going for a run) frictionless and visible. The environment cues and facilitates the action without relying on motivation.
 - **Removing junk food from the kitchen.** Not requiring willpower to resist snacking -- removing the affordance entirely. The environment no longer offers the undesired action.
+- **A good introductory course** deliberately omits schools of thought, debates, and nuances to present a simplified model. The omissions are not the course's defect — they are its defining feature. Only when the simplified model is stable can the student handle more complexity.
+- **Standing meetings:** the constraint (standing) produces brevity without requiring anyone to decide to be brief — the environment shapes behavior.
 
 ## Connections
 
@@ -34,3 +38,5 @@ Changing the physical environment to make desired behaviors easy and undesired b
 - [Katy Bowman](../authors/katy-bowman.md) -- her home modifications exemplify affordance-based intervention
 - [Nervous System as Complex System](../health-and-complexity/nervous-system-as-complex-system.md) -- environment shapes neural inputs and therefore neural adaptation
 - [Teams as Complex Systems](teams-as-complex-systems.md) -- environment design shapes team behavior more reliably than motivation or discipline
+- [Constraints-Led Approach](constraints-led-approach.md) — CLA is environment design applied to learning and movement
+- [Search Space](../learning/search-space.md) — environment design shapes the search space in which learning and behavior occur

@@ -20,6 +20,13 @@ Health is not a simple or merely complicated problem -- it is a complex one. The
 - **The traditional linear approach has limits.** The schema symptom-cause-treatment-solved works for fixed problems (fractures, infections) but fails for complex ones because it seeks single causes, treats parts not systems, applies fixed solutions to dynamic problems, and ignores system history.
 - **The complex approach to health.** Influence not control, explore and exploit, look at connections not parts, respect system history, iterate constantly -- each intervention changes the system, so the next must be based on the new state.
 - **Limits of the complexity perspective.** Not every health problem is complex (appendicitis needs surgery), complexity thinking does not replace medical knowledge, it is harder to apply (requires patience and tolerance for uncertainty), and the map is not the territory.
+- **Health emerges bottom-up.** Health emerges from local interactions, just like any emergent property. No single subsystem "is" health — it cannot be deduced by examining parts in isolation. The emergent state changes daily, weekly, and yearly; health is a process, not a destination.
+- **Complicated vs. complex in health.** A broken bone is a complicated problem (fixed, reproducible solution). Maintaining health over years is a complex problem (dynamic, non-linear, no definitive solution). The traditional linear approach (seek the cause and fix it) fails not because practitioners lack knowledge, but because the framework is designed for problems that stay still.
+- **Reinforcing and balancing feedback loops.** Reinforcing loops: pain → less movement → reduced mobility → more pain. Balancing loops: exercise → better sleep → better recovery → more exercise. Breaking a vicious cycle or starting a virtuous one requires understanding which variables to act on, not just applying force.
+- **Influence through leverage points.** You cannot control your health the way you control a machine; you can only influence it. Three leverage points: concrete objectives (not "be healthy" but "bend without pain"), focus of attention (observe patterns rather than fixate on diagnosis), and environmental constraints (place running shoes by the door, set an alarm to stand up).
+- **Interventions change the system.** Every health intervention changes the system, so the next intervention must be designed for the new state. What worked this year may need adjusting next year — this is not failure but the normal behavior of a dynamic system. A person doing the same exercise routine for 10 years is likely at diminishing returns because the body adapted.
+- **Non-linear effort-result relationship.** A small intervention (walking 20 minutes daily) can transform energy levels, while a large one (a perfect diet) may change nothing if the real driver is stress. Health improvements sometimes appear suddenly after weeks of no visible change — the system was reorganizing internally.
+- **Complexity has limits in health.** Not all health problems are complex. Appendicitis needs surgery, fractures need immobilization. Applying complexity thinking requires observation, patience, and tolerance for uncertainty. The map is not the territory.
 
 ## Examples
 
@@ -29,6 +36,7 @@ Health is not a simple or merely complicated problem -- it is a complex one. The
 - **Shoulder pain and breathing patterns.** Shoulder pain that turns out to be related to how you breathe; digestive problems that improve when work stress is reduced -- illustrating how health problems emerge from connections between subsystems, not from isolated parts.
 - **Chronic back pain as a web of causes.** No single cause -- a web of posture history, movement patterns, stress, sleep quality, beliefs about pain, and prior experiences, all interconnected and interdependent.
 - **Cascading effects of a new job.** A new job alters sleep, which affects recovery, which affects mobility, which generates pain in a place that never hurt before -- a chain of non-linear, interconnected effects.
+- **Non-linear system reorganization.** Starting exercise and having the back improve but a new knee complaint appear — the system reorganizes non-linearly.
 
 ## Connections
 
@@ -55,3 +63,4 @@ Health is not a simple or merely complicated problem -- it is a complex one. The
 - [Environment Design](../complex-problems/environment-design.md) -- changing the physical environment as a complexity-aware health intervention
 - [Katy Bowman](../authors/katy-bowman.md) -- contributes to understanding health as multi-variable complex problem
 - [Nervous System as Complex System](nervous-system-as-complex-system.md) -- the nervous system's complexity is why health resists linear approaches
+- [Complex vs. Complicated](../system-properties/complex-vs-complicated.md) -- broken bone (complicated) vs. long-term health (complex) as concrete examples

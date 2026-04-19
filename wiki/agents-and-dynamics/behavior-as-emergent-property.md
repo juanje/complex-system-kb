@@ -1,7 +1,7 @@
 ---
 tags: [complexity, cognition, movement]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Behavior as Emergent Property
@@ -36,6 +36,10 @@ Behavior does not originate "from within" (brain plans, decides, executes) or "f
 - **Herculano-Houzel: intelligence is repertoire, not computation.** Behavior in the broadest sense is any observable action driven by energy flow (even a moon orbiting). What the nervous system adds is not behavior itself but repertoire -- the ability to do different things in the same situation.
 - **Flexibility vs. stereotypy defines the continuum.** A plant always grows toward light. A fan always spins the same way. But a dog sometimes chases the ball, sometimes ignores it, sometimes brings it back. This flexibility is what the nervous system provides, and it is what Herculano-Houzel identifies as intelligence.
 - **This connects to exploration, diversity, and attractors.** Behavioral flexibility maps directly onto the exploration-exploitation trade-off, the role of diversity and variability, and the depth and distribution of attractors. All are mechanisms that modulate how flexibly a system behaves.
+- **Intelligence is behavioral repertoire, not computational power.** Intelligence is the capacity to vary actions adaptively — behavioral repertoire enabled by the nervous system (Suzana Herculano-Houzel's framing). Even organisms without nervous systems exhibit behavior, but they lack the capacity to respond differently to the same situation.
+- **Individual and environment co-constitute each other.** A person who has sat 8 hours a day for years is not "a normal person using a chair" but a person-chair system that has produced specific postural attractors, movement ranges, and self-perceptions. This rejects both internalism (brain generates behavior) and externalism (environment shapes behavior).
+- **Three interacting environmental layers produce behavior.** Physical external (surfaces, objects, light), internal bodily (fatigue, pain, emotional state, hormones), and sociocultural (norms, values, medical advice). A single behavior emerges from all three layers interacting — interventions targeting only one layer are likely insufficient.
+- **Embodied anticipation: simulating without executing.** The nervous system can simulate the consequences of actions without executing them. The brain activates the same motor and sensory circuits it would use for real execution, just partially. Expert intuition is explained by superior simulation capacity from internalized experience. Simulation quality is bounded by experience and attractor strength.
 
 ## Examples
 
@@ -44,6 +48,7 @@ Behavior does not originate "from within" (brain plans, decides, executes) or "f
 - **An athlete changing a trained gesture.** Under pressure, the system "wants" to revert to the old technical pattern that has been trained for years. Agency in that moment is freeing oneself by inhibiting that automatic response -- a costly act that degrades first when the athlete is fatigued, stressed, or overloaded.
 - **A dog and a ball.** Sometimes the dog chases it, sometimes ignores it, sometimes brings it back, sometimes takes it to its corner -- the same stimulus, different responses, because the nervous system enables repertoire. A fan, by contrast, always spins the same way. The difference is behavioral flexibility.
 - **A step and a wheelchair user.** A step affords climbing to someone with functional legs but not to someone in a wheelchair. The affordance exists in the relationship between organism and environment, not in the object or the person alone. Change the body (rehabilitation), change the environment (ramp), or change the sociocultural context (accessibility norms) and the affordance transforms.
+- **Jumping over a puddle.** Before you jump, your body "calculates" whether it can make it — not through physics equations but by simulating the jump based on what your body has done before. The decision often occurs before conscious awareness.
 
 ## Connections
 
@@ -61,3 +66,5 @@ Behavior does not originate "from within" (brain plans, decides, executes) or "f
 - [Health as a Complex Problem](../health-and-complexity/health-as-complex-problem.md) -- health behaviors emerge from co-constitution
 - [Embodied Cognition](../learning/embodied-cognition.md) -- co-constitution of individual and environment is a core expression of embodied cognition
 - [Environment Design](../complex-problems/environment-design.md) -- modifying environment modifies emergent behavior
+- [Suzana Herculano-Houzel](../authors/suzana-herculano-houzel.md) -- intelligence as behavioral flexibility, not computation
+- [James J. Gibson](../authors/james-j-gibson.md) -- affordances as emergent from organism-environment relationship

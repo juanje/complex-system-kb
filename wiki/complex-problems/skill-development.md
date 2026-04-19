@@ -16,6 +16,7 @@ Developing skills to handle complex problems requires repeated exposure to the p
 - **Problem scaling vs. decomposition:** Instead of decomposing a complex problem into isolated parts (which destroys the complexity that makes it a complex problem), scale it down to a smaller but still representative version. Scaling techniques include grouping elements, eliminating non-essential elements, fixing certain variables, and working on sub-problems that are complex in themselves. The scaled version must maintain multiple information sources, require decision-making, and preserve context-dependency.
 - **Path dependence:** Prior decisions and events constrain future possibilities in an irreversible way. For the same current situation, previous decisions determine available future possibilities. This is why recipes or playbooks from past successes cannot be reliably replicated -- the conditions, decisions, and path are different each time.
 - Games, simulations, and reduced versions allow safe, frequent exposure to aspects of the problem that rarely occur in reality, and random events can be injected that have never been encountered before.
+- **"Repetition without repetition" (Bernstein):** what should be repeated is the problem, not the solution. Varied practice produces more robust, transferable learning than blocked practice — because the system needs variability to extract the invariants that work across contexts. If you only practice in one context, the emergent pattern is over-coupled to those specific conditions and fails to transfer.
 
 ## Examples
 
@@ -24,6 +25,7 @@ Developing skills to handle complex problems requires repeated exposure to the p
 - For a congress: practice with the same congress changing location, number of attendees, speakers, duration (same problem with different variables) or practice with different types of congresses with different themes and audiences (similar but different problems). Experience the problem from different perspectives: as organizer, attendee, speaker, volunteer.
 - Catering for a congress: initially you must explore extensively to find the best option; once you have a selection, you can exploit those choices next time; but periodically you must explore the market again in case needs or options have changed.
 - Conference organizing with scaling: group elements (one person represents a team), fix variables (budget, number of speakers), work on sub-problems separately while maintaining representativeness, and design games or simulations emphasizing areas with least experience and adding random events.
+- Learning to negotiate: practicing always the same scenario, same people, same type of deal produces a solution tightly coupled to that context. When anything changes (aggressive counterpart, different culture, phone negotiation), the system has no tools. Varied contexts extract general principles — repetition without repetition.
 
 ## Connections
 
@@ -37,3 +39,5 @@ Developing skills to handle complex problems requires repeated exposure to the p
 - [Nikolai Bernstein](../authors/nikolai-bernstein.md) -- his findings challenge technique-based training
 - [Edge of Chaos](../learning/edge-of-chaos.md) -- desirable difficulties are practical applications
 - [Degrees of Freedom Problem](degrees-of-freedom-problem.md) -- a paradigmatic complex problem that skill development must address
+- [Constraints-Led Approach](constraints-led-approach.md) — CLA is the practical methodology for skill building through constraint design
+- [Search Space](../learning/search-space.md) — skill develops within a bounded search space that progressively expands

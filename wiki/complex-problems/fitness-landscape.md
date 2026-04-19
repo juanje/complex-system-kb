@@ -73,3 +73,4 @@ For complicated problems, your decisions change which solution you reach but the
 - [Linear-Deterministic Thinking](linear-deterministic-thinking.md) -- the dancing landscape makes non-linearity visual
 - [Skill Development](skill-development.md) -- scaling problems preserves the dancing nature
 - [Direction Over Destination](direction-over-destination.md) -- on a dancing landscape, no fixed peak exists to aim for
+- [Search Space](../learning/search-space.md) — search space maps to navigating the fitness landscape

@@ -1,7 +1,7 @@
 ---
 tags: [complexity, learning, movement]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-19
 ---
 
 # Perception-Action Coupling
@@ -14,12 +14,17 @@ Perception-action coupling is the fundamental principle that agents react to wha
 - As skill improves, perception itself changes. An expert sees a problem as simple while a novice finds it indecipherable, not because the problem is different but because the expert's perception has been calibrated through repeated exposure. This is why expertise cannot be transferred through instructions alone.
 - Calibrating the perception-action coupling requires facing the problem repeatedly in diverse contexts. Practicing skills in isolation — without other agents and outside the system — misses the critical connection between perceiving and responding, because real systems are dynamic and perception must adapt to changing conditions.
 - Environmental sensitivity is perhaps the most important characteristic of skills for complex problems: if you cannot effectively perceive your environment and its changes, you cannot adapt, cannot know what to change, and have nothing to learn from.
+- Expertise is not accumulation of techniques but a transformation of the perception-action system — experts literally perceive different affordances than novices. The expert's perceptual system has reorganized through thousands of hours of interaction so that it sees relations, tensions, and action possibilities where the novice sees individual elements.
+- Expert intuition is pattern recognition distributed across the entire system (body, nervous system, perception patterns), not stored as explicit rules — it operates without passing through the bottleneck of conscious analysis, which is why it works under pressure but fails in novel domains.
 
 ## Examples
 - **Atoms and cells:** Atoms "sense" other atoms through electromagnetic forces, absorbing or emitting photons in response to energy conditions. Cells detect pH, temperature, and nutrient concentrations through membrane receptor proteins and communicate via chemical signaling. Even at these basic levels, the perceive-react loop operates.
 - **Puppies learning bite force:** Puppies that play-bite learn their jaw strength, pain thresholds of playmates, and the difference between play and aggression. Dogs that never play as puppies become more aggressive adults because they never calibrated their bite force or learned to read social situations proportionally.
 - **Martial arts sparring:** MMA competitions have shown that fighters who spar (practicing within a reduced, controlled system) perform better than those who only drill techniques in isolation. Sparring calibrates the perception-action coupling by requiring real-time reading of an opponent and adapting responses accordingly.
 - **Baby exploring movement:** A baby's initially random movements discover useful patterns which are then refined. As the baby reaches new milestones (sitting, crawling, standing), previously optimal solutions become insufficient, motivating further exploration and recalibration of the perception-action loop.
+- **Chess expertise (De Groot / Chase & Simon):** grandmasters recall real game positions far better than amateurs, but the advantage disappears with random piece placement — the expert's system perceives relational structures (open diagonals, weak formations, latent threats) that do not exist in random arrangements.
+- **Reading:** what a small child sees as incomprehensible scribbles, an adult sees as concepts in words and sentences — the difference is not in the eyes but in how the system reorganized over years of interaction with written language.
+- **Linear algebra:** what a novice perceives as an indecipherable wall of symbols, an expert perceives as familiar, trivial concepts — same symbols, different system reorganization.
 
 ## Connections
 - [agents.md](agents.md) — The perceive-decide-act loop is the defining characteristic of an agent; perception-action coupling describes how that loop actually works.
@@ -39,3 +44,5 @@ Perception-action coupling is the fundamental principle that agents react to wha
 - [Body Map](../health-and-complexity/body-map.md) — map resolution determines loop precision
 - [Pain as Perception](../health-and-complexity/pain-as-perception.md) — pain alters perceived available movements
 - [Rafe Kelley](../authors/rafe-kelley.md) — his play-fighting games develop perception-action coupling in dynamic interpersonal environments
+- [James J. Gibson](../authors/james-j-gibson.md) — originated the concept of direct perception inseparable from action
+- [Search Space](../learning/search-space.md) — expert perception reflects a reorganized search space

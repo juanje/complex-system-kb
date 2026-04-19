@@ -27,3 +27,4 @@ A crucial distinction where "complex" refers to something composed of many inter
 - [Sensitivity to Initial Conditions](sensitivity-to-initial-conditions.md) -- explains why the same approach to a complex problem yields different results each time, even under apparently identical conditions
 - [Feedback](feedback.md) -- feedback loops are among the mechanisms that keep complex problems dynamic and resistant to static solutions
 - [Emergence](emergence.md) -- emergent properties in complex problems mean that the whole behaves differently from what analysis of parts would predict
+- [Health as a Complex Problem](../health-and-complexity/health-as-complex-problem.md) — broken bone (complicated) vs. long-term health (complex) as concrete examples

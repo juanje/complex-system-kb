@@ -44,3 +44,4 @@ Ecological psychology studies the organism-environment system as an indivisible 
 - [Pain as Perception](pain-as-perception.md) -- pain reshapes the affordance landscape
 - [Movement as Nutrition](movement-as-nutrition.md) -- affordance landscape determines which movements are available
 - [Katy Bowman](../authors/katy-bowman.md) -- her environment design approach is applied affordance theory
+- [James J. Gibson](../authors/james-j-gibson.md) — founded ecological psychology and introduced the concept of affordances

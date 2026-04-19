@@ -17,6 +17,8 @@ A team is a complex system: autonomous agents interacting locally, producing eme
 - **You cannot control a team, but you can influence it.** The four levers are [objectives, focus of attention, limits, and constraints](system-influence-parameters.md). Define the *what* (collective objective), not the *how*; let the team self-organize to find solutions, because externally imposed procedures cannot account for the system's internal complexity and dynamics.
 - **System-level objectives produce coordination; agent-level objectives fragment.** A collective goal ("deliver the most value as a team") promotes self-organized coordination. Individual goals ("maximize your personal output") produce uncoordinated effort where each person optimizes locally with no incentive for cooperation -- the organizational equivalent of each department doing its best while the organization fails.
 - **Over-optimization destroys team performance.** The belief that "if each department does its best, the organization does its best" ignores interactions between agents. Local optimization -- each team member or department focused on their own metrics -- creates bottlenecks, mismatched throughput, and systemic fragility. As [Eliyahu Goldratt](../authors/eliyahu-goldratt.md) demonstrated, local optimization destroys global performance.
+- **Diagnostic question for managers.** "What am I prescribing that I should let emerge?" — this operationalizes complexity thinking into daily practice. It forces identifying where you are dictating the "how" (eliminating collective intelligence) versus defining the "what" (enabling self-organization).
+- **Team onboarding as search space design.** "Here you have access to everything, ask what you need" sounds generous but is functionally cruel — the new person faces hundreds of repositories, dozens of channels, and cannot distinguish important from noise. Scoped onboarding ("these two weeks, focus on this service, this repo, this channel, fix three small tagged bugs") produces faster learning because the search space is manageable and feedback is informative.
 
 ## Slack: the productivity paradox
 
@@ -54,6 +56,8 @@ In complex problem domains, teams should [navigate by direction](direction-over-
 
 Teams operate at the [edge of chaos](../learning/edge-of-chaos.md): too much stability and nothing innovates; too much disruption and nothing consolidates. The practical challenge is finding the band where enough structure exists to function but enough perturbation exists to adapt.
 
+Two contrasting onboarding approaches illustrate the search space principle: (a) "Access to everything, ask what you need" — the person reads a lot, understands little, takes months to produce anything. (b) "These two weeks, focus only on this service, this repo, this person to ask, fix three tagged bugs" — learning is infinitely faster because the search space is bounded.
+
 ## Feedback as self-regulation
 
 Teams need [feedback processes](../system-properties/feedback.md) -- not single loops but interconnected processes where multiple inputs, adjustments, and outputs interact. Positive feedback reinforces what is working (or what is failing); negative feedback corrects deviations. Without feedback, a team cannot self-regulate: retrospectives, code reviews, customer signals, and deployment metrics all serve as feedback channels that close the loop between action and adjustment.
@@ -76,3 +80,5 @@ Teams need [feedback processes](../system-properties/feedback.md) -- not single 
 - [Scott E. Page](../authors/scott-e-page.md) -- diversity and the control-vs-influence framing
 - [Culture as Emergent Property](../agents-and-dynamics/culture-as-emergent-property.md) -- team culture emerges from the same self-organizing dynamics
 - [Bureaucracy as Extended Cognition](bureaucracy-as-extended-cognition.md) -- organizational processes as cognitive technology that can fossilize
+- [Search Space](../learning/search-space.md) -- onboarding as search space restriction
+- [Constraints-Led Approach](constraints-led-approach.md) -- scoped onboarding applies CLA principles to organizational learning

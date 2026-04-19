@@ -37,3 +37,4 @@ A technique is a specific solution to a problem -- a set of methods, steps, or p
 - [Learning as Reorganization](../learning/learning-as-reorganization.md) -- technique vs skill maps onto storage vs reorganization
 - [Degrees of Freedom Problem](degrees-of-freedom-problem.md) -- skills solve the degrees of freedom problem dynamically; techniques prescribe fixed solutions
 - [Direction Over Destination](direction-over-destination.md) -- skills navigate by direction; techniques aim at fixed destinations
+- [Constraints-Led Approach](constraints-led-approach.md) — CLA produces skills (adaptive capacity), not techniques (fixed solutions)
