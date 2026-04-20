@@ -112,3 +112,4 @@ In complex systems, attractors are not fixed -- they can change, emerge from rep
 - [Search Space](../learning/search-space.md) -- attractors constrain the search space
 - [Sedentarism](../health-and-complexity/sedentarism.md) -- sedentary environment creates a deep attractor basin reinforced by modern infrastructure
 - [Stress and Adaptation](../health-and-complexity/stress-and-adaptation.md) -- survival attractor overrides all others under stress
+- [Compensatory Movement Patterns](../health-and-complexity/compensatory-movement-patterns.md) — learned compensations are deep attractor basins resisting change

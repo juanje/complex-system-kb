@@ -38,3 +38,4 @@ Chronic pain can become a learned attractor pattern where the brain automates th
 - [protective-brain-mechanisms.md](protective-brain-mechanisms.md) -- learned pain is an automated form of the brain's protective response
 - [sensitization-and-hypervigilance.md](sensitization-and-hypervigilance.md) -- sensitization lowers thresholds, making learned pain patterns easier to trigger
 - [hebbian-learning.md](hebbian-learning.md) -- "neurons that fire together wire together" is the mechanism that automates pain responses
+- [Arturo Goicochea](../authors/arturo-goicochea.md) — chronic pain as automated attractor pattern

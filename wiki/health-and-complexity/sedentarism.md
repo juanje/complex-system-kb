@@ -33,3 +33,20 @@ Sedentarism is not simply sitting too much or moving too little — it is the ov
 - [Environment Design](../complex-problems/environment-design.md) — the sedentary environment is the primary driver; changing it is more effective than willpower
 - [Attractors](../system-properties/attractors.md) — modern environments create attractor basins that channel behavior toward sedentary defaults
 - [Evolutionary Mismatch](evolutionary-mismatch.md) — sedentarism is a symptom of the gap between ancestral movement demands and modern convenience
+- [Self-Organization](../agents-and-dynamics/self-organization.md) — persistent sedentary stimuli cause temporary self-organized adaptations to become permanent structural changes
+- [Juanje Ojeda](../authors/juanje-ojeda.md) — central problem addressed in the book through a complexity lens
+- [Breathing and Health](breathing-and-health.md) — sedentary posture is the root cause of compressed breathing patterns
+- [Cardiovascular System and Movement](cardiovascular-system-and-movement.md) — sedentary patterns leave large body regions without local pumping
+- [Floor Sitting](floor-sitting.md) — floor sitting directly addresses the postural monoculture created by chair dependence
+- [Glute Amnesia](glute-amnesia.md) — chronic sitting is the primary environmental cause of glute deactivation
+- [Hanging](hanging.md) — hanging addresses the upper-body dimension of sedentary atrophy
+- [Health as a Complex Problem](health-as-complex-problem.md) — sedentary lifestyle as a systemic health problem requiring complexity-aware intervention
+- [Hebbian Learning](hebbian-learning.md) — sedentary patterns are Hebbian consolidation of a narrow movement repertoire
+- [Nociception](nociception.md) — suppressing nociceptive movement signals in childhood produces sedentary adults
+- [Sedentary Dysfunction Cascade](sedentary-dysfunction-cascade.md) — the sedentary lifestyle is the environmental root cause of the dysfunction cascade
+- [Symptoms as Adaptive Responses](symptoms-as-adaptive-responses.md) — sedentarism as chronic environmental input producing adaptive symptoms
+- [Three Steps Against Sedentarism](three-steps-against-sedentarism.md) — the problem these three steps are designed to address
+- [Vestibular System](vestibular-system.md) — vestibular understimulation is a specific dimension of sedentarism
+- [Walking as Movement Practice](walking-as-movement-practice.md) — walking directly counters the most fundamental sedentary deficit
+- [Resilience](../system-properties/resilience.md) — sedentarism removes the varied stimuli that maintain resilience
+- [Variability in Complex Systems](../system-properties/variability-in-complex-systems.md) — sedentarism systematically eliminates variability from daily movement

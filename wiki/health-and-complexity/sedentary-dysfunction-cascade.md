@@ -32,3 +32,4 @@ Modern sedentary life creates a systematic chain of physical dysfunctions where 
 - [../complex-problems/environment-design.md](../complex-problems/environment-design.md) -- counteracting the cascade requires environmental intervention because the constraints are environmental
 - [Three Steps Against Sedentarism](three-steps-against-sedentarism.md) -- the three-step framework targets the cascade's highest-leverage intervention points
 - [../system-properties/interconnection-and-interdependence.md](../system-properties/interconnection-and-interdependence.md) -- the cascade demonstrates how interconnected joints create systemic interdependence where no joint can be treated in isolation
+- [Health as a Complex Problem](health-as-complex-problem.md) — cascade of systemic effects illustrating chronic problem complexity

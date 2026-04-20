@@ -33,3 +33,4 @@ When the optimal muscle or joint cannot fulfill its role, the body self-organize
 - [../complex-problems/degrees-of-freedom-problem.md](../complex-problems/degrees-of-freedom-problem.md) -- compensations are one way the body "solves" the degrees-of-freedom problem, freezing some options and relying on others
 - [Pain as Perception](pain-as-perception.md) -- pain can both cause compensations and be caused by them, creating circular causality
 - [Glute Amnesia](glute-amnesia.md) -- glute deactivation is the paradigmatic case of a compensation (hamstrings/lower back for glutes) becoming the permanent default
+- [Protective Brain Mechanisms](protective-brain-mechanisms.md) — protective lockdowns force compensatory patterns in adjacent regions

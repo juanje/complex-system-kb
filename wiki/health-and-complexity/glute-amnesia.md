@@ -32,3 +32,4 @@ Glute amnesia is the chronic deactivation of the gluteus maximus -- the body's s
 - [../agents-and-dynamics/self-organization.md](../agents-and-dynamics/self-organization.md) -- compensatory motor patterns are self-organized solutions that emerge when the optimal pathway is blocked
 - [../system-properties/adaptation.md](../system-properties/adaptation.md) -- glute amnesia is an adaptation to a sedentary environment that becomes pathological in active contexts
 - [Joint Mobility and Motor Control](joint-mobility-and-motor-control.md) -- glute amnesia disrupts the hip's mobility role in the joint-by-joint chain, forcing compensations above and below
+- [Compensatory Movement Patterns](compensatory-movement-patterns.md) — glute deactivation is the paradigmatic case of compensation becoming the default

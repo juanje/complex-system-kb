@@ -34,3 +34,6 @@ Stress is any stimulus that challenges the body's current equilibrium -- neither
 - [../system-properties/tipping-points.md](../system-properties/tipping-points.md) -- the stress bucket overflow is a tipping point where accumulated load triggers a phase transition into symptoms
 - [../system-properties/attractors.md](../system-properties/attractors.md) -- chronic stress patterns can lock the system into maladaptive attractor states (chronic pain, anxiety, insomnia)
 - [autonomic-nervous-system.md](autonomic-nervous-system.md) -- the autonomic nervous system mediates the stress response and governs the recovery process
+- [Health as a Complex Problem](health-as-complex-problem.md) -- stress management as a controllable input for systemic health
+- [Sensitization and Hypervigilance](sensitization-and-hypervigilance.md) -- chronic stress lowers pain thresholds through amplification mechanisms
+- [Variability in Complex Systems](../system-properties/variability-in-complex-systems.md) -- varied stressors maintain broader adaptive capacity

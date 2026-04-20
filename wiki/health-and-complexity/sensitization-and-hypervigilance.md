@@ -34,3 +34,4 @@ When tissue is injured or chronically painful, the nervous system removes inhibi
 - [Proprioception](proprioception.md) -- degraded maps impair proprioception in the affected region, reducing movement quality and increasing injury risk
 - [Nervous System as Complex System](nervous-system-as-complex-system.md) -- sensitization demonstrates feedback loops, adaptation, and attractor dynamics within the nervous system
 - [Stress and Adaptation](stress-and-adaptation.md) -- chronic stress lowers pain thresholds through the same amplification mechanisms, compounding sensitization
+- [Arturo Goicochea](../authors/arturo-goicochea.md) — neural amplification in chronic pain

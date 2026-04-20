@@ -39,3 +39,4 @@ Pain is not a direct signal of physical damage but an alarm the brain produces w
 - [Nociception](nociception.md) -- the sensory input layer that pain-as-perception interprets and modulates
 - [Sensitization and Hypervigilance](sensitization-and-hypervigilance.md) -- the mechanism by which the pain-danger feedback loop escalates
 - [Compensatory Movement Patterns](compensatory-movement-patterns.md) -- pain-driven movement avoidance creates compensatory patterns that sustain the problem
+- [Arturo Goicochea](../authors/arturo-goicochea.md) — core thesis that pain is a brain construction

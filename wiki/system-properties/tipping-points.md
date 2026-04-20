@@ -1,7 +1,7 @@
 ---
 tags: [adaptation, complexity, dynamics, health, systems-thinking]
 created: 2026-04-18
-updated: 2026-04-19
+updated: 2026-04-21
 ---
 
 # Tipping Points
@@ -30,3 +30,4 @@ Tipping points are moments at which a drastic change occurs in the behavior of a
 - [Sensitivity to Initial Conditions](sensitivity-to-initial-conditions.md) -- small differences at initial conditions can determine whether a system reaches a tipping point or not
 - [Feedback](feedback.md) -- positive feedback can push a system toward a tipping point by amplifying changes until they cross a threshold
 - [Metastability](../learning/metastability.md) -- metastable states are where tipping points become possible
+- [Stress and Adaptation](../health-and-complexity/stress-and-adaptation.md) — stress bucket overflow as tipping point triggering symptoms

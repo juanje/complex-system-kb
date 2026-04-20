@@ -1,7 +1,7 @@
 ---
 tags: [adaptation, cognition, dynamics, health, learning]
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-04-21
 ---
 
 # Epigenetics
@@ -29,3 +29,4 @@ Genes are not destiny -- environmental factors such as diet, movement, sleep, st
 - [health-as-complex-problem.md](health-as-complex-problem.md) -- epigenetics reinforces that health is not genetically predetermined but emerges from gene-environment interaction
 - [../system-properties/sensitivity-to-initial-conditions.md](../system-properties/sensitivity-to-initial-conditions.md) -- early environmental exposures produce epigenetic changes that shape lifelong trajectories
 - [../learning/embodied-cognition.md](../learning/embodied-cognition.md) -- culturally transmitted movement patterns are learned through embodied interaction, not genetic instruction
+- [Evolutionary Mismatch](evolutionary-mismatch.md) — gene expression changes within a lifetime can bridge some mismatch gap

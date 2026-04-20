@@ -54,3 +54,8 @@ The balance between exploration and exploitation is regulated by diversity and v
 - [Sedentarism](../health-and-complexity/sedentarism.md) — sedentarism triggers "use it or lose it" dismantling across multiple body systems
 - [Evolutionary Mismatch](../health-and-complexity/evolutionary-mismatch.md) — modern environment removes the stimuli that drove ancestral adaptation
 - [Hebbian Learning](../health-and-complexity/hebbian-learning.md) — "neurons that fire together wire together" is the neural mechanism of learning-type adaptation
+- [Cardiovascular System and Movement](../health-and-complexity/cardiovascular-system-and-movement.md) — capillary density changes are use-it-or-lose-it at the vascular level
+- [Floor Sitting](../health-and-complexity/floor-sitting.md) — the body adapts to the positions it practices and de-adapts from those it abandons
+- [Glute Amnesia](../health-and-complexity/glute-amnesia.md) — glute amnesia is an adaptation to a sedentary environment
+- [Hanging](../health-and-complexity/hanging.md) — progressive hanging drives adaptation across muscle, tendon, skin, and neural control
+- [Stress and Adaptation](../health-and-complexity/stress-and-adaptation.md) — stress is the stimulus that drives adaptation

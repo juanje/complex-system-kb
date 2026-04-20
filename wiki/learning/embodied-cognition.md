@@ -3,7 +3,7 @@ tags: [cognition, complexity, learning]
 origin: synthesis
 synthesis_sources: [health-and-complexity/ecological-psychology.md, agents-and-dynamics/behavior-as-emergent-property.md, learning/learning-as-reorganization.md, complex-problems/bureaucracy-as-extended-cognition.md, agents-and-dynamics/perception-action-coupling.md]
 created: 2026-04-18
-updated: 2026-04-19
+updated: 2026-04-21
 ---
 
 # Embodied Cognition
@@ -48,3 +48,6 @@ Across this wiki, a recurring pattern emerges: cognition is not a computation th
 - [Nervous System as Complex System](../health-and-complexity/nervous-system-as-complex-system.md) — the nervous system provides the neural substrate for embodied cognition
 - [James J. Gibson](../authors/james-j-gibson.md) — Gibson's ecological psychology laid foundations for understanding cognition as distributed
 - [Search Space](search-space.md) — tools and constraints shape the cognitive search space
+- [John Ratey](../authors/john-ratey.md) — physical activity driving cognitive capacity
+- [Autonomic Nervous System](../health-and-complexity/autonomic-nervous-system.md) — autonomic state demonstrates cognition involves whole-body physiology
+- [Breathing and Health](../health-and-complexity/breathing-and-health.md) — posture-driven breathing patterns inducing emotional states

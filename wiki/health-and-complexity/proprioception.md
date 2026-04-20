@@ -38,3 +38,5 @@ Proprioception is the sensory system that informs the brain about body position,
 - [Nervous System as Complex System](nervous-system-as-complex-system.md) -- synthesis: the nervous system IS a complex system using attractors, feedback, self-organization, and adaptation
 - [vestibular-system.md](vestibular-system.md) -- the vestibular system complements proprioception for spatial orientation and balance
 - [walking-as-movement-practice.md](walking-as-movement-practice.md) -- walking on varied surfaces enriches proprioceptive input from feet
+- [Joint Mobility and Motor Control](joint-mobility-and-motor-control.md) — proprioceptive quality determines nervous system's confidence in joint safety
+- [Sensitization and Hypervigilance](sensitization-and-hypervigilance.md) — degraded maps impair proprioception, reducing movement quality

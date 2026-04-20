@@ -48,3 +48,7 @@ Across the health pages in this wiki, a recurring pattern emerges: the nervous s
 - [Nociception](nociception.md) — nociceptive input is one of the sensory channels the nervous system integrates to construct protective responses
 - [Hebbian Learning](hebbian-learning.md) — "neurons that fire together wire together" is the neural mechanism behind attractor formation and adaptation
 - [Vestibular System](vestibular-system.md) — vestibular input is critical for balance, spatial orientation, and movement quality
+- [John Ratey](../authors/john-ratey.md) — neuroplasticity as complex system adaptation
+- [Breathing and Health](breathing-and-health.md) — breathing-autonomic bidirectionality exemplifies nervous system feedback loops
+- [Joint Mobility and Motor Control](joint-mobility-and-motor-control.md) — joint control involves feedback, adaptation, and self-organization across the nervous system
+- [Sensitization and Hypervigilance](sensitization-and-hypervigilance.md) — sensitization demonstrates feedback loops and attractor dynamics in the nervous system

@@ -1,7 +1,7 @@
 ---
 tags: [learning, constraints, environment-design, movement, self-organization]
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-04-21
 ---
 
 # Constraints-Led Approach
@@ -33,3 +33,5 @@ The Constraints-Led Approach (CLA) is a sports pedagogy methodology built on the
 - [Teams as Complex Systems](teams-as-complex-systems.md) — scoped onboarding applies CLA principles to organizational learning
 - [Learning as Reorganization](../learning/learning-as-reorganization.md) — CLA creates conditions where system reorganization occurs
 - [Exploration vs. Exploitation](../agents-and-dynamics/exploration-vs-exploitation.md) — constraints define where exploration is possible
+- [Hanging](../health-and-complexity/hanging.md) — six-stage progression manipulates constraints to guide self-organized adaptation
+- [Joint Mobility and Motor Control](../health-and-complexity/joint-mobility-and-motor-control.md) — mobility training changes constraints that allow the nervous system to self-organize solutions

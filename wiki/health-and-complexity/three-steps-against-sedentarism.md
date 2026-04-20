@@ -33,3 +33,6 @@ A practical framework of three high-impact, universally accessible actions -- wa
 - [hanging.md](hanging.md) -- detailed treatment of the third step
 - [breathing-and-health.md](breathing-and-health.md) -- the fourth foundational capacity that amplifies the other three
 - [../agents-and-dynamics/self-organization.md](../agents-and-dynamics/self-organization.md) -- the framework provides minimal constraints and lets the body self-organize its recovery rather than prescribing corrections
+- [Juanje Ojeda](../authors/juanje-ojeda.md) -- the book's practical framework for countering sedentarism
+- [Health as a Complex Problem](health-as-complex-problem.md) -- practical systemic strategy applied to sedentary lifestyle
+- [Sedentary Dysfunction Cascade](sedentary-dysfunction-cascade.md) -- the three-step framework targets the cascade's highest-leverage points

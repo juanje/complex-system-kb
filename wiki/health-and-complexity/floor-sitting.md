@@ -36,3 +36,4 @@ The ability to sit on and rise from the floor is a fundamental human capacity th
 - [../agents-and-dynamics/self-organization.md](../agents-and-dynamics/self-organization.md) -- unsupported floor sitting forces trunk stabilizers to self-organize coordination without external prescription
 - [../complex-problems/degrees-of-freedom-problem.md](../complex-problems/degrees-of-freedom-problem.md) -- floor sitting reintroduces degrees of freedom that chairs eliminate, challenging the nervous system to manage them
 - [three-steps-against-sedentarism.md](three-steps-against-sedentarism.md) -- floor sitting is the second of the three high-leverage interventions against sedentarism
+- [Environment Design](../complex-problems/environment-design.md) — removing conventional seating as environment design for movement variety

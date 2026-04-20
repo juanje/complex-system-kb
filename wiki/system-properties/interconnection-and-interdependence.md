@@ -1,7 +1,7 @@
 ---
 tags: [complexity, dynamics, networks]
 created: 2026-04-18
-updated: 2026-04-19
+updated: 2026-04-21
 ---
 
 # Interconnection and Interdependence
@@ -37,3 +37,4 @@ The global function of a complex system could not be carried out by any individu
 - [Network Science](../agents-and-dynamics/network-science.md) -- networks are the physical manifestation of interconnection
 - [Complex Systems](complex-systems.md) -- the web of relationships generating complexity
 - [Eliyahu Goldratt](../authors/eliyahu-goldratt.md) -- Theory of Constraints depends on recognizing interdependencies between components
+- [Sedentary Dysfunction Cascade](../health-and-complexity/sedentary-dysfunction-cascade.md) — cascade demonstrates how interconnected joints create systemic interdependence

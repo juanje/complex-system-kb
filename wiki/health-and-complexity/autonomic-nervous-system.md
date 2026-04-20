@@ -34,3 +34,5 @@ The autonomic nervous system operates through two opposing modes — sympathetic
 - [Health as Complex Problem](health-as-complex-problem.md) — autonomic imbalance connects stress, posture, digestion, immunity, and sleep into a single complex health problem
 - [Breathing and Health](breathing-and-health.md) — breathing is the primary conscious interface to the autonomic nervous system
 - [Embodied Cognition](../learning/embodied-cognition.md) — autonomic state demonstrates that cognition and emotion are not brain-only phenomena but involve whole-body physiology
+- [Sensation vs. Perception](sensation-vs-perception.md) — autonomic state modulates how internal sensations are perceived
+- [Variability in Complex Systems](../system-properties/variability-in-complex-systems.md) — HRV reflects autonomic flexibility, a direct variability measure

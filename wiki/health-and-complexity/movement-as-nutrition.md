@@ -35,3 +35,6 @@ Framework by [Katy Bowman](../authors/katy-bowman.md) treating movement variety 
 - [body-map.md](body-map.md) -- movement nutrients are what maintain and refine the body map
 - [sedentarism.md](sedentarism.md) -- sedentarism as movement malnutrition: absence of essential movement inputs
 - [cardiovascular-system-and-movement.md](cardiovascular-system-and-movement.md) -- muscle contraction as the mechanical pump that drives nutrients to cells
+- [John Ratey](../authors/john-ratey.md) -- movement as essential input for brain health
+- [Three Steps Against Sedentarism](three-steps-against-sedentarism.md) -- the three steps supply the most critically deficient movement nutrients
+- [Walking as Movement Practice](walking-as-movement-practice.md) -- walking is the baseline macronutrient of the movement diet

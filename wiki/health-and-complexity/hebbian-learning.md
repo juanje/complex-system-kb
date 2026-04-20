@@ -29,3 +29,4 @@ The fundamental neurological learning principle: neurons that activate together 
 - [nervous-system-as-complex-system.md](nervous-system-as-complex-system.md) -- Hebbian plasticity is one of the key mechanisms that makes the nervous system a self-organizing complex system
 - [learned-pain.md](learned-pain.md) -- chronic pain is a maladaptive Hebbian pattern where pain-related neurons have been wired together through repetition and emotional charge
 - [sedentarism.md](sedentarism.md) -- sedentary patterns are Hebbian consolidation of a narrow movement repertoire at the expense of unused pathways
+- [John Ratey](../authors/john-ratey.md) — neural pathway formation through activity

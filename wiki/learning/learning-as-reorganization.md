@@ -1,7 +1,7 @@
 ---
 tags: [learning, complexity, cognition]
 created: 2026-04-18
-updated: 2026-04-19
+updated: 2026-04-21
 ---
 
 # Learning as Reorganization
@@ -77,3 +77,5 @@ Learning is not the accumulation of information but the process by which a compl
 - [Epigenetics](../health-and-complexity/epigenetics.md) -- environmentally transmitted traits are learned through interaction, not inheritance
 - [Search Space](search-space.md) -- curriculum as progressive release of dimensions mirrors reorganization in layers
 - [Constraints-Led Approach](../complex-problems/constraints-led-approach.md) -- practical methodology for creating conditions where reorganization occurs
+- [Compensatory Movement Patterns](../health-and-complexity/compensatory-movement-patterns.md) -- overwriting compensations requires reorganizing the attractor landscape
+- [Hebbian Learning](../health-and-complexity/hebbian-learning.md) -- Hebbian learning is the neural mechanism underlying attractor landscape reorganization

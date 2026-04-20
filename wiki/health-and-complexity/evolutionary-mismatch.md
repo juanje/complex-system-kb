@@ -33,3 +33,4 @@ The mismatch between the environment our genes evolved for — nomadic, movement
 - [Epigenetics](epigenetics.md) — gene expression changes within a lifetime can bridge some of the gap between ancestral genes and modern demands
 - [Sedentarism](sedentarism.md) — sedentarism is the most visible symptom of evolutionary mismatch in movement
 - [Health as Complex Problem](health-as-complex-problem.md) — the mismatch makes health a complex problem because it operates across biological, cultural, and environmental dimensions simultaneously
+- [Symptoms as Adaptive Responses](symptoms-as-adaptive-responses.md) — chronic symptoms often arise from mismatch between evolved expectations and modern environment

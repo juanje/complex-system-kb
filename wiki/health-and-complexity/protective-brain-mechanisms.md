@@ -42,3 +42,5 @@ The brain's primary function is survival, and it employs a suite of conservative
 - [compensatory-movement-patterns.md](compensatory-movement-patterns.md) -- protective lockdowns force compensatory patterns in adjacent regions
 - [glute-amnesia.md](glute-amnesia.md) -- a specific case of arthrogenic muscle inhibition affecting the body's largest muscle group
 - [breathing-and-health.md](breathing-and-health.md) -- respiratory muscle fatigue as a systemic protective trigger
+- [Arturo Goicochea](../authors/arturo-goicochea.md) -- brain's conservative survival strategies
+- [Nociception](nociception.md) -- brain modulation of nociceptive thresholds as a protective mechanism

@@ -37,3 +37,5 @@ Joint mobility encompasses all structures and nervous system control governing j
 - [../agents-and-dynamics/self-organization.md](../agents-and-dynamics/self-organization.md) -- compensatory patterns across joints are self-organized responses to local constraints
 - [../complex-problems/constraints-led-approach.md](../complex-problems/constraints-led-approach.md) -- mobility training works by changing constraints that allow the nervous system to self-organize new movement solutions
 - [Nervous System as Complex System](nervous-system-as-complex-system.md) -- joint control involves feedback, adaptation, and self-organization across the nervous system
+- [Glute Amnesia](glute-amnesia.md) -- glute amnesia disrupts the hip's mobility role in the joint-by-joint chain
+- [Sedentary Dysfunction Cascade](sedentary-dysfunction-cascade.md) -- the joint-by-joint principle explains how dysfunction propagates between joints

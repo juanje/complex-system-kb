@@ -1,7 +1,7 @@
 ---
 tags: [cognition, complexity, dynamics, learning, systems-thinking]
 created: 2026-04-18
-updated: 2026-04-19
+updated: 2026-04-21
 ---
 
 # Emergence
@@ -55,3 +55,5 @@ This framing has practical implications for understanding how to approach health
 - [Behavior as Emergent Property](../agents-and-dynamics/behavior-as-emergent-property.md) -- behavior is an emergent property
 - [Bureaucracy as Extended Cognition](../complex-problems/bureaucracy-as-extended-cognition.md) -- bureaucratic capabilities are emergent
 - [Embodied Cognition](../learning/embodied-cognition.md) -- cognition is an emergent property of the brain-body-environment system
+- [Sedentary Dysfunction Cascade](../health-and-complexity/sedentary-dysfunction-cascade.md) — chronic pain emerges from interaction of multiple joint dysfunctions
+- [Vestibular System](../health-and-complexity/vestibular-system.md) — balance as paradigmatic example of emergence from multiple sensory systems

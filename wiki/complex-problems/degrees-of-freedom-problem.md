@@ -1,7 +1,7 @@
 ---
 tags: [movement, motor-control, complexity]
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-04-21
 ---
 
 # Degrees of Freedom Problem
@@ -42,3 +42,6 @@ The degrees of freedom problem, formulated by Nikolai Bernstein, asks how the ne
 - [Nervous System as Complex System](../health-and-complexity/nervous-system-as-complex-system.md) -- the nervous system solves the degrees of freedom problem through self-organization
 - [Constraints-Led Approach](constraints-led-approach.md) -- CLA is the practical application of freeze-release in sports pedagogy
 - [Search Space](../learning/search-space.md) -- freeze-release reduces the search space to a learnable size
+- [Compensatory Movement Patterns](../health-and-complexity/compensatory-movement-patterns.md) -- compensations solve the degrees-of-freedom problem by freezing some options
+- [Floor Sitting](../health-and-complexity/floor-sitting.md) -- floor sitting reintroduces degrees of freedom that chairs eliminate
+- [Joint Mobility and Motor Control](../health-and-complexity/joint-mobility-and-motor-control.md) -- mobility and motor control manage the body's degrees of freedom

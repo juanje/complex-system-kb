@@ -81,3 +81,5 @@ In simple systems, feedback operates as "feedback loops" -- direct, closed circu
 - [Teams as Complex Systems](../complex-problems/teams-as-complex-systems.md) -- retrospectives, reviews, and metrics serve as feedback channels for team self-regulation
 - [Autonomic Nervous System](../health-and-complexity/autonomic-nervous-system.md) -- autonomic regulation operates through negative feedback loops maintaining homeostasis
 - [Vestibular System](../health-and-complexity/vestibular-system.md) -- vestibular input is part of the negative feedback loop that maintains balance
+- [Cardiovascular System and Movement](../health-and-complexity/cardiovascular-system-and-movement.md) -- capillary density cycle as positive feedback loop
+- [Sedentary Dysfunction Cascade](../health-and-complexity/sedentary-dysfunction-cascade.md) -- cascade operates through positive feedback where each dysfunction amplifies the next

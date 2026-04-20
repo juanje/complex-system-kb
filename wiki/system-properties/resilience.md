@@ -40,3 +40,4 @@ Resilience is the capacity of a complex system to absorb perturbations and maint
 - [Symptoms as Adaptive Responses](../health-and-complexity/symptoms-as-adaptive-responses.md) — Pain, fever, and inflammation are adaptive responses that support system resilience, not errors to suppress
 - [Stress and Adaptation](../health-and-complexity/stress-and-adaptation.md) — the stress-recovery cycle is the mechanism through which the body builds antifragile resilience
 - [Sedentarism](../health-and-complexity/sedentarism.md) — sedentarism removes the varied stimuli that maintain resilience, producing systemic fragility
+- [Vestibular System](../health-and-complexity/vestibular-system.md) — sensory redundancy provides resilience but modern understimulation erodes the buffer

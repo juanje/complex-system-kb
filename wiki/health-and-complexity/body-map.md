@@ -40,3 +40,5 @@ The brain maintains a use-dependent cortical representation of the body -- the h
 - [sensation-vs-perception.md](sensation-vs-perception.md) -- the body map transforms proprioceptive sensation into movement perception
 - [sensitization-and-hypervigilance.md](sensitization-and-hypervigilance.md) -- blurred maps contribute to sensitization by increasing neural uncertainty
 - [nociception.md](nociception.md) -- nociceptive signals are interpreted through the body map's resolution
+- [Vestibular System](vestibular-system.md) — vestibular input helps maintain the brain's spatial body model
+- [Walking as Movement Practice](walking-as-movement-practice.md) — varied walking maintains cortical representation of feet, ankles, legs

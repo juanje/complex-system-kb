@@ -33,3 +33,4 @@ Breathing is a cross-cutting health lever that intersects respiratory, postural,
 - [../learning/embodied-cognition.md](../learning/embodied-cognition.md) -- posture-driven breathing patterns inducing emotional states demonstrate cognition embodied in respiratory mechanics
 - [Three Steps Against Sedentarism](three-steps-against-sedentarism.md) -- breathing practice is one of the intervention targets within the three-step framework
 - [Sedentarism](sedentarism.md) -- sedentary posture is the root cause of compressed breathing patterns
+- [Protective Brain Mechanisms](protective-brain-mechanisms.md) — respiratory muscle fatigue as a systemic protective trigger

@@ -52,3 +52,7 @@ Self-organization is the process by which global patterns, structures, and behav
 - [Compensatory Movement Patterns](../health-and-complexity/compensatory-movement-patterns.md) — compensations are self-organized alternative solutions when optimal pathways are blocked
 - [Sedentarism](../health-and-complexity/sedentarism.md) — persistent sedentary stimuli cause temporary self-organized adaptations to become permanent structural changes
 - [Joint Mobility and Motor Control](../health-and-complexity/joint-mobility-and-motor-control.md) — the body self-organizes movement solutions within available joint ranges
+- [Floor Sitting](../health-and-complexity/floor-sitting.md) — unsupported floor sitting forces trunk stabilizers to self-organize coordination
+- [Glute Amnesia](../health-and-complexity/glute-amnesia.md) — compensatory motor patterns are self-organized solutions when optimal pathway is blocked
+- [Hanging](../health-and-complexity/hanging.md) — hanging lets the shoulder complex self-organize toward optimal function
+- [Three Steps Against Sedentarism](../health-and-complexity/three-steps-against-sedentarism.md) — the framework provides minimal constraints and lets the body self-organize recovery

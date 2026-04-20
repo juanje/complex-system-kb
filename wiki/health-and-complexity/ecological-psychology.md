@@ -1,7 +1,7 @@
 ---
 tags: [ecological-psychology, cognition, movement, complexity]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-21
 ---
 
 # Ecological Psychology
@@ -45,3 +45,5 @@ Ecological psychology studies the organism-environment system as an indivisible 
 - [Movement as Nutrition](movement-as-nutrition.md) -- affordance landscape determines which movements are available
 - [Katy Bowman](../authors/katy-bowman.md) -- her environment design approach is applied affordance theory
 - [James J. Gibson](../authors/james-j-gibson.md) — founded ecological psychology and introduced the concept of affordances
+- [Hanging](hanging.md) — bar creates an affordance for hanging that changes available actions
+- [Walking as Movement Practice](walking-as-movement-practice.md) — walking surface provides affordances shaping movement in real time

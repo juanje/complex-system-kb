@@ -35,3 +35,6 @@ The vestibular system, located in the inner ear, detects head movement and orien
 - [Resilience](../system-properties/resilience.md) — sensory redundancy provides resilience, but modern understimulation erodes the redundancy buffer until the system becomes fragile
 - [Sedentarism](sedentarism.md) — vestibular understimulation is a specific dimension of sedentarism beyond just movement quantity
 - [Body Map](body-map.md) — vestibular input helps maintain the brain's spatial model of the body; degraded input leads to degraded mapping
+- [Floor Sitting](floor-sitting.md) — vestibular system calibrates to habitual height ranges and resists unfamiliar positions
+- [Glute Amnesia](glute-amnesia.md) — vestibular understimulation removes tonic activation signal for baseline glute engagement
+- [Feedback](../system-properties/feedback.md) — vestibular input is part of the negative feedback loop maintaining balance

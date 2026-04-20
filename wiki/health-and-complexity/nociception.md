@@ -32,3 +32,4 @@ Nociception is the detection of potentially harmful stimuli by specialized recep
 - [Protective Brain Mechanisms](protective-brain-mechanisms.md) — the brain's modulation of nociceptive thresholds is one of many protective mechanisms that prioritize survival over accuracy
 - [Sedentarism](sedentarism.md) — suppressing nociceptive movement signals in childhood is a cultural mechanism that produces sedentary adults
 - [Nervous System as Complex System](nervous-system-as-complex-system.md) — nociceptive processing involves multiple brain regions, contextual weighting, and nonlinear threshold dynamics
+- [Body Map](body-map.md) — nociceptive signals are interpreted through the body map's resolution

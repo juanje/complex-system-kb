@@ -71,3 +71,4 @@ Health is not a simple or merely complicated problem -- it is a complex one. The
 - [Autonomic Nervous System](autonomic-nervous-system.md) -- autoregulatory system mediating controllable health inputs
 - [Three Steps Against Sedentarism](three-steps-against-sedentarism.md) -- practical systemic strategy applied to sedentary lifestyle
 - [Sedentary Dysfunction Cascade](sedentary-dysfunction-cascade.md) -- cascade of systemic effects illustrating chronic problem complexity
+- [Cardiovascular System and Movement](cardiovascular-system-and-movement.md) — cardiovascular health emerges from interaction between central and peripheral systems

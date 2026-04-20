@@ -52,3 +52,5 @@ Changing the physical environment to make desired behaviors easy and undesired b
 - [Floor Sitting](../health-and-complexity/floor-sitting.md) — removing conventional seating as environment design for movement variety
 - [Hanging](../health-and-complexity/hanging.md) — pull-up bar placement as environment design for upper-body health
 - [Walking as Movement Practice](../health-and-complexity/walking-as-movement-practice.md) — forced walking breaks through environmental friction
+- [Evolutionary Mismatch](../health-and-complexity/evolutionary-mismatch.md) — redesigning personal environments can partially compensate for the mismatch
+- [Sedentary Dysfunction Cascade](../health-and-complexity/sedentary-dysfunction-cascade.md) — counteracting the cascade requires environmental intervention
