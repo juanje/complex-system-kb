@@ -1,8 +1,9 @@
 # Complex Systems Knowledge Base
 
-A markdown-based knowledge base on complex systems, extracted and translated into English from two blogs from **Juanje Ojeda**:
+A markdown-based knowledge base on complex systems, extracted and translated into English from sources by **Juanje Ojeda**:
 - [Blog about complex systems and learning](https://blog.juanjeojeda.com/) (Spanish).
 - [Blog about health, how the human body works and learning](https://juanjeojeda.com/) (Spanish).
+- Book *"3 pasos contra el sedentarismo"* — applying complexity thinking to health, movement, and sedentarism (Spanish).
 
 ## What is this
 
