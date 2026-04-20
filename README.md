@@ -28,7 +28,18 @@ claude
 
 ## Try asking
 
-The wiki shines when questions cross multiple topics. Here are some good starting points:
+The wiki shines when questions cross multiple topics, but it's also a good place to start learning the basics. Here are some good starting points:
+
+### Learning the basics
+
+- "What are complex systems?"
+- "What is an attractor? Give me examples."
+- "What is emergence and why can't it be predicted from the parts?"
+- "What's the difference between a complicated problem and a complex one?"
+- "What are feedback loops and why do they matter?"
+- "What does non-linearity mean in practice?"
+- "What is self-organization? Give me real live examples"
+- "What are agents in complex system? and what are strong agents?"
 
 ### Complex systems and theory
 
@@ -37,14 +48,14 @@ The wiki shines when questions cross multiple topics. Here are some good startin
 - "What's the difference between optimizing a system and actually improving it?"
 - "Why do small changes sometimes have huge consequences, and other times nothing happens?"
 - "How can bureaucracy be a form of intelligence?"
+- "How can I change the culture of my team of company?"
 
 ### Health through the complexity lens
 
 - "Is back pain a complicated or a complex problem?"
 - "Why do my knees hurt going down stairs — and what does that have to do with my shoes?"
-- "I exercise 5 times a week. How can I still be sedentary?"
+- "What really means to be sedentary and how it harms me?"
 - "Why doesn't stretching fix my tight hamstrings permanently?"
-- "What does jaw tension have to do with plantar fasciitis?"
 
 ### Connecting both worlds
 
