@@ -1,7 +1,7 @@
 ---
 tags: [cognition, health, learning, movement]
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-04-21
 ---
 
 # Sensation vs. Perception
@@ -15,12 +15,16 @@ Sensation is raw information arriving through sensory receptors; perception is t
 - **Internal perceptions can be wrong.** Thirst, hunger, and fatigue feel like direct readouts of bodily state, but they are perceptions subject to the same construction process. Dehydration does not always produce thirst; fatigue can be amplified by fear or expectation; hunger can be triggered by context rather than caloric need. Faulty data, preconceptions, suggestion, motivation, fear, and prior negative experiences can all distort these internal perceptions.
 - **Perception quality improves with learning.** A novice wine taster perceives "red wine"; an expert perceives tannin structure, acidity balance, and terroir. The same sensory data produces different perceptions depending on the perceiver's trained sensitivity. This applies to movement, pain, and health: improving the quality of perception changes the quality of action and decision-making.
 - **The gap between sensation and perception is where errors and interventions live.** Because perception is constructed, it can be modified without changing the underlying sensation. This is the mechanism behind placebo effects, pain neuroscience education, and the power of context and framing in health outcomes.
+- **Internal perceptions are proactive commands, not reactive reports.** Thirst arrives before dehydration, hunger before nutritional need, fatigue before energy depletion. These are behavioral commands issued by the brain to drive preemptive action, not status readouts of current bodily state.
+- **Understanding that perceptions are constructed reduces their intensity.** When a person learns that fatigue or pain is a protective perception rather than a direct tissue measurement, the perception's grip loosens -- knowledge alone changes the experience.
 
 ## Examples
 
 - **The blind spot.** Each eye has a region where the optic nerve exits and there are no photoreceptors. You never notice this gap because the brain fills it in seamlessly -- a clear demonstration that perception is constructed, not received.
 - **Phantom thirst.** A person with anxiety may feel thirsty despite adequate hydration because the brain's threat-detection system modulates the perception of internal states. The sensation (hydration level) is normal; the perception (thirst) is distorted.
 - **Expert vs. novice perception.** A physiotherapist observing a squat perceives coordination patterns, compensations, and asymmetries that are invisible to an untrained observer, despite both receiving the same visual input. Perceptual learning has reshaped what the same sensation produces.
+- **Coffee alertness before caffeine.** Regular coffee drinkers report feeling alert after the first sip, well before caffeine has reached the bloodstream -- the brain constructs the perception of alertness from contextual cues (taste, ritual, expectation), not from the chemical itself.
+- **Athletes "can't continue" but do.** An athlete feels unable to continue, yet pushes through without physical harm -- demonstrating that fatigue is a protective perception with a safety margin, not a true measurement of energy depletion.
 
 ## Connections
 
@@ -35,3 +39,5 @@ Sensation is raw information arriving through sensory receptors; perception is t
 - [Proprioception](proprioception.md) -- proprioception provides raw sensation that perception interprets
 - [Nervous System as Complex System](nervous-system-as-complex-system.md) -- synthesis: the nervous system IS a complex system using attractors, feedback, self-organization, and adaptation
 - [body-map.md](body-map.md) -- the body map is the mechanism by which bodily sensations become movement perceptions
+- [Nociception](nociception.md) -- nociception is one of the internal sensory channels whose signals the brain interprets as pain perception
+- [Autonomic Nervous System](autonomic-nervous-system.md) -- autonomic state (stress, arousal) modulates how internal sensations are perceived

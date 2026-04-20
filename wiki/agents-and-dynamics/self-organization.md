@@ -1,7 +1,7 @@
 ---
 tags: [self-organization, adaptation, cognition, complexity, dynamics]
 created: 2026-04-18
-updated: 2026-04-19
+updated: 2026-04-21
 ---
 
 # Self-Organization
@@ -19,6 +19,9 @@ Self-organization is the process by which global patterns, structures, and behav
 - **Termite mound construction:** Individual termites deposit mud wherever they smell recent termite activity. Without any blueprint or architect, elaborate tunnel-and-chamber structures emerge from this simple chemical-signal rule.
 - **Football match:** Players follow game regulations, positional responsibilities, and team objectives, reacting to teammates and opponents in real time. Coordinated plays and strategies emerge without the coach micromanaging every move from the sideline.
 - **Beehive thermoregulation:** Each bee has its own internal "thermostat" and adjusts by moving closer to or farther from neighbors and changing wing-beat speed. A stable global hive temperature emerges from thousands of individual feedback processes, not from any central controller.
+- **Sabina tree shaped by wind:** A sabina tree self-organizes moment-to-moment against wind forces. Because the wind is constant in its environment, what begins as a temporary arrangement becomes a permanent twisted shape -- temporary self-organization becoming structural adaptation when stimuli persist.
+- **Sports teams in attack vs. defense:** A football team self-organizes differently in attack than in defense, and differently against different opponents. These are temporary internal arrangements within the same set of rules and agents -- self-organization adapting to context.
+- **Body finding compensatory movement solutions:** When an optimal movement pathway is blocked (injury, stiffness, weakness), the body self-organizes alternative solutions from its available degrees of freedom. These compensations emerge without conscious planning -- the system selects from alternatives based on local constraints.
 
 ## Connections
 - [agents.md](agents.md) — Self-organization requires autonomous agents that perceive and react; without agents, there is nothing to self-organize.
@@ -46,3 +49,6 @@ Self-organization is the process by which global patterns, structures, and behav
 - [Degrees of Freedom Problem](../complex-problems/degrees-of-freedom-problem.md) — the body solves Bernstein's motor control challenge through self-organization
 - [Nervous System as Complex System](../health-and-complexity/nervous-system-as-complex-system.md) — the nervous system self-organizes protection, movement, and perception without central command
 - [Teams as Complex Systems](../complex-problems/teams-as-complex-systems.md) — team coordination emerges through self-organization, not top-down control
+- [Compensatory Movement Patterns](../health-and-complexity/compensatory-movement-patterns.md) — compensations are self-organized alternative solutions when optimal pathways are blocked
+- [Sedentarism](../health-and-complexity/sedentarism.md) — persistent sedentary stimuli cause temporary self-organized adaptations to become permanent structural changes
+- [Joint Mobility and Motor Control](../health-and-complexity/joint-mobility-and-motor-control.md) — the body self-organizes movement solutions within available joint ranges

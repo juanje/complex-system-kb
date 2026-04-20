@@ -1,7 +1,7 @@
 ---
 tags: [learning, complexity, adaptation]
 created: 2026-04-18
-updated: 2026-04-19
+updated: 2026-04-21
 ---
 
 # Edge of Chaos
@@ -45,6 +45,8 @@ The edge of chaos is the narrow band between total stability and total chaos whe
 - **Micro-injuries plus recovery equals stronger.** Exercise produces micro-injuries in muscle tissue; if the dose is appropriate and recovery time is given, the muscle does not just repair -- it becomes stronger. The same applies to the immune system (controlled exposure builds resilience), bones (loading increases density), and skin (repeated friction produces calluses).
 - **The same too-little/too-much pattern appears.** Too low a dose produces no perturbation and no adaptation. Too high a dose prevents recovery and causes injury. A gentle daily walk without challenge produces no muscular adaptation. Training at maximum intensity every day without rest leads to breakdown.
 - **Biology has been applying this for millions of years.** The edge-of-chaos principle that learning psychology discovered recently has been operating in biological systems since organisms began adapting to their environments. The mechanism is the same: the right perturbation does not weaken the system, it transforms it.
+- **Supercompensation operates at the edge.** After an appropriate dose of stress, optimal rest produces improvement beyond the previous baseline -- the system does not just recover, it overshoots. This is the edge-of-chaos mechanism applied to physical training: the right stress + right recovery = growth beyond baseline.
+- **Too little stress produces fragility, not safety.** On the comfortable side, the system loses adaptive capacity -- mechanisms atrophy, attractors deepen, and the system becomes increasingly fragile. Comfort is not neutral; it is actively harmful to adaptive systems that require perturbation to maintain their capacity.
 
 ## Examples
 
@@ -77,3 +79,4 @@ The edge of chaos is the narrow band between total stability and total chaos whe
 - [Nervous System as Complex System](../health-and-complexity/nervous-system-as-complex-system.md) -- unlearning maladaptive neural patterns requires edge-of-chaos perturbation
 - [Teams as Complex Systems](../complex-problems/teams-as-complex-systems.md) -- teams operate at the edge of chaos between stability and innovation
 - [Search Space](search-space.md) -- the productive middle between too-small and too-large spaces
+- [Stress and Adaptation](../health-and-complexity/stress-and-adaptation.md) -- hormesis and supercompensation are the biological manifestation of the edge of chaos

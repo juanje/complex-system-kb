@@ -1,7 +1,7 @@
 ---
 tags: [adaptation, cognition, complexity, dynamics, health]
 created: 2026-04-18
-updated: 2026-04-19
+updated: 2026-04-21
 ---
 
 # Attractors
@@ -19,6 +19,18 @@ An attractor is a set of states toward which a complex system tends to evolve ov
 - **The "comfort zone" maps precisely to a deep attractor.** A stable state the system returns to when perturbed. Any small perturbation is absorbed without producing real change because the system's energy minimum is there.
 - **Three strategies for changing attractors.** (1) Modify the environment -- changing constraints changes what solutions emerge, because the attractor exists relative to the current set of constraints. (2) Accumulate small consistent perturbations -- gradual destabilization of the attractor until the system can reorganize. (3) Create experiences at the edge of chaos -- neither too easy (no perturbation) nor too hard (system collapse).
 - **Bureaucratic fossilization illustrates how solutions become rigid attractors.** Rules adaptive when created deepen through repetition, and the entire system reorganizes around them. Scale adds inertia (larger systems = more agents following the same rules = more positive feedback), and age deepens the attractor (longer rules = more infrastructure built assuming them). The solution becomes the problem.
+
+### Body-specific attractors
+
+The human body operates under multiple simultaneous attractors that shape behavior, posture, and health:
+
+- **Survival** (primary attractor) — overrides all others when activated; the body will sacrifice long-term health for immediate survival.
+- **Habits and customs** (behavioral defaults) — automated patterns that the system returns to without conscious effort.
+- **Preferences and strengths** (self-reinforcing loop) — activities one is good at become preferred, which increases practice, which deepens the attractor further.
+- **Culture** — eating with hands vs. cutlery, sitting on the floor vs. chairs; culturally shaped attractors feel natural but are learned.
+- **Social acceptance** — the brain maintains dedicated neural networks for tracking social relationships; conforming to group norms functions as an attractor.
+- **Gravity** — a constant postural process requiring continuous micro-corrections; standing upright is an active attractor, not a passive state.
+- **Efficiency / least effort** — the fundamental evolutionary attractor that drives "use it or lose it." The body optimizes for minimal energy expenditure, actively dismantling structures that are not required by current demands.
 
 ## Types of attractors
 
@@ -53,6 +65,9 @@ In complex systems, attractors are not fixed -- they can change, emerge from rep
 - Sitting only in chairs causes the body to develop a deep attractor for that single posture; playing at sitting on the floor in many different ways creates multiple shallow attractors, making it easier to adapt when falling to the ground.
 
 ## Examples
+- **Child vs. adult learning to ride a bike.** A child falls and makes large corrections; an adult makes tiny, barely visible corrections. Both are navigating the same attractor landscape, but the adult has deepened the balance attractor through years of practice -- corrections become smaller as the attractor deepens.
+- **Scoliosis as attractor compensation.** The body creates lateral spinal curvature not as a random deformity but as a solution to keep the head upright and eyes level over an uneven base. The scoliosis is the attractor the system found to satisfy the higher-priority attractor (head orientation for balance and vision).
+- **Sedentary environment as attractor basin.** Chairs, cars, elevators, and desk jobs create an environmental attractor basin for minimal movement. Escaping requires sustained energy input because the entire environment reinforces the sedentary state.
 - Gravity on Earth's surface is a very strong attractor -- objects stay put and movement is predictable; gravity in a spaceship is a weak attractor -- objects float and movement is much less predictable.
 - Room temperature as a fixed point attractor for a cup of coffee. Resting heartbeat as a limit cycle attractor. Regional climate as a strange attractor.
 - Water's states (solid, liquid, gas) as multiple attractors: heating water pushes it from the liquid attractor toward the gas attractor, and at the transition point a small additional push causes a phase change.
@@ -95,3 +110,5 @@ In complex systems, attractors are not fixed -- they can change, emerge from rep
 - [Pain as Perception](../health-and-complexity/pain-as-perception.md) -- chronic pain can become a deep attractor
 - [Nervous System as Complex System](../health-and-complexity/nervous-system-as-complex-system.md) -- neural patterns (habits, pain, postures) are attractors with the same dynamics as any complex system attractor
 - [Search Space](../learning/search-space.md) -- attractors constrain the search space
+- [Sedentarism](../health-and-complexity/sedentarism.md) -- sedentary environment creates a deep attractor basin reinforced by modern infrastructure
+- [Stress and Adaptation](../health-and-complexity/stress-and-adaptation.md) -- survival attractor overrides all others under stress

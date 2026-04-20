@@ -1,7 +1,7 @@
 ---
 tags: [adaptation, complexity, dynamics, health, intervention]
 created: 2026-04-18
-updated: 2026-04-19
+updated: 2026-04-21
 ---
 
 # Feedback
@@ -21,6 +21,9 @@ Positive feedback reinforces or amplifies the system's current behavior, acceler
 - Snowball effect: a snowball rolling downhill collects more snow, growing larger and faster, which lets it collect even more snow.
 - Self-confidence cycle (virtuous): more confidence leads to trying more new things, which reinforces confidence further.
 - Self-confidence cycle (vicious): low confidence leads to avoiding new things, which further reduces the sense of capability.
+- Hunger drives eating, which provides nutrients for growth -- a positive loop promoting development. Without adequate negative control (satiety signals from fiber, protein, chewing), positive loops can become runaway effects.
+- Addiction: positive feedback (craving → substance → reward) without adequate negative feedback (consequences, satiety) produces escalating consumption.
+- Modern processed food exploits this asymmetry: it satisfies the positive loop (sugar/fat craving) but bypasses the negative loop (satiety from fiber, protein, and chewing), leading to overconsumption.
 - Compound interest: earned interest is added to principal, increasing the base for future interest calculations, producing exponential growth.
 
 ## Negative feedback
@@ -29,6 +32,8 @@ Negative feedback corrects or reduces the system's current behavior, stabilizing
 
 - Thermostat regulation: if temperature is too high, air conditioning activates to lower it; if too low, heating activates to raise it.
 - Blood glucose regulation: when glucose rises after eating, beta cells in the pancreas release insulin to help cells absorb glucose, lowering blood sugar; when glucose drops, alpha cells release glucagon to stimulate glucose release from the liver.
+- Body homeostasis: proprioception + vestibular + vision create balance; temperature sensors trigger cooling/warming responses; blood pressure is monitored and corrected -- all automatic negative feedback loops maintaining stability.
+- Some negative loops require conscious action: thirst signals the need for water, but drinking is a decision the person must make. The feedback loop closes only when the organism acts on the signal.
 
 ## Feedback in complex vs. simple systems
 
@@ -74,3 +79,5 @@ In simple systems, feedback operates as "feedback loops" -- direct, closed circu
 - [Symptoms as Adaptive Responses](../health-and-complexity/symptoms-as-adaptive-responses.md) -- symptoms function as negative feedback for self-regulation
 - [Nervous System as Complex System](../health-and-complexity/nervous-system-as-complex-system.md) -- neural feedback loops (pain-danger, proprioception-movement) are specific instances of the general principle
 - [Teams as Complex Systems](../complex-problems/teams-as-complex-systems.md) -- retrospectives, reviews, and metrics serve as feedback channels for team self-regulation
+- [Autonomic Nervous System](../health-and-complexity/autonomic-nervous-system.md) -- autonomic regulation operates through negative feedback loops maintaining homeostasis
+- [Vestibular System](../health-and-complexity/vestibular-system.md) -- vestibular input is part of the negative feedback loop that maintains balance

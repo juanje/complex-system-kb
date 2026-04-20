@@ -1,7 +1,7 @@
 ---
 tags: [adaptation, health, movement]
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-04-21
 ---
 
 # Movement as Nutrition
@@ -15,6 +15,8 @@ Framework by [Katy Bowman](../authors/katy-bowman.md) treating movement variety 
 - **The nutrition metaphor maps movement types to macronutrients.** Low-intensity, frequent movement like walking functions as dietary fats -- the baseline energy substrate the body needs constantly. High-intensity, infrequent movement maps to other macronutrients needed in smaller doses. Fine-motor, precise movements are the micronutrients -- small amounts with outsized functional importance.
 - **Even athletes can be movement-malnourished.** A runner who logs high mileage but never crawls, hangs, squats, or moves laterally has a movement diet as narrow as someone who eats only chicken breast. High volume in one pattern does not compensate for absence of others, because the cells fed by those missing patterns remain undernourished.
 - **This framework shifts the intervention target.** Instead of prescribing "more exercise," the question becomes: what movements are missing from your diet? This makes the problem tractable and personal rather than generic.
+- **Movement as prevention, not medicine.** Scurvy is caused by the absence of vitamin C, not cured by vitamin C as a drug. Similarly, many chronic conditions arise from movement absence -- restoration of movement prevents them, but that is different from prescribing movement as medicine. The distinction matters: prevention addresses root cause, treatment addresses symptoms.
+- **Variety over volume.** Doing more of the same movement reinforces overspecialization rather than improving overall health. Volume in a single pattern is movement junk food -- high-frequency, low-variability movement that crowds out healthier patterns, just as processed food crowds out nutritious alternatives.
 
 ## Examples
 
@@ -31,3 +33,5 @@ Framework by [Katy Bowman](../authors/katy-bowman.md) treating movement variety 
 - [../authors/katy-bowman.md](../authors/katy-bowman.md) -- originator of this framework
 - [ecological-psychology.md](ecological-psychology.md) -- the affordance landscape determines which movements are available and therefore which cells get fed
 - [body-map.md](body-map.md) -- movement nutrients are what maintain and refine the body map
+- [sedentarism.md](sedentarism.md) -- sedentarism as movement malnutrition: absence of essential movement inputs
+- [cardiovascular-system-and-movement.md](cardiovascular-system-and-movement.md) -- muscle contraction as the mechanical pump that drives nutrients to cells

@@ -3,7 +3,7 @@ tags: [health, neuroscience, complexity]
 origin: synthesis
 synthesis_sources: [health-and-complexity/pain-as-perception.md, health-and-complexity/protective-brain-mechanisms.md, health-and-complexity/body-map.md, health-and-complexity/proprioception.md, health-and-complexity/learned-pain.md, health-and-complexity/sensation-vs-perception.md]
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-04-21
 ---
 
 # Nervous System as Complex System
@@ -17,6 +17,10 @@ Across the health pages in this wiki, a recurring pattern emerges: the nervous s
 - **The nervous system self-organizes protection.** Protective mechanisms (pain, fatigue, force reduction, muscle locking) are not centrally designed responses but emergent outputs of a system that errs on the side of caution. The brain does not need certainty of danger, only doubt, to restrict movement -- a conservative self-organizing strategy where false alarms are cheaper than missed threats.
 - **Neural structure adapts through use.** The body map (cortical homunculus) is use-dependent: areas that move more get larger neural territory, areas that don't shrink. Proprioceptive pathways strengthen with traffic and atrophy with disuse. This is the same use-it-or-lose-it principle the wiki describes for all complex systems, operating at the neural level.
 - **Feedback loops govern neural dynamics.** Pain-danger spirals (positive feedback escalating pain beyond tissue justification), proprioception-movement-body-map refinement cycles (negative feedback improving control), and the prediction-correction loop underlying learned pain are all specific instances of the general feedback principle operating within the nervous system.
+- **The nervous system manages the majority of inter-component relationships.** In a complex system, relationships are almost more important than the components themselves; this makes the nervous system -- the primary mediator of interactions between body parts -- deserving of special attention in any health analysis.
+- **The brain's primary function is survival through movement.** Every survival action (fleeing, fighting, feeding, mating) requires a physical output. The brain exists to coordinate movement, and all its complexity serves that function.
+- **The brain is a conservative protector.** It errs on the side of caution: it never allows 100% physical output because full muscular contraction could break bones. Fatigue signals arrive before true energy depletion. False alarms are cheaper than missed threats.
+- **Motor quality depends on sensory input quality.** The input-process-output model applies: the quality of motor output (movement) depends on the quality of sensory input (proprioception, vision, vestibular). Improving input quality -- even without any physiological change -- can improve movement immediately.
 
 ## Manifestations
 
@@ -40,3 +44,7 @@ Across the health pages in this wiki, a recurring pattern emerges: the nervous s
 - [Environment Design](../complex-problems/environment-design.md) -- environment shapes neural inputs and therefore neural adaptation
 - [Metastability](../learning/metastability.md) — the brain operates in a near-critical (metastable) state
 - [Suzana Herculano-Houzel](../authors/suzana-herculano-houzel.md) — the nervous system adds behavioral repertoire, enabling intelligence as flexibility
+- [Autonomic Nervous System](autonomic-nervous-system.md) — the autonomic branch governs automatic regulation (sympathetic/parasympathetic balance)
+- [Nociception](nociception.md) — nociceptive input is one of the sensory channels the nervous system integrates to construct protective responses
+- [Hebbian Learning](hebbian-learning.md) — "neurons that fire together wire together" is the neural mechanism behind attractor formation and adaptation
+- [Vestibular System](vestibular-system.md) — vestibular input is critical for balance, spatial orientation, and movement quality

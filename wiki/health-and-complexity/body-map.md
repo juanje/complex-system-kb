@@ -1,7 +1,7 @@
 ---
 tags: [adaptation, health, learning, movement, neuroscience]
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-04-21
 ---
 
 # Body Map
@@ -11,8 +11,10 @@ The brain maintains a use-dependent cortical representation of the body -- the h
 ## Key points
 
 - **The body map is use-dependent, not anatomically fixed.** Cortical territory is allocated based on demand, not anatomy. A violinist's left hand occupies more cortical space than a non-musician's because the demands placed on it have driven expansion. This plasticity works in both directions -- disuse causes cortical territory to shrink and blur.
-- **The "defective keyboard" analogy.** The body's sensory-motor system is like a keyboard adapted to usage patterns. Keys you press constantly (hands, face) are large, responsive, and precise. Keys you rarely press (mid-back, individual toes) become small, sticky, and imprecise. Typing on a defective keyboard produces errors not because of poor intent but because of poor interface resolution. Similarly, moving a poorly mapped body part produces clumsy, imprecise movement -- not because of muscle weakness but because of low-resolution neural representation.
+- **The "defective keyboard" analogy.** The body's sensory-motor system is like a keyboard adapted to usage patterns. Keys you press constantly (hands, face) are large, responsive, and precise. Keys you rarely press (mid-back, individual toes) become small, sticky, and imprecise. Typing on a defective keyboard produces errors not because of poor intent but because of poor interface resolution. Similarly, moving a poorly mapped body part produces clumsy, imprecise movement -- not because of muscle weakness but because of low-resolution neural representation. The proprioceptive system adapts to overuse patterns -- some keys enlarged, others blurry or missing -- producing unreliable output from regions the system has not maintained.
 - **Blurry map regions are vulnerable.** When the brain's representation of a body area is imprecise, it has less information for controlling that area and more uncertainty about its state. This uncertainty triggers more conservative protective responses -- pain, stiffness, movement restriction -- because the brain defaults to protection when its data quality is poor.
+- **Chronic pain degrades the map further.** In chronic pain, the somatosensory representation of the affected region becomes a "blur" where any incoming signal is interpreted as the already-known pain. The fire department metaphor: in a well-mapped area, a fire alarm sends one firefighter with an extinguisher; in a blurry area, the entire department is dispatched because the system cannot determine the threat's nature or location.
+- **Two consequences of map degradation.** First, false positive pain responses -- the blurred region generates pain signals from stimuli that would be innocuous in a well-mapped area. Second, reduced motor control -- the brain cannot precisely coordinate what it cannot precisely sense. People with chronic pain misjudge touch locations on the affected area by centimeters and draw the affected body region disproportionately large or distorted.
 - **Conscious, attentive movement improves the map.** The brain prioritizes updating the map in response to attended, novel, varied input. Repetitive, habitual, inattentive movement does not drive map expansion because it does not signal the need for increased resolution. Deliberately exploring unfamiliar ranges, positions, and movement patterns with focused attention is the stimulus for map improvement.
 - **Moving the entire body builds a more complete map.** Most people develop detailed maps of frequently used areas (hands, dominant arm) while neglecting large portions of their body. Full-body movement practices that include rarely used areas -- toes, spine segments, scapulae -- build a more complete and accurate map, improving the brain's ability to coordinate and protect the whole body.
 
@@ -36,3 +38,5 @@ The brain maintains a use-dependent cortical representation of the body -- the h
 - [learned-pain.md](learned-pain.md) -- a distorted body map increases uncertainty, contributing to learned pain patterns
 - [movement-as-nutrition.md](movement-as-nutrition.md) -- diverse movement feeds the body map with varied proprioceptive input
 - [sensation-vs-perception.md](sensation-vs-perception.md) -- the body map transforms proprioceptive sensation into movement perception
+- [sensitization-and-hypervigilance.md](sensitization-and-hypervigilance.md) -- blurred maps contribute to sensitization by increasing neural uncertainty
+- [nociception.md](nociception.md) -- nociceptive signals are interpreted through the body map's resolution

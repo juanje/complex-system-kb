@@ -1,7 +1,7 @@
 ---
 tags: [cognition, health, learning, movement, neuroscience]
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-04-21
 ---
 
 # Proprioception
@@ -15,6 +15,8 @@ Proprioception is the sensory system that informs the brain about body position,
 - **Static postures are continuous micro-movements.** Standing "still" involves constant oscillation and correction as the body maintains balance against gravity. Sitting involves continuous postural adjustments. These are not static states but dynamic equilibria sustained by ongoing proprioceptive feedback loops. Viewing posture as static obscures the active, complex process that maintains it.
 - **Under-stimulated areas produce degraded signals.** Proprioceptors adapt to their usage patterns. Heavily used areas (hands, feet) maintain rich, sensitive signaling. Neglected areas (mid-back, toes for shoe-wearers) produce progressively weaker, less discriminating signals. This is a use-dependent system: the quality of the input depends on the history of the demand placed on it.
 - **Proprioceptive training is information training.** Exercises that challenge balance, require fine motor control, or expose novel joint positions and movement patterns are not just "strengthening" -- they are enriching the proprioceptive data stream, giving the brain better raw material for constructing its body map and coordinating movement.
+- **Feet are as sensor-rich as hands, but shoes block input.** The soles of the feet contain as many proprioceptive receptors as the palms of the hands, but conventional shoes block the expected sensory input. The brain interprets this signal absence as baseline uncertainty, contributing to low-grade stress. This is why removing shoes or walking on varied surfaces produces an immediate sensation of relief -- the brain rewards restored stimulation to sensory-deprived areas.
+- **Information quality improves movement quality without physical change.** Without changing anything physiologically -- no strengthening, no stretching, no structural modification -- improving the quality of sensory information reaching the brain can significantly improve movement quality. This demonstrates that many movement limitations are information problems, not hardware problems.
 
 ## Examples
 
@@ -34,3 +36,5 @@ Proprioception is the sensory system that informs the brain about body position,
 - [../play-and-games/calibration.md](../play-and-games/calibration.md) -- Calibration refines the proprioceptive system through repeated, varied practice
 - [health-as-complex-problem.md](health-as-complex-problem.md) -- proprioception provides data for movement quality
 - [Nervous System as Complex System](nervous-system-as-complex-system.md) -- synthesis: the nervous system IS a complex system using attractors, feedback, self-organization, and adaptation
+- [vestibular-system.md](vestibular-system.md) -- the vestibular system complements proprioception for spatial orientation and balance
+- [walking-as-movement-practice.md](walking-as-movement-practice.md) -- walking on varied surfaces enriches proprioceptive input from feet

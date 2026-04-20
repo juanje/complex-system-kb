@@ -1,7 +1,7 @@
 ---
 tags: [adaptation, complexity, dynamics, systems-thinking]
 created: 2026-04-18
-updated: 2026-04-19
+updated: 2026-04-21
 ---
 
 # Non-linearity
@@ -13,6 +13,8 @@ Non-linearity is a characteristic of complex systems where relationships and eff
 - Adding more people to build a wall introduces coordination tasks that did not previously exist (an emergent property), creating bottlenecks and diminishing returns; because the relationship between number of workers and construction speed becomes non-linear, efficiency does not increase proportionally. This demonstrates how interconnection generates non-linearity.
 - Non-linearity means that the same input can produce different outputs depending on the state of the system; because of this context-dependency, prediction becomes extremely difficult. The further in time an event is from its cause, the harder it is to predict the outcome.
 - Four common errors arise from applying linear thinking to complex systems: (1) more effort always yields more results, (2) same actions produce same results, (3) the system waits for our "turn" to act, and (4) we can directly change the system. All four are false in complex domains.
+- **"The dose makes the poison" (Paracelsus).** The same substance or stimulus can be beneficial, neutral, or lethal depending on quantity -- the relationship between dose and effect is fundamentally non-linear.
+- **Same technique, different effect depending on duration.** The same stretching technique can relax or activate a muscle depending on how long it is held -- a non-linear response to time as input.
 
 ## Linear systems as contrast
 
@@ -54,3 +56,4 @@ Time amplifies all three: as interactions accumulate and new emergent behaviors 
 - [Metastability](../learning/metastability.md) -- metastable transitions are non-linear
 - [Edward Lorenz](../authors/edward-lorenz.md) -- discovered how non-linear dynamics produce sensitivity to initial conditions
 - [Eliyahu Goldratt](../authors/eliyahu-goldratt.md) -- bottlenecks are a manifestation of non-linear relationships between components
+- [Stress and Adaptation](../health-and-complexity/stress-and-adaptation.md) -- the dose-response relationship in stress and hormesis is inherently non-linear

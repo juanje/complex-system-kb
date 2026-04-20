@@ -1,7 +1,7 @@
 ---
 tags: [adaptation, dynamics, health, learning, neuroscience]
 created: 2026-04-19
-updated: 2026-04-19
+updated: 2026-04-21
 ---
 
 # Learned Pain
@@ -11,9 +11,10 @@ Chronic pain can become a learned attractor pattern where the brain automates th
 ## Key points
 
 - **Pain responses become automated through repetition.** Each time a movement produces pain, the brain strengthens the association between that movement and danger. Over time, the brain begins producing pain preemptively -- before tissue is threatened -- because the pattern has been encoded as a prediction. The pain becomes a learned response, not a reaction to current damage.
-- **Emotional charge accelerates learning.** The brain prioritizes learning from experiences with strong emotional content -- fear, distress, helplessness. Pain episodes accompanied by high emotional charge are encoded more deeply and automated more quickly, which is why traumatic injuries or anxiety-laden pain episodes are more likely to become chronic.
+- **Emotional charge accelerates learning.** The brain prioritizes learning from experiences with strong emotional content -- fear, distress, helplessness. Pain episodes accompanied by high emotional charge are encoded more deeply and automated more quickly, which is why traumatic injuries or anxiety-laden pain episodes are more likely to become chronic. Pain memories are especially sticky because the strong emotional charge enhances memory consolidation -- the brain treats them as high-priority survival information.
 - **Pavlovian conditioning applies to movement.** Just as Pavlov's dogs learned to salivate at a bell, the nervous system learns to produce pain at a movement, a posture, or even the thought of a movement. The conditioned stimulus (the movement) triggers the conditioned response (pain) regardless of whether the unconditioned stimulus (tissue threat) is present.
-- **Unlearning requires specific conditions.** Breaking a learned pain pattern requires progressive, controlled re-exposure: slow enough to avoid triggering the pain response, controlled enough to build confidence, frequent enough to build a competing pattern, low-intensity enough to stay below the threat threshold, and progressive enough to gradually expand the safe range. The goal is to provide the brain with repeated evidence that the movement is safe.
+- **Unlearning requires specific conditions.** Breaking a learned pain pattern requires progressive, controlled re-exposure: slow enough to avoid triggering the pain response, controlled enough to build confidence, frequent enough to build a competing pattern, low-intensity enough to stay below the threat threshold, and progressive enough to gradually expand the safe range. The goal is to provide the brain with repeated evidence that the movement is safe. Frequency matters more than intensity -- start from adjacent non-affected areas and progress from unloaded to loaded movements.
+- **Fragility spiral.** Pain leads to feeling fragile, which increases danger perception, which produces more pain, which reduces movement, which degrades body maps, which generates more uncertainty, which produces more pain. This self-reinforcing loop is why chronic pain tends to worsen over time without intervention -- each cycle deepens the attractor.
 - **The prediction-correction loop works against recovery.** The brain predicts pain, produces protective responses (muscle guarding, avoidance), and the resulting restricted movement confirms the prediction -- a self-fulfilling prophecy maintained by the same feedback mechanisms that make complex systems resistant to change.
 
 ## Examples
@@ -35,3 +36,5 @@ Chronic pain can become a learned attractor pattern where the brain automates th
 - [Nervous System as Complex System](nervous-system-as-complex-system.md) -- synthesis: the nervous system IS a complex system using attractors, feedback, self-organization, and adaptation
 - [body-map.md](body-map.md) -- learned pain can distort the body map by restricting movements that would maintain it
 - [protective-brain-mechanisms.md](protective-brain-mechanisms.md) -- learned pain is an automated form of the brain's protective response
+- [sensitization-and-hypervigilance.md](sensitization-and-hypervigilance.md) -- sensitization lowers thresholds, making learned pain patterns easier to trigger
+- [hebbian-learning.md](hebbian-learning.md) -- "neurons that fire together wire together" is the mechanism that automates pain responses

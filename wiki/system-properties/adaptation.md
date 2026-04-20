@@ -3,7 +3,7 @@ tags: [complexity, adaptation, dynamics]
 origin: foundational
 synthesis_sources: [agents-and-dynamics/exploration-vs-exploitation.md, learning/edge-of-chaos.md, learning/how-complex-systems-learn.md, system-properties/diversity-in-complex-systems.md, system-properties/variability-in-complex-systems.md]
 created: 2026-04-18
-updated: 2026-04-18
+updated: 2026-04-21
 ---
 
 # Adaptation
@@ -17,6 +17,10 @@ Adaptation is the process by which a complex system modifies its own structure a
 - **Irreversible.** A system cannot undo its adaptations — it can only develop new ones that modify or overlay the old. This is why a system's history is always present in its current state.
 - **Requires perturbation.** Without disturbance, there is nothing to adapt to. The edge of chaos defines the productive band: enough perturbation to trigger reorganization, not so much that the system collapses.
 - **Requires diversity.** A system with only one type of response can only adapt in one direction. Diversity of components, thresholds, and strategies provides the raw material from which new adaptive responses can emerge.
+- **Cellular adaptation requires four things.** At the biological level, adaptation needs raw materials (nutrients), energy (metabolic fuel), a stimulus (mechanical or chemical signal), and recovery time. Remove any one and adaptation stalls, regardless of how strong the others are.
+- **Two types: structural and learning.** Structural adaptation changes cellular tissue -- bone density, muscle fiber composition, connective tissue remodeling. Learning adaptation reorganizes the nervous system -- new motor patterns, updated threat assessments, refined body maps. Both operate simultaneously but on different timescales.
+- **"Use it or lose it" is active, not passive.** Unused tissue is not simply neglected -- it is actively dismantled by the body as an efficiency measure. Astronauts lose up to 40% of bone density within weeks in microgravity; bedridden patients experience similar losses. The body does not maintain what it does not need, because maintenance has metabolic cost.
+- **Lifelong.** Cells adapt until death regardless of age. The rate and magnitude may change, but the mechanism never stops. There is no age at which the body ceases to respond to stimulus -- only ages at which people stop providing it.
 
 ## The adaptation cycle
 
@@ -47,3 +51,6 @@ The balance between exploration and exploitation is regulated by diversity and v
 - [Body Map](../health-and-complexity/body-map.md) — body map plasticity is structural adaptation to demand
 - [Symptoms as Adaptive Responses](../health-and-complexity/symptoms-as-adaptive-responses.md) — symptoms are instances of self-organized adaptive capacity
 - [Nervous System as Complex System](../health-and-complexity/nervous-system-as-complex-system.md) — neural adaptation (body map plasticity, threshold shifts) is adaptation at the neural substrate level
+- [Sedentarism](../health-and-complexity/sedentarism.md) — sedentarism triggers "use it or lose it" dismantling across multiple body systems
+- [Evolutionary Mismatch](../health-and-complexity/evolutionary-mismatch.md) — modern environment removes the stimuli that drove ancestral adaptation
+- [Hebbian Learning](../health-and-complexity/hebbian-learning.md) — "neurons that fire together wire together" is the neural mechanism of learning-type adaptation

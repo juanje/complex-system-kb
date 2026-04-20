@@ -57,7 +57,6 @@ Approaching, understanding, and navigating complex problems.
 - [Skill Development](complex-problems/skill-development.md) — Building adaptive capacity for complex problems
 - [Slack / Buffer](complex-problems/slack-buffer.md) — Intentional margin for absorbing perturbations
 - [System Influence Parameters](complex-problems/system-influence-parameters.md) — Objectives, focus, limits, and constraints as levers
-- [Environment Design](complex-problems/environment-design.md) — Modifying affordances rather than relying on willpower
 - [Teams as Complex Systems](complex-problems/teams-as-complex-systems.md) — Applying complexity thinking to team productivity and organizational dynamics
 - [Technique vs. Skill](complex-problems/technique-vs-skill.md) — Fixed solutions vs. adaptive capacity
 - [Constraints-Led Approach](complex-problems/constraints-led-approach.md) — Designing practice environments through constraints for self-organized learning
@@ -74,18 +73,36 @@ Games, play, and simulation as tools for working with complex systems.
 
 Applying complexity thinking to health, movement, and the human body.
 
+- [Autonomic Nervous System](health-and-complexity/autonomic-nervous-system.md) — Sympathetic/parasympathetic modes and bidirectional breathing control
 - [Body Map](health-and-complexity/body-map.md) — Use-dependent cortical body representation (homunculus)
+- [Breathing and Health](health-and-complexity/breathing-and-health.md) — Respiratory-stabilization dual function and autonomic bidirectionality
+- [Cardiovascular System and Movement](health-and-complexity/cardiovascular-system-and-movement.md) — Skeletal muscle as local pump driving cellular nutrition
+- [Compensatory Movement Patterns](health-and-complexity/compensatory-movement-patterns.md) — Self-organized alternative solutions that become learned defaults
 - [Ecological Psychology](health-and-complexity/ecological-psychology.md) — Organism-environment as indivisible unit
 - [Epigenetics](health-and-complexity/epigenetics.md) — Gene expression modulated by environment, not genetic destiny
+- [Evolutionary Mismatch](health-and-complexity/evolutionary-mismatch.md) — Gap between evolved biology and modern environment as root of lifestyle disease
+- [Floor Sitting](health-and-complexity/floor-sitting.md) — Fundamental human capacity correlated with life expectancy
+- [Glute Amnesia](health-and-complexity/glute-amnesia.md) — Chronic neurological deactivation of the gluteus maximus
+- [Hanging](health-and-complexity/hanging.md) — Shoulder self-organization through brachiation heritage stimulus
 - [Health as a Complex Problem](health-and-complexity/health-as-complex-problem.md) — Why health requires complexity-aware approaches
+- [Hebbian Learning](health-and-complexity/hebbian-learning.md) — Neurons that fire together wire together; frequency over volume
+- [Joint Mobility and Motor Control](health-and-complexity/joint-mobility-and-motor-control.md) — Mobility as nervous system control, not tissue flexibility
 - [Learned Pain](health-and-complexity/learned-pain.md) — Chronic pain as automated attractor pattern
 - [Movement as Nutrition](health-and-complexity/movement-as-nutrition.md) — Movement variety as nutritional diversity for cellular health
-- [Nervous System as Complex System](health-and-complexity/nervous-system-as-complex-system.md) — Synthesis: the nervous system uses attractors, feedback, self-organization, and adaptation
+- [Nervous System as Complex System](health-and-complexity/nervous-system-as-complex-system.md) — Attractors, feedback, self-organization, and adaptation in the nervous system
+- [Nociception](health-and-complexity/nociception.md) — Alarm signal detection distinct from pain perception
 - [Pain as Perception](health-and-complexity/pain-as-perception.md) — Pain as brain construction, not tissue damage readout
 - [Proprioception](health-and-complexity/proprioception.md) — Body position sensory system for movement quality
 - [Protective Brain Mechanisms](health-and-complexity/protective-brain-mechanisms.md) — Conservative survival strategies: pain, fatigue, force reduction
+- [Sedentarism](health-and-complexity/sedentarism.md) — Over-specialization of movement driven by environment
+- [Sedentary Dysfunction Cascade](health-and-complexity/sedentary-dysfunction-cascade.md) — Interconnected chain of joint dysfunctions from feet to neck
 - [Sensation vs. Perception](health-and-complexity/sensation-vs-perception.md) — Raw sensory data vs brain's constructed interpretation
+- [Sensitization and Hypervigilance](health-and-complexity/sensitization-and-hypervigilance.md) — Neural amplification and map degradation in chronic pain
+- [Stress and Adaptation](health-and-complexity/stress-and-adaptation.md) — Hormesis, supercompensation, and the stress bucket model
 - [Symptoms as Adaptive Responses](health-and-complexity/symptoms-as-adaptive-responses.md) — Pain, fever, and inflammation as purposeful system features
+- [Three Steps Against Sedentarism](health-and-complexity/three-steps-against-sedentarism.md) — Walk, floor sit, hang: Pareto-optimal interventions
+- [Vestibular System](health-and-complexity/vestibular-system.md) — Balance as emergent multi-sensory perception
+- [Walking as Movement Practice](health-and-complexity/walking-as-movement-practice.md) — Walking as cognitive tool and proprioceptive practice
 
 ## Learning About Complexity
 
@@ -106,17 +123,19 @@ How to learn about and from complex systems.
 Key thinkers referenced across the knowledge base.
 
 - [Andy Clark](authors/andy-clark.md) — Predictive processing and extended mind thesis
+- [Arturo Goicochea](authors/arturo-goicochea.md) — Pain neuroscience and brain-generated perception
 - [Edward Lorenz](authors/edward-lorenz.md) — Butterfly effect and chaos theory
 - [Eliyahu Goldratt](authors/eliyahu-goldratt.md) — Theory of Constraints and bottleneck analysis
+- [James J. Gibson](authors/james-j-gibson.md) — Ecological psychology and affordances
+- [John Ratey](authors/john-ratey.md) — Exercise neuroscience and BDNF research
 - [Juanje Ojeda](authors/juanje-ojeda.md) — Blog author; complexity applied to health and movement
 - [Katy Bowman](authors/katy-bowman.md) — Movement-as-nutrition framework and biomechanics
 - [Nassim Taleb](authors/nassim-taleb.md) — Black Swans and Antifragility
 - [Nikolai Bernstein](authors/nikolai-bernstein.md) — Motor control and movement variability
 - [Rafe Kelley](authors/rafe-kelley.md) — Movement education through play-fighting and games
 - [Scott E. Page](authors/scott-e-page.md) — Diversity and Complexity
-- [Todd Hargrove](authors/todd-hargrove.md) — Movement science and complexity
-- [James J. Gibson](authors/james-j-gibson.md) — Ecological psychology and affordances
 - [Suzana Herculano-Houzel](authors/suzana-herculano-houzel.md) — Neuron counting and intelligence as behavioral flexibility
+- [Todd Hargrove](authors/todd-hargrove.md) — Movement science and complexity
 
 ## Glossary
 
@@ -136,18 +155,25 @@ Key thinkers referenced across the knowledge base.
 - **Edge of Chaos** — Band between stability and chaos where adaptation occurs. [→](learning/edge-of-chaos.md)
 - **Embodied Cognition** — Cognition as emergent property of the brain-body-environment system, not brain-bound computation. [→](learning/embodied-cognition.md)
 - **Extended Cognition** — Cognitive processes extending beyond the brain into tools and environment. [→](health-and-complexity/ecological-psychology.md)
+- **Evolutionary Mismatch** — Gap between evolved biology and modern environment causing lifestyle disease. [→](health-and-complexity/evolutionary-mismatch.md)
 - **Externality** — Effect on non-participants in an action or decision. [→](agents-and-dynamics/externality.md)
 - **Feedback** — Output redirected as input for system self-regulation. [→](system-properties/feedback.md)
 - **Fitness Landscape** — Terrain metaphor mapping solution quality to peaks and valleys. [→](complex-problems/fitness-landscape.md)
+- **Glute Amnesia** — Chronic neurological deactivation of the gluteus maximus through sitting and vestibular underactivity. [→](health-and-complexity/glute-amnesia.md)
+- **Hebbian Learning** — Neurons that fire together wire together; frequency over volume in neural pathway formation. [→](health-and-complexity/hebbian-learning.md)
 - **Hormesis** — Controlled stress that strengthens rather than weakens a system. [→](learning/edge-of-chaos.md)
+- **HRV** — Heart Rate Variability. Variation in time between heartbeats; higher variability indicates better adaptive capacity. [→](system-properties/variability-in-complex-systems.md)
 - **Invariant** — Property that remains constant regardless of system dynamics. [→](complex-problems/invariants.md)
 - **Meta-rule** — Higher-order rule created by strong agents on top of basic rules. [→](agents-and-dynamics/strong-and-weak-agents.md)
 - **Metastability** — Temporary equilibrium with potential energy for change. [→](learning/metastability.md)
 - **Negative Feedback** — Feedback that corrects/stabilizes behavior toward equilibrium. [→](system-properties/feedback.md)
+- **Nociception** — Detection of potentially harmful stimuli; alarm signal distinct from pain itself. [→](health-and-complexity/nociception.md)
 - **Path Dependence** — Prior decisions irreversibly constraining future possibilities. [→](system-properties/sensitivity-to-initial-conditions.md)
 - **Resilience** — Capacity to absorb perturbations and maintain functional organization. [→](system-properties/resilience.md)
 - **Positive Feedback** — Feedback that reinforces/amplifies current behavior. [→](system-properties/feedback.md)
 - **Search Space** — Set of possibilities a learner must explore; too large = wandering, well-bounded = genuine exploration. [→](learning/search-space.md)
+- **Sedentarism** — Over-specialization of movement patterns driven by environment, not just sitting too much. [→](health-and-complexity/sedentarism.md)
 - **Slack** — Intentional margin for absorbing unexpected perturbations. [→](complex-problems/slack-buffer.md)
+- **Supercompensation** — Improvement beyond baseline when optimal rest follows a stressor. [→](health-and-complexity/stress-and-adaptation.md)
 - **Threshold** — Critical value triggering state or behavior change. [→](agents-and-dynamics/threshold.md)
 - **Tipping Point** — Point at which a drastic change occurs in system behavior. [→](system-properties/tipping-points.md)
