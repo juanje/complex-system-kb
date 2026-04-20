@@ -22,12 +22,34 @@ Open the `wiki/` folder as an Obsidian vault. The internal links and graph view 
 The `CLAUDE.md` file configures the AI assistant to answer questions using **only** the wiki content — a lightweight RAG approach without a vector database. The assistant navigates the wiki's internal links progressively instead of relying on keyword search.
 
 ```bash
-cd blogs-kb
+cd complex-system-kb
 claude
-# then ask: "What is the edge of chaos?"
-# or: "What's the different between complicated, hard and complex problems?"
-# or: "Is the back pain a complicated or a complex problem?"
-# or: "What relationshipt there is between learning and adaptation?"
-# ...
 ```
+
+## Try asking
+
+The wiki shines when questions cross multiple topics. Here are some good starting points:
+
+### Complex systems and theory
+
+- "What is the edge of chaos, and why is it where adaptation happens?"
+- "If nobody is in charge, how does order emerge?"
+- "What's the difference between optimizing a system and actually improving it?"
+- "Why do small changes sometimes have huge consequences, and other times nothing happens?"
+- "How can bureaucracy be a form of intelligence?"
+
+### Health through the complexity lens
+
+- "Is back pain a complicated or a complex problem?"
+- "Why do my knees hurt going down stairs — and what does that have to do with my shoes?"
+- "I exercise 5 times a week. How can I still be sedentary?"
+- "Why doesn't stretching fix my tight hamstrings permanently?"
+- "What does jaw tension have to do with plantar fasciitis?"
+
+### Connecting both worlds
+
+- "What relationship is there between learning and adaptation?"
+- "How can understanding that pain is not damage actually reduce my pain?"
+- "What do Nassim Taleb and complex systems have to do with cold showers?"
+- "Why do diverse teams sometimes perform worse than homogeneous ones?"
 
