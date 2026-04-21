@@ -9,7 +9,7 @@ A markdown-based knowledge base on complex systems, extracted and translated int
 
 A set of interconnected wiki pages covering complex adaptive systems: emergence, attractors, feedback, adaptation, resilience, embodied cognition, agent dynamics, and more. Each page is atomic, densely linked, and structured with frontmatter, key points, examples, and connections.
 
-Built using [Claude Code](https://claude.com/claude-code) and the [wiki-kb skill](https://gitlab.com/juanjeojeda/wiki-kb).
+Built using [Claude Code](https://claude.com/claude-code) and the [wiki-kb skill](https://github.com/juanje/wiki-kb).
 
 ## How to use it
 
