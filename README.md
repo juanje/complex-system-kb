@@ -64,3 +64,7 @@ The wiki shines when questions cross multiple topics, but it's also a good place
 - "What do Nassim Taleb and complex systems have to do with cold showers?"
 - "Why do diverse teams sometimes perform worse than homogeneous ones?"
 
+## License
+
+This work is licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). You are free to share and adapt the content as long as you give appropriate credit and distribute your contributions under the same license.
+
